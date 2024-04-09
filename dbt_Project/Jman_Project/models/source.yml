@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: Jman_Project
+    database: JMAN_PROJECT
+    schema: public
+    tables:
+      - name: modules
+      - name: performance
+      - name: users
+      - name: worksessions

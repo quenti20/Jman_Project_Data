@@ -1,0 +1,24 @@
+name: "Jman_Project"
+version: "1.0.0"
+config-version: 2
+
+profile: "Jman_Project"
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  Jman_Project:
+    +database: JMAN_PROJECT
+    +materialized: table
+    staging:
+      +schema: staging
+    mart:
+      +schema: mart

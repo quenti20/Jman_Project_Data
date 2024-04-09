@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: training
+    columns:
+      - worksession_id
+      tests:
+        - unique
+        - not_null
+      # tests:
+      #   - unique:
+      #       columns: worksession_id
+      
