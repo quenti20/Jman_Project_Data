@@ -3,7 +3,7 @@ version: 2
 models:
   - name: training
     columns:
-      - worksession_id
+      - name: worksession_id
       tests:
         - unique
         - not_null

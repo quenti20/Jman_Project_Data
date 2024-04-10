@@ -2,7 +2,7 @@ name: "Jman_Project"
 version: "1.0.0"
 config-version: 2
 
-profile: "Jman_Project"
+profile: "Jman_Project"  # Use the appropriate profile name from your profiles.yml file
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
@@ -16,9 +16,9 @@ clean-targets:
 
 models:
   Jman_Project:
-    +database: JMAN_PROJECT
-    +materialized: table
+    database: JMAN_PROJECT  # Remove the '+' character from 'database' and 'schema'
+    materialized: table
     staging:
-      +schema: staging
+      schema: staging
     mart:
-      +schema: mart
+      schema: mart
