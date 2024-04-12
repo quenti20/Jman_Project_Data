@@ -1,0 +1,1001 @@
+Session_id,Training_name,Trainer_name,Duration,UserType,Status
+6618e4a2145643268cbdb339,React JS,Naveen Kumar S,253,Employee,Completed
+6618e4a2145643268cbdb33a,ADF,Gayathri G S,133,Intern,Completed
+6618e4a2145643268cbdb33b,Data Warehouse - ETL,Sivamalini V,223,Intern,Not Completed
+6618e4a2145643268cbdb33c,Quality Assurance Basics,Ajay S,47,Employee,Not Completed
+6618e4a2145643268cbdb33d,Data Warehouse - ETL,Sathish Kumar V,274,Intern,Completed
+6618e4a2145643268cbdb33e,Python for DS,Naveen Kumar S,59,Intern,Completed
+6618e4a2145643268cbdb33f,Data Warehouse - ETL,Radhakrishnan R,205,Employee,Completed
+6618e4a2145643268cbdb340,Python for DS,Dhanasekar Murugan,89,Intern,Completed
+6618e4a2145643268cbdb341,UI / UX Concept Figma,Rishikar B,25,Intern,Completed
+6618e4a2145643268cbdb342,DevOps Operations,Ajay S,44,Intern,Completed
+6618e4a2145643268cbdb343,UI / UX Concept Figma,Lejoy J,44,Intern,Not Completed
+6618e4a2145643268cbdb344,Quality Assurance Basics,Siddharth Sridhar,36,Intern,Not Completed
+6618e4a2145643268cbdb345,SQL,Ruthraraj R,238,Employee,Not Completed
+6618e4a2145643268cbdb346,React JS,Hariharan N,208,Employee,Not Completed
+6618e4a2145643268cbdb347,React JS,Pichhapati Venkata Naveen,183,Intern,Completed
+6618e4a2145643268cbdb348,Data Warehouse - ETL,Satyam Pandey S,255,Employee,Completed
+6618e4a2145643268cbdb349,Data Warehouse - ETL,Rekha Anandan,198,Intern,Completed
+6618e4a2145643268cbdb34a,React JS,Ankit Kumar Mishra,211,Employee,Not Completed
+6618e4a2145643268cbdb34b,ADF,Vigneshwaran Jeyakumar,134,Intern,Not Completed
+6618e4a2145643268cbdb34c,UI / UX Concept Figma,Gayathri V,41,Intern,Completed
+6618e4a2145643268cbdb34d,Security Testing,Rishikar B,67,Intern,Completed
+6618e4a2145643268cbdb34e,Data Warehouse - ETL,Disha Matilda B,223,Intern,Completed
+6618e4a2145643268cbdb34f,Quality Assurance Basics,Pichhapati Venkata Naveen,34,Intern,Not Completed
+6618e4a2145643268cbdb350,SQL,Himanshu Soni,200,Intern,Not Completed
+6618e4a2145643268cbdb351,React JS,Neshanth G,226,Employee,Not Completed
+6618e4a2145643268cbdb352,Data Warehouse - ETL,Kanike Lakshmi Narayana,199,Intern,Completed
+6618e4a2145643268cbdb353,Data Warehouse - ETL,Purvaja Vashistha,229,Employee,Completed
+6618e4a2145643268cbdb354,Git & Version Control,Venkata Charan Kumar Maddula,41,Employee,Not Completed
+6618e4a2145643268cbdb355,ML Basics,Purvaja Vashistha,193,Intern,Completed
+6618e4a2145643268cbdb356,React JS,Christopher D,238,Employee,Completed
+6618e4a2145643268cbdb357,Python for DS,Prasanth S,96,Intern,Not Completed
+6618e4a2145643268cbdb358,Cloud Platforms,Anil Prasad L,35,Employee,Completed
+6618e4a2145643268cbdb359,SQL,Christopher Raj,233,Intern,Not Completed
+6618e4a2145643268cbdb35a,Cloud Platforms,Vikas Vyavhare,31,Employee,Completed
+6618e4a2145643268cbdb35b,Cloud Platforms,Rajasundar Murugan Nadar C,17,Intern,Completed
+6618e4a2145643268cbdb35c,React JS,Purvaja Vashistha,190,Intern,Completed
+6618e4a2145643268cbdb35d,ADF,Pooja Nareshsinh Thakur,145,Intern,Not Completed
+6618e4a2145643268cbdb35e,ADF,Likhitha Gurram,141,Intern,Not Completed
+6618e4a2145643268cbdb35f,SQL,Prasanth S,246,Employee,Completed
+6618e4a2145643268cbdb360,DevOps Operations,Vignesh Anantharaj,40,Employee,Completed
+6618e4a2145643268cbdb361,DevOps Operations,Keerthika Kannan,51,Intern,Completed
+6618e4a2145643268cbdb362,Security Testing,Christopher Raj,85,Employee,Completed
+6618e4a2145643268cbdb363,Quality Assurance Basics,Purvaja Vashistha,44,Employee,Completed
+6618e4a2145643268cbdb364,SQL,Rekha Anandan,163,Employee,Completed
+6618e4a2145643268cbdb365,React JS,Ravishankar P,208,Intern,Completed
+6618e4a2145643268cbdb366,SQL,Naga Sandeep Reddy P,158,Intern,Completed
+6618e4a2145643268cbdb367,Git & Version Control,Babu G,37,Employee,Completed
+6618e4a2145643268cbdb368,Quality Assurance Basics,Arun Prasanth S,43,Intern,Not Completed
+6618e4a2145643268cbdb369,Cloud Platforms,Rishikar B,32,Employee,Completed
+6618e4a2145643268cbdb36a,Data Warehouse - ETL,Lejoy J,307,Employee,Not Completed
+6618e4a2145643268cbdb36b,Quality Assurance Basics,Arjun Ganesan,42,Employee,Completed
+6618e4a2145643268cbdb36c,DevOps Operations,Michael Leovalan,58,Employee,Not Completed
+6618e4a2145643268cbdb36d,React JS,Naveen Kumar S,254,Employee,Completed
+6618e4a2145643268cbdb36e,ADF,Neshanth G,138,Employee,Completed
+6618e4a2145643268cbdb36f,Quality Assurance Basics,Gayathri G S,44,Intern,Not Completed
+6618e4a2145643268cbdb370,Git & Version Control,Swatikka C,42,Employee,Not Completed
+6618e4a2145643268cbdb371,React JS,Ruthraraj R,194,Intern,Completed
+6618e4a2145643268cbdb372,Security Testing,Gayathri G S,89,Employee,Not Completed
+6618e4a2145643268cbdb373,Quality Assurance Basics,Ravishankar P,40,Employee,Completed
+6618e4a2145643268cbdb374,Data Warehouse - ETL,Venkata Charan Kumar Maddula,200,Intern,Completed
+6618e4a2145643268cbdb375,Quality Assurance Basics,Rishikar B,39,Intern,Not Completed
+6618e4a2145643268cbdb376,Git & Version Control,Hariharan N,28,Intern,Completed
+6618e4a2145643268cbdb377,Data Warehouse - ETL,Disha Matilda B,283,Employee,Not Completed
+6618e4a2145643268cbdb378,React JS,Akkim Balaji C,243,Employee,Not Completed
+6618e4a2145643268cbdb379,Data Warehouse - ETL,Rekha Anandan,246,Employee,Completed
+6618e4a2145643268cbdb37a,Git & Version Control,Anto Arokia Mary N L,41,Intern,Not Completed
+6618e4a2145643268cbdb37b,SQL,Siddharth Sridhar,230,Intern,Not Completed
+6618e4a2145643268cbdb37c,React JS,Arjun Ganesan,181,Employee,Not Completed
+6618e4a2145643268cbdb37d,UI / UX Concept Figma,Sachinvias Gopalakrishnan,67,Employee,Not Completed
+6618e4a2145643268cbdb37e,ML Basics,Radhakrishnan R,193,Intern,Completed
+6618e4a2145643268cbdb37f,Data Warehouse - ETL,Satyam Pandey S,305,Employee,Not Completed
+6618e4a2145643268cbdb380,DevOps Operations,Venkata Charan Kumar Maddula,63,Employee,Not Completed
+6618e4a2145643268cbdb381,Cloud Platforms,Achyut Pramod,30,Intern,Not Completed
+6618e4a2145643268cbdb382,Cloud Platforms,Vigneshwaran Jeyakumar,33,Employee,Completed
+6618e4a2145643268cbdb383,DevOps Operations,Prasanth S,34,Intern,Completed
+6618e4a2145643268cbdb384,DevOps Operations,Kundan Kumar S,46,Employee,Not Completed
+6618e4a2145643268cbdb385,Python for DS,Keerthika Kannan,58,Intern,Completed
+6618e4a2145643268cbdb386,Git & Version Control,Nivya V,44,Intern,Not Completed
+6618e4a2145643268cbdb387,SQL,Sachinvias Gopalakrishnan,170,Intern,Not Completed
+6618e4a2145643268cbdb388,Quality Assurance Basics,Sourav Kumar,41,Employee,Not Completed
+6618e4a2145643268cbdb389,Cloud Platforms,Rishikar B,20,Intern,Not Completed
+6618e4a2145643268cbdb38a,ADF,Arjun Ganesan,150,Intern,Not Completed
+6618e4a2145643268cbdb38b,Quality Assurance Basics,Kundan Kumar S,27,Intern,Completed
+6618e4a2145643268cbdb38c,UI / UX Concept Figma,Purvaja Vashistha,36,Intern,Completed
+6618e4a2145643268cbdb38d,Python for DS,Molly Buxton,88,Employee,Not Completed
+6618e4a2145643268cbdb38e,UI / UX Concept Figma,Kanike Lakshmi Narayana,48,Intern,Completed
+6618e4a2145643268cbdb38f,DevOps Operations,Vignesh Anantharaj,52,Employee,Completed
+6618e4a2145643268cbdb390,Quality Assurance Basics,Kanike Lakshmi Narayana,29,Intern,Completed
+6618e4a2145643268cbdb391,React JS,Rajasundar Murugan Nadar C,158,Intern,Not Completed
+6618e4a2145643268cbdb392,Cloud Platforms,Gayathri V,34,Employee,Completed
+6618e4a2145643268cbdb393,Data Warehouse - ETL,Christopher Raj,217,Intern,Completed
+6618e4a2145643268cbdb394,DevOps Operations,Gayathri V,48,Intern,Not Completed
+6618e4a2145643268cbdb395,ADF,Sivamalini V,136,Employee,Not Completed
+6618e4a2145643268cbdb396,Security Testing,Felix Raj C,75,Intern,Not Completed
+6618e4a2145643268cbdb397,DevOps Operations,Ankit Kumar Mishra,42,Employee,Completed
+6618e4a2145643268cbdb398,UI / UX Concept Figma,Hariharan N,54,Employee,Completed
+6618e4a2145643268cbdb399,UI / UX Concept Figma,Anto Arokia Mary N L,53,Employee,Completed
+6618e4a2145643268cbdb39a,ADF,Vigneshwaran Jeyakumar,128,Employee,Completed
+6618e4a2145643268cbdb39b,Data Warehouse - ETL,Sachinvias Gopalakrishnan,224,Intern,Completed
+6618e4a2145643268cbdb39c,SQL,Neshanth G,184,Employee,Not Completed
+6618e4a2145643268cbdb39d,SQL,Neshanth G,233,Employee,Not Completed
+6618e4a2145643268cbdb39e,UI / UX Concept Figma,Himanshu Soni,42,Employee,Completed
+6618e4a2145643268cbdb39f,Quality Assurance Basics,Ruthraraj R,51,Employee,Not Completed
+6618e4a2145643268cbdb3a0,ADF,Achyut Pramod,135,Employee,Completed
+6618e4a2145643268cbdb3a1,Python for DS,Arjun Ganesan,68,Employee,Completed
+6618e4a2145643268cbdb3a2,Cloud Platforms,Naga Sandeep Reddy P,31,Employee,Completed
+6618e4a2145643268cbdb3a3,Security Testing,Satyam Pandey S,63,Intern,Not Completed
+6618e4a2145643268cbdb3a4,SQL,Hariharan N,202,Employee,Completed
+6618e4a2145643268cbdb3a5,Security Testing,Divya R,75,Intern,Completed
+6618e4a2145643268cbdb3a6,React JS,Likhitha Gurram,245,Intern,Completed
+6618e4a2145643268cbdb3a7,Git & Version Control,Lavanya R,38,Intern,Not Completed
+6618e4a2145643268cbdb3a8,Python for DS,Divya R,87,Employee,Not Completed
+6618e4a2145643268cbdb3a9,DevOps Operations,Akkim Balaji C,46,Employee,Completed
+6618e4a2145643268cbdb3aa,ML Basics,Radhakrishnan R,139,Employee,Not Completed
+6618e4a2145643268cbdb3ab,Quality Assurance Basics,Sriram Krishnamoorthy,29,Intern,Completed
+6618e4a2145643268cbdb3ac,ML Basics,Pooja Nareshsinh Thakur,169,Employee,Not Completed
+6618e4a2145643268cbdb3ad,React JS,Harish P,155,Intern,Completed
+6618e4a2145643268cbdb3ae,SQL,Nivya V,229,Intern,Completed
+6618e4a2145643268cbdb3af,Security Testing,Venkata Charan Kumar Maddula,74,Employee,Completed
+6618e4a2145643268cbdb3b0,DevOps Operations,Hariharan N,47,Employee,Not Completed
+6618e4a2145643268cbdb3b1,ML Basics,Neshanth G,160,Intern,Not Completed
+6618e4a2145643268cbdb3b2,Data Warehouse - ETL,Shirpi A,236,Employee,Completed
+6618e4a2145643268cbdb3b3,ADF,Siddharth Sridhar,125,Employee,Completed
+6618e4a2145643268cbdb3b4,Security Testing,Neshanth G,73,Employee,Not Completed
+6618e4a2145643268cbdb3b5,ADF,Dhanasekar Murugan,146,Employee,Not Completed
+6618e4a2145643268cbdb3b6,DevOps Operations,Christopher D,45,Employee,Not Completed
+6618e4a2145643268cbdb3b7,Security Testing,Radhakrishnan R,83,Employee,Completed
+6618e4a2145643268cbdb3b8,UI / UX Concept Figma,Vendeeshwaran C,41,Employee,Completed
+6618e4a2145643268cbdb3b9,ADF,Vikas Vyavhare,146,Employee,Not Completed
+6618e4a2145643268cbdb3ba,Python for DS,Ravishankar P,84,Intern,Completed
+6618e4a2145643268cbdb3bb,UI / UX Concept Figma,Sathish Kumar V,54,Employee,Completed
+6618e4a2145643268cbdb3bc,Security Testing,Purvaja Vashistha,83,Employee,Not Completed
+6618e4a2145643268cbdb3bd,ADF,Ajay S,130,Intern,Not Completed
+6618e4a2145643268cbdb3be,Python for DS,Arun Prasanth S,83,Employee,Not Completed
+6618e4a2145643268cbdb3bf,SQL,Satyam Pandey S,150,Intern,Completed
+6618e4a2145643268cbdb3c0,Python for DS,Lavanya R,55,Intern,Completed
+6618e4a2145643268cbdb3c1,DevOps Operations,Vigneshwaran Jeyakumar,56,Intern,Not Completed
+6618e4a2145643268cbdb3c2,Security Testing,Hariharan N,71,Intern,Not Completed
+6618e4a2145643268cbdb3c3,ML Basics,Prasanth S,117,Intern,Not Completed
+6618e4a2145643268cbdb3c4,UI / UX Concept Figma,Prasanth S,36,Employee,Completed
+6618e4a2145643268cbdb3c5,React JS,Ruthraraj R,163,Employee,Completed
+6618e4a2145643268cbdb3c6,Git & Version Control,Sathish Kumar V,48,Employee,Completed
+6618e4a2145643268cbdb3c7,React JS,Vikas Vyavhare,177,Intern,Not Completed
+6618e4a2145643268cbdb3c8,Python for DS,Rajasundar Murugan Nadar C,92,Intern,Not Completed
+6618e4a2145643268cbdb3c9,Git & Version Control,Lejoy J,41,Employee,Completed
+6618e4a2145643268cbdb3ca,Quality Assurance Basics,Sachinvias Gopalakrishnan,30,Intern,Completed
+6618e4a2145643268cbdb3cb,React JS,Michael Leovalan,183,Intern,Completed
+6618e4a2145643268cbdb3cc,Data Warehouse - ETL,Rekha Anandan,241,Employee,Not Completed
+6618e4a2145643268cbdb3cd,Git & Version Control,Pooja Nareshsinh Thakur,48,Employee,Completed
+6618e4a2145643268cbdb3ce,React JS,Gayathri V,195,Employee,Not Completed
+6618e4a2145643268cbdb3cf,Quality Assurance Basics,Sameer Basha B,42,Intern,Not Completed
+6618e4a2145643268cbdb3d0,SQL,Vigneshwaran Jeyakumar,177,Intern,Not Completed
+6618e4a2145643268cbdb3d1,ADF,Swatikka C,137,Employee,Not Completed
+6618e4a2145643268cbdb3d2,ML Basics,Rekha Anandan,133,Intern,Not Completed
+6618e4a2145643268cbdb3d3,UI / UX Concept Figma,Hariharan N,45,Intern,Not Completed
+6618e4a2145643268cbdb3d4,Security Testing,Christopher Raj,69,Intern,Completed
+6618e4a2145643268cbdb3d5,SQL,Swatikka C,150,Intern,Completed
+6618e4a2145643268cbdb3d6,ADF,Swatikka C,135,Employee,Completed
+6618e4a2145643268cbdb3d7,Data Warehouse - ETL,Shirpi A,249,Employee,Completed
+6618e4a2145643268cbdb3d8,ML Basics,Harish P,193,Intern,Completed
+6618e4a2145643268cbdb3d9,ADF,Vendeeshwaran C,145,Employee,Not Completed
+6618e4a2145643268cbdb3da,Python for DS,Vikas Vyavhare,110,Employee,Not Completed
+6618e4a2145643268cbdb3db,React JS,Venkata Charan Kumar Maddula,196,Intern,Not Completed
+6618e4a2145643268cbdb3dc,Security Testing,Vigneshwaran Jeyakumar,71,Intern,Completed
+6618e4a2145643268cbdb3dd,DevOps Operations,Ravishankar P,43,Intern,Not Completed
+6618e4a2145643268cbdb3de,DevOps Operations,Ankit Kumar Mishra,37,Intern,Not Completed
+6618e4a2145643268cbdb3df,UI / UX Concept Figma,Rishikar B,53,Employee,Completed
+6618e4a2145643268cbdb3e0,Git & Version Control,Disha Matilda B,28,Intern,Completed
+6618e4a2145643268cbdb3e1,Python for DS,Arjun Ganesan,95,Intern,Not Completed
+6618e4a2145643268cbdb3e2,React JS,Prasanth S,168,Employee,Not Completed
+6618e4a2145643268cbdb3e3,ADF,Divya R,119,Intern,Completed
+6618e4a2145643268cbdb3e4,Python for DS,Lejoy J,76,Intern,Not Completed
+6618e4a2145643268cbdb3e5,ADF,Gayathri G S,126,Intern,Completed
+6618e4a2145643268cbdb3e6,Security Testing,Michael Leovalan,73,Intern,Not Completed
+6618e4a2145643268cbdb3e7,UI / UX Concept Figma,Disha Matilda B,40,Intern,Completed
+6618e4a2145643268cbdb3e8,Cloud Platforms,Vendeeshwaran C,30,Employee,Not Completed
+6618e4a2145643268cbdb3e9,Security Testing,Lavanya R,70,Employee,Not Completed
+6618e4a2145643268cbdb3ea,Quality Assurance Basics,Gopinath Ramesh,35,Employee,Completed
+6618e4a2145643268cbdb3eb,Python for DS,Christopher D,90,Intern,Completed
+6618e4a2145643268cbdb3ec,Python for DS,Sathish Kumar V,79,Intern,Completed
+6618e4a2145643268cbdb3ed,Git & Version Control,Neshanth G,36,Intern,Not Completed
+6618e4a2145643268cbdb3ee,Git & Version Control,Arun Prasanth S,37,Intern,Completed
+6618e4a2145643268cbdb3ef,Python for DS,Pichhapati Venkata Naveen,61,Intern,Completed
+6618e4a2145643268cbdb3f0,Git & Version Control,Gayathri G S,39,Intern,Completed
+6618e4a2145643268cbdb3f1,Security Testing,Kundan Kumar S,84,Employee,Completed
+6618e4a2145643268cbdb3f2,Cloud Platforms,Rekha Anandan,15,Intern,Completed
+6618e4a2145643268cbdb3f3,Python for DS,Kundan Kumar S,86,Intern,Completed
+6618e4a2145643268cbdb3f4,UI / UX Concept Figma,Sriram Krishnamoorthy,42,Employee,Completed
+6618e4a2145643268cbdb3f5,Cloud Platforms,Keerthika Kannan,20,Intern,Not Completed
+6618e4a2145643268cbdb3f6,Quality Assurance Basics,Pichhapati Venkata Naveen,46,Employee,Not Completed
+6618e4a2145643268cbdb3f7,DevOps Operations,Kanike Lakshmi Narayana,41,Intern,Not Completed
+6618e4a2145643268cbdb3f8,UI / UX Concept Figma,Gopinath Ramesh,52,Employee,Not Completed
+6618e4a2145643268cbdb3f9,Quality Assurance Basics,Keerthika Kannan,42,Employee,Not Completed
+6618e4a2145643268cbdb3fa,SQL,Gayathri G S,227,Employee,Not Completed
+6618e4a2145643268cbdb3fb,ADF,Sathish Kumar V,135,Employee,Not Completed
+6618e4a2145643268cbdb3fc,DevOps Operations,Felix Raj C,70,Employee,Not Completed
+6618e4a2145643268cbdb3fd,Data Warehouse - ETL,Venkata Charan Kumar Maddula,197,Intern,Completed
+6618e4a2145643268cbdb3fe,ADF,Harish P,120,Intern,Completed
+6618e4a2145643268cbdb3ff,Security Testing,Sourav Kumar,71,Intern,Not Completed
+6618e4a2145643268cbdb400,DevOps Operations,Vendeeshwaran C,51,Intern,Not Completed
+6618e4a2145643268cbdb401,DevOps Operations,Divya R,46,Employee,Completed
+6618e4a2145643268cbdb402,DevOps Operations,Hariharan N,42,Intern,Not Completed
+6618e4a2145643268cbdb403,UI / UX Concept Figma,Rekha Anandan,48,Employee,Not Completed
+6618e4a2145643268cbdb404,ML Basics,Arjun Ganesan,127,Intern,Completed
+6618e4a2145643268cbdb405,Data Warehouse - ETL,Naga Sandeep Reddy P,236,Intern,Completed
+6618e4a2145643268cbdb406,Data Warehouse - ETL,Rekha Anandan,295,Employee,Not Completed
+6618e4a2145643268cbdb407,Cloud Platforms,Arjun Ganesan,13,Intern,Completed
+6618e4a2145643268cbdb408,ADF,Vignesh Anantharaj,151,Employee,Not Completed
+6618e4a2145643268cbdb409,Quality Assurance Basics,Lavanya R,40,Employee,Not Completed
+6618e4a2145643268cbdb40a,ML Basics,Vignesh Anantharaj,146,Employee,Completed
+6618e4a2145643268cbdb40b,SQL,Lejoy J,207,Employee,Not Completed
+6618e4a2145643268cbdb40c,UI / UX Concept Figma,Rekha Anandan,41,Employee,Not Completed
+6618e4a2145643268cbdb40d,Security Testing,Ravishankar P,70,Employee,Completed
+6618e4a2145643268cbdb40e,DevOps Operations,Naga Sandeep Reddy P,58,Employee,Completed
+6618e4a2145643268cbdb40f,Git & Version Control,Christopher Raj,33,Intern,Not Completed
+6618e4a2145643268cbdb410,ML Basics,Purvaja Vashistha,125,Employee,Completed
+6618e4a2145643268cbdb411,Git & Version Control,Naga Sandeep Reddy P,50,Employee,Completed
+6618e4a2145643268cbdb412,Python for DS,Christopher D,56,Intern,Completed
+6618e4a2145643268cbdb413,Cloud Platforms,Felix Raj C,16,Intern,Not Completed
+6618e4a2145643268cbdb414,UI / UX Concept Figma,Kanike Lakshmi Narayana,53,Intern,Not Completed
+6618e4a2145643268cbdb415,ML Basics,Kundan Kumar S,105,Intern,Not Completed
+6618e4a2145643268cbdb416,Python for DS,Purvaja Vashistha,92,Employee,Not Completed
+6618e4a2145643268cbdb417,DevOps Operations,Naveen Kumar S,38,Intern,Completed
+6618e4a2145643268cbdb418,UI / UX Concept Figma,Sriram Krishnamoorthy,36,Employee,Completed
+6618e4a2145643268cbdb419,Quality Assurance Basics,Divya R,39,Employee,Completed
+6618e4a2145643268cbdb41a,ML Basics,Radhakrishnan R,170,Employee,Completed
+6618e4a2145643268cbdb41b,ML Basics,Vendeeshwaran C,170,Employee,Completed
+6618e4a2145643268cbdb41c,SQL,Dhanasekar Murugan,212,Intern,Completed
+6618e4a2145643268cbdb41d,DevOps Operations,Likhitha Gurram,49,Employee,Not Completed
+6618e4a2145643268cbdb41e,ADF,Venkata Charan Kumar Maddula,132,Intern,Not Completed
+6618e4a2145643268cbdb41f,Security Testing,Gayathri V,85,Employee,Not Completed
+6618e4a2145643268cbdb420,Quality Assurance Basics,Venkata Charan Kumar Maddula,53,Employee,Not Completed
+6618e4a2145643268cbdb421,Quality Assurance Basics,Purvaja Vashistha,36,Intern,Not Completed
+6618e4a2145643268cbdb422,Python for DS,Ankit Kumar Mishra,78,Employee,Completed
+6618e4a2145643268cbdb423,Security Testing,Naveen Kumar S,71,Intern,Completed
+6618e4a2145643268cbdb424,Quality Assurance Basics,Molly Buxton,46,Employee,Not Completed
+6618e4a2145643268cbdb425,Python for DS,Ankit Kumar Mishra,67,Intern,Not Completed
+6618e4a2145643268cbdb426,ADF,Dhaneshwaran D,128,Intern,Completed
+6618e4a2145643268cbdb427,Python for DS,Vignesh Anantharaj,61,Intern,Not Completed
+6618e4a2145643268cbdb428,DevOps Operations,Shirpi A,36,Intern,Not Completed
+6618e4a2145643268cbdb429,ADF,Gayathri G S,118,Intern,Completed
+6618e4a2145643268cbdb42a,DevOps Operations,Vendeeshwaran C,58,Employee,Not Completed
+6618e4a2145643268cbdb42b,Git & Version Control,Harish P,32,Intern,Completed
+6618e4a2145643268cbdb42c,DevOps Operations,Keerthika Kannan,61,Employee,Completed
+6618e4a2145643268cbdb42d,ADF,Achyut Pramod,137,Employee,Completed
+6618e4a2145643268cbdb42e,ADF,Gayathri G S,135,Intern,Not Completed
+6618e4a2145643268cbdb42f,DevOps Operations,Molly Buxton,58,Employee,Completed
+6618e4a2145643268cbdb430,Cloud Platforms,Achyut Pramod,22,Employee,Completed
+6618e4a2145643268cbdb431,Data Warehouse - ETL,Siddharth Sridhar,257,Intern,Not Completed
+6618e4a2145643268cbdb432,UI / UX Concept Figma,Christopher D,45,Employee,Completed
+6618e4a2145643268cbdb433,UI / UX Concept Figma,Purvaja Vashistha,40,Intern,Not Completed
+6618e4a2145643268cbdb434,Cloud Platforms,Sourav Kumar,29,Intern,Not Completed
+6618e4a2145643268cbdb435,Cloud Platforms,Likhitha Gurram,11,Intern,Completed
+6618e4a2145643268cbdb436,Security Testing,Siddharth Sridhar,77,Employee,Completed
+6618e4a2145643268cbdb437,UI / UX Concept Figma,Anil Prasad L,32,Intern,Completed
+6618e4a2145643268cbdb438,ADF,Vendeeshwaran C,121,Intern,Completed
+6618e4a2145643268cbdb439,ADF,Gayathri G S,140,Employee,Completed
+6618e4a2145643268cbdb43a,React JS,Sourav Kumar,168,Employee,Completed
+6618e4a2145643268cbdb43b,Cloud Platforms,Nivya V,23,Intern,Completed
+6618e4a2145643268cbdb43c,Cloud Platforms,Rishikar B,28,Employee,Not Completed
+6618e4a2145643268cbdb43d,Git & Version Control,Shirpi A,34,Intern,Completed
+6618e4a2145643268cbdb43e,DevOps Operations,Arun Prasanth S,28,Intern,Completed
+6618e4a2145643268cbdb43f,Security Testing,Prasanth S,57,Intern,Completed
+6618e4a2145643268cbdb440,DevOps Operations,Arjun Ganesan,52,Intern,Not Completed
+6618e4a2145643268cbdb441,Python for DS,Rishikar B,64,Intern,Completed
+6618e4a2145643268cbdb442,React JS,Satyam Pandey S,248,Employee,Completed
+6618e4a2145643268cbdb443,Security Testing,Lejoy J,79,Intern,Not Completed
+6618e4a2145643268cbdb444,SQL,Dhanasekar Murugan,191,Employee,Not Completed
+6618e4a2145643268cbdb445,Quality Assurance Basics,Felix Raj C,26,Intern,Completed
+6618e4a2145643268cbdb446,ADF,Vignesh Anantharaj,140,Intern,Completed
+6618e4a2145643268cbdb447,Data Warehouse - ETL,Dhanasekar Murugan,280,Employee,Completed
+6618e4a2145643268cbdb448,Data Warehouse - ETL,Vendeeshwaran C,200,Intern,Completed
+6618e4a2145643268cbdb449,Quality Assurance Basics,Michael Leovalan,44,Employee,Not Completed
+6618e4a2145643268cbdb44a,Python for DS,Neshanth G,86,Employee,Completed
+6618e4a2145643268cbdb44b,Security Testing,Swatikka C,62,Intern,Not Completed
+6618e4a2145643268cbdb44c,DevOps Operations,Christopher D,42,Employee,Completed
+6618e4a2145643268cbdb44d,Cloud Platforms,Felix Raj C,37,Employee,Not Completed
+6618e4a2145643268cbdb44e,React JS,Radhakrishnan R,236,Employee,Not Completed
+6618e4a2145643268cbdb44f,Quality Assurance Basics,Sivamalini V,42,Intern,Not Completed
+6618e4a2145643268cbdb450,ML Basics,Akkim Balaji C,112,Intern,Not Completed
+6618e4a2145643268cbdb451,React JS,Venkata Charan Kumar Maddula,191,Intern,Not Completed
+6618e4a2145643268cbdb452,Quality Assurance Basics,Shirpi A,35,Employee,Completed
+6618e4a2145643268cbdb453,Git & Version Control,Rekha Anandan,27,Intern,Completed
+6618e4a2145643268cbdb454,ML Basics,Christopher Raj,133,Employee,Completed
+6618e4a2145643268cbdb455,Cloud Platforms,Satyam Pandey S,26,Employee,Completed
+6618e4a2145643268cbdb456,UI / UX Concept Figma,Likhitha Gurram,51,Intern,Completed
+6618e4a2145643268cbdb457,DevOps Operations,Prasanth S,57,Employee,Completed
+6618e4a2145643268cbdb458,ADF,Satyam Pandey S,134,Employee,Completed
+6618e4a2145643268cbdb459,Git & Version Control,Arjun Ganesan,51,Employee,Not Completed
+6618e4a2145643268cbdb45a,Data Warehouse - ETL,Neshanth G,225,Intern,Not Completed
+6618e4a2145643268cbdb45b,Data Warehouse - ETL,Anto Arokia Mary N L,255,Employee,Not Completed
+6618e4a2145643268cbdb45c,DevOps Operations,Neshanth G,65,Employee,Completed
+6618e4a2145643268cbdb45d,ML Basics,Keerthika Kannan,185,Employee,Completed
+6618e4a2145643268cbdb45e,React JS,Purvaja Vashistha,154,Intern,Not Completed
+6618e4a2145643268cbdb45f,Git & Version Control,Rajasundar Murugan Nadar C,44,Employee,Not Completed
+6618e4a2145643268cbdb460,Security Testing,Vigneshwaran Jeyakumar,75,Employee,Completed
+6618e4a2145643268cbdb461,ADF,Livin Albert B,128,Intern,Completed
+6618e4a2145643268cbdb462,UI / UX Concept Figma,Purvaja Vashistha,50,Intern,Not Completed
+6618e4a2145643268cbdb463,Data Warehouse - ETL,Molly Buxton,301,Employee,Not Completed
+6618e4a2145643268cbdb464,Git & Version Control,Gopinath Ramesh,46,Employee,Not Completed
+6618e4a2145643268cbdb465,DevOps Operations,Sivamalini V,49,Intern,Not Completed
+6618e4a2145643268cbdb466,UI / UX Concept Figma,Felix Raj C,34,Intern,Not Completed
+6618e4a2145643268cbdb467,UI / UX Concept Figma,Michael Leovalan,35,Intern,Completed
+6618e4a2145643268cbdb468,React JS,Babu G,181,Intern,Completed
+6618e4a2145643268cbdb469,Cloud Platforms,Akkim Balaji C,18,Intern,Not Completed
+6618e4a2145643268cbdb46a,Git & Version Control,Vignesh Anantharaj,43,Employee,Completed
+6618e4a2145643268cbdb46b,React JS,Keerthika Kannan,228,Employee,Not Completed
+6618e4a2145643268cbdb46c,Python for DS,Ravishankar P,76,Intern,Completed
+6618e4a2145643268cbdb46d,ML Basics,Dhaneshwaran D,114,Intern,Completed
+6618e4a2145643268cbdb46e,Quality Assurance Basics,Gayathri V,47,Employee,Completed
+6618e4a2145643268cbdb46f,ADF,Michael Leovalan,139,Intern,Completed
+6618e4a2145643268cbdb470,Data Warehouse - ETL,Molly Buxton,219,Employee,Not Completed
+6618e4a2145643268cbdb471,SQL,Pooja Nareshsinh Thakur,240,Intern,Not Completed
+6618e4a2145643268cbdb472,ADF,Michael Leovalan,150,Employee,Completed
+6618e4a2145643268cbdb473,UI / UX Concept Figma,Achyut Pramod,39,Intern,Completed
+6618e4a2145643268cbdb474,Cloud Platforms,Livin Albert B,34,Employee,Not Completed
+6618e4a2145643268cbdb475,ADF,Pichhapati Venkata Naveen,129,Intern,Not Completed
+6618e4a2145643268cbdb476,Quality Assurance Basics,Prasanth S,41,Intern,Not Completed
+6618e4a2145643268cbdb477,Python for DS,Gayathri V,83,Employee,Completed
+6618e4a2145643268cbdb478,ML Basics,Michael Leovalan,153,Intern,Completed
+6618e4a2145643268cbdb479,Python for DS,Radhakrishnan R,78,Intern,Not Completed
+6618e4a2145643268cbdb47a,Python for DS,Naga Sandeep Reddy P,61,Intern,Completed
+6618e4a2145643268cbdb47b,Cloud Platforms,Molly Buxton,37,Employee,Not Completed
+6618e4a2145643268cbdb47c,Quality Assurance Basics,Shirpi A,45,Employee,Not Completed
+6618e4a2145643268cbdb47d,Git & Version Control,Sameer Basha B,44,Employee,Completed
+6618e4a2145643268cbdb47e,SQL,Lavanya R,204,Intern,Completed
+6618e4a2145643268cbdb47f,Data Warehouse - ETL,Sathish Kumar V,197,Intern,Completed
+6618e4a2145643268cbdb480,ADF,Ajay S,124,Intern,Completed
+6618e4a2145643268cbdb481,Security Testing,Rekha Anandan,63,Intern,Not Completed
+6618e4a2145643268cbdb482,Python for DS,Felix Raj C,71,Employee,Completed
+6618e4a2145643268cbdb483,Python for DS,Divya R,89,Employee,Not Completed
+6618e4a2145643268cbdb484,Git & Version Control,Pichhapati Venkata Naveen,36,Employee,Completed
+6618e4a2145643268cbdb485,Data Warehouse - ETL,Pooja Nareshsinh Thakur,287,Intern,Completed
+6618e4a2145643268cbdb486,Cloud Platforms,Dhanasekar Murugan,12,Intern,Completed
+6618e4a2145643268cbdb487,React JS,Naga Sandeep Reddy P,226,Intern,Completed
+6618e4a2145643268cbdb488,Data Warehouse - ETL,Anil Prasad L,299,Employee,Not Completed
+6618e4a2145643268cbdb489,Data Warehouse - ETL,Michael Leovalan,254,Employee,Not Completed
+6618e4a2145643268cbdb48a,ADF,Disha Matilda B,129,Employee,Completed
+6618e4a2145643268cbdb48b,SQL,Rajasundar Murugan Nadar C,167,Employee,Not Completed
+6618e4a2145643268cbdb48c,Quality Assurance Basics,Purvaja Vashistha,44,Employee,Not Completed
+6618e4a2145643268cbdb48d,UI / UX Concept Figma,Sriram Krishnamoorthy,56,Employee,Completed
+6618e4a2145643268cbdb48e,Data Warehouse - ETL,Dhanasekar Murugan,274,Intern,Not Completed
+6618e4a2145643268cbdb48f,SQL,Gopinath Ramesh,174,Intern,Completed
+6618e4a2145643268cbdb490,Git & Version Control,Arun Prasanth S,42,Employee,Completed
+6618e4a2145643268cbdb491,Git & Version Control,Prasanth S,36,Intern,Completed
+6618e4a2145643268cbdb492,Data Warehouse - ETL,Naga Sandeep Reddy P,280,Intern,Not Completed
+6618e4a2145643268cbdb493,Python for DS,Arun Prasanth S,73,Employee,Not Completed
+6618e4a2145643268cbdb494,UI / UX Concept Figma,Ajay S,42,Intern,Completed
+6618e4a2145643268cbdb495,React JS,Rekha Anandan,171,Employee,Completed
+6618e4a2145643268cbdb496,UI / UX Concept Figma,Sriram Krishnamoorthy,37,Intern,Not Completed
+6618e4a2145643268cbdb497,DevOps Operations,Divya R,65,Employee,Not Completed
+6618e4a2145643268cbdb498,DevOps Operations,Himanshu Soni,51,Intern,Not Completed
+6618e4a2145643268cbdb499,ML Basics,Harish P,161,Intern,Not Completed
+6618e4a2145643268cbdb49a,Quality Assurance Basics,Babu G,54,Employee,Not Completed
+6618e4a2145643268cbdb49b,Cloud Platforms,Ruthraraj R,32,Employee,Completed
+6618e4a2145643268cbdb49c,SQL,Neshanth G,161,Intern,Not Completed
+6618e4a2145643268cbdb49d,ML Basics,Kundan Kumar S,204,Employee,Not Completed
+6618e4a2145643268cbdb49e,ADF,Divya R,115,Intern,Completed
+6618e4a2145643268cbdb49f,Quality Assurance Basics,Radhakrishnan R,40,Employee,Not Completed
+6618e4a2145643268cbdb4a0,DevOps Operations,Christopher D,59,Employee,Completed
+6618e4a2145643268cbdb4a1,DevOps Operations,Naveen Kumar S,50,Employee,Completed
+6618e4a2145643268cbdb4a2,Security Testing,Ajay S,76,Employee,Completed
+6618e4a2145643268cbdb4a3,React JS,Sathish Kumar V,235,Intern,Completed
+6618e4a2145643268cbdb4a4,SQL,Rajasundar Murugan Nadar C,171,Employee,Completed
+6618e4a2145643268cbdb4a5,DevOps Operations,Likhitha Gurram,62,Employee,Completed
+6618e4a2145643268cbdb4a6,Data Warehouse - ETL,Himanshu Soni,263,Employee,Completed
+6618e4a2145643268cbdb4a7,Security Testing,Arjun Ganesan,71,Intern,Not Completed
+6618e4a2145643268cbdb4a8,SQL,Swatikka C,197,Intern,Completed
+6618e4a2145643268cbdb4a9,SQL,Sivamalini V,217,Employee,Completed
+6618e4a2145643268cbdb4aa,Cloud Platforms,Akkim Balaji C,24,Intern,Not Completed
+6618e4a2145643268cbdb4ab,Data Warehouse - ETL,Pichhapati Venkata Naveen,227,Intern,Completed
+6618e4a2145643268cbdb4ac,ADF,Naga Sandeep Reddy P,122,Intern,Not Completed
+6618e4a2145643268cbdb4ad,SQL,Vignesh Anantharaj,223,Employee,Not Completed
+6618e4a2145643268cbdb4ae,UI / UX Concept Figma,Rekha Anandan,48,Intern,Not Completed
+6618e4a2145643268cbdb4af,ML Basics,Sourav Kumar,175,Employee,Not Completed
+6618e4a2145643268cbdb4b0,SQL,Christopher Raj,241,Intern,Not Completed
+6618e4a2145643268cbdb4b1,ML Basics,Neshanth G,135,Employee,Not Completed
+6618e4a2145643268cbdb4b2,DevOps Operations,Siddharth Sridhar,30,Intern,Completed
+6618e4a2145643268cbdb4b3,Quality Assurance Basics,Gayathri G S,49,Employee,Not Completed
+6618e4a2145643268cbdb4b4,Python for DS,Naveen Kumar S,90,Intern,Completed
+6618e4a2145643268cbdb4b5,React JS,Achyut Pramod,252,Employee,Not Completed
+6618e4a2145643268cbdb4b6,Data Warehouse - ETL,Sameer Basha B,297,Intern,Not Completed
+6618e4a2145643268cbdb4b7,Cloud Platforms,Sivamalini V,14,Intern,Completed
+6618e4a2145643268cbdb4b8,SQL,Rekha Anandan,218,Employee,Completed
+6618e4a2145643268cbdb4b9,Python for DS,Ravishankar P,87,Intern,Completed
+6618e4a2145643268cbdb4ba,ML Basics,Pooja Nareshsinh Thakur,143,Intern,Completed
+6618e4a2145643268cbdb4bb,DevOps Operations,Arjun Ganesan,68,Employee,Not Completed
+6618e4a2145643268cbdb4bc,SQL,Anto Arokia Mary N L,250,Employee,Not Completed
+6618e4a2145643268cbdb4bd,Data Warehouse - ETL,Venkata Charan Kumar Maddula,214,Employee,Completed
+6618e4a2145643268cbdb4be,ML Basics,Achyut Pramod,164,Employee,Completed
+6618e4a2145643268cbdb4bf,Python for DS,Rekha Anandan,99,Employee,Completed
+6618e4a2145643268cbdb4c0,ADF,Rekha Anandan,124,Intern,Not Completed
+6618e4a2145643268cbdb4c1,Git & Version Control,Keerthika Kannan,38,Intern,Not Completed
+6618e4a2145643268cbdb4c2,Security Testing,Siddharth Sridhar,70,Employee,Not Completed
+6618e4a2145643268cbdb4c3,ML Basics,Pichhapati Venkata Naveen,153,Intern,Not Completed
+6618e4a2145643268cbdb4c4,Security Testing,Shirpi A,72,Intern,Not Completed
+6618e4a2145643268cbdb4c5,ADF,Radhakrishnan R,133,Intern,Completed
+6618e4a2145643268cbdb4c6,ADF,Himanshu Soni,126,Intern,Completed
+6618e4a2145643268cbdb4c7,React JS,Harish P,237,Employee,Completed
+6618e4a2145643268cbdb4c8,UI / UX Concept Figma,Prasanth S,33,Intern,Not Completed
+6618e4a2145643268cbdb4c9,Quality Assurance Basics,Vikas Vyavhare,42,Employee,Not Completed
+6618e4a2145643268cbdb4ca,Security Testing,Neshanth G,72,Employee,Not Completed
+6618e4a2145643268cbdb4cb,Cloud Platforms,Ajay S,17,Intern,Completed
+6618e4a2145643268cbdb4cc,Security Testing,Rishikar B,60,Intern,Not Completed
+6618e4a2145643268cbdb4cd,UI / UX Concept Figma,Felix Raj C,37,Employee,Completed
+6618e4a2145643268cbdb4ce,ADF,Purvaja Vashistha,150,Employee,Completed
+6618e4a2145643268cbdb4cf,UI / UX Concept Figma,Babu G,70,Employee,Not Completed
+6618e4a2145643268cbdb4d0,Quality Assurance Basics,Neshanth G,42,Intern,Not Completed
+6618e4a2145643268cbdb4d1,ML Basics,Lejoy J,116,Intern,Completed
+6618e4a2145643268cbdb4d2,Cloud Platforms,Naveen Kumar S,30,Employee,Completed
+6618e4a2145643268cbdb4d3,ML Basics,Naga Sandeep Reddy P,183,Intern,Not Completed
+6618e4a2145643268cbdb4d4,Git & Version Control,Pichhapati Venkata Naveen,49,Employee,Completed
+6618e4a2145643268cbdb4d5,UI / UX Concept Figma,Gopinath Ramesh,57,Employee,Completed
+6618e4a2145643268cbdb4d6,Data Warehouse - ETL,Lavanya R,206,Intern,Completed
+6618e4a2145643268cbdb4d7,React JS,Sachinvias Gopalakrishnan,210,Intern,Completed
+6618e4a2145643268cbdb4d8,Security Testing,Harish P,81,Employee,Not Completed
+6618e4a2145643268cbdb4d9,Quality Assurance Basics,Hariharan N,26,Intern,Completed
+6618e4a2145643268cbdb4da,Data Warehouse - ETL,Christopher Raj,247,Employee,Completed
+6618e4a2145643268cbdb4db,ADF,Ajay S,128,Intern,Completed
+6618e4a2145643268cbdb4dc,Git & Version Control,Felix Raj C,40,Employee,Not Completed
+6618e4a2145643268cbdb4dd,Python for DS,Felix Raj C,63,Intern,Completed
+6618e4a2145643268cbdb4de,Quality Assurance Basics,Gayathri G S,40,Intern,Not Completed
+6618e4a2145643268cbdb4df,Quality Assurance Basics,Venkata Charan Kumar Maddula,35,Intern,Not Completed
+6618e4a2145643268cbdb4e0,Data Warehouse - ETL,Neshanth G,298,Intern,Not Completed
+6618e4a2145643268cbdb4e1,Cloud Platforms,Swatikka C,25,Intern,Completed
+6618e4a2145643268cbdb4e2,ML Basics,Rajasundar Murugan Nadar C,149,Intern,Completed
+6618e4a2145643268cbdb4e3,Quality Assurance Basics,Purvaja Vashistha,45,Intern,Not Completed
+6618e4a2145643268cbdb4e4,DevOps Operations,Rekha Anandan,69,Employee,Not Completed
+6618e4a2145643268cbdb4e5,Security Testing,Anil Prasad L,61,Intern,Completed
+6618e4a2145643268cbdb4e6,React JS,Sachinvias Gopalakrishnan,202,Employee,Completed
+6618e4a2145643268cbdb4e7,Cloud Platforms,Siddharth Sridhar,30,Employee,Completed
+6618e4a2145643268cbdb4e8,Security Testing,Anto Arokia Mary N L,55,Intern,Completed
+6618e4a2145643268cbdb4e9,ML Basics,Michael Leovalan,198,Employee,Completed
+6618e4a2145643268cbdb4ea,UI / UX Concept Figma,Lavanya R,55,Intern,Not Completed
+6618e4a2145643268cbdb4eb,Cloud Platforms,Ruthraraj R,20,Intern,Completed
+6618e4a2145643268cbdb4ec,Quality Assurance Basics,Christopher Raj,25,Intern,Completed
+6618e4a2145643268cbdb4ed,Quality Assurance Basics,Shirpi A,38,Intern,Not Completed
+6618e4a2145643268cbdb4ee,DevOps Operations,Vikas Vyavhare,35,Intern,Completed
+6618e4a2145643268cbdb4ef,React JS,Vendeeshwaran C,224,Employee,Completed
+6618e4a2145643268cbdb4f0,DevOps Operations,Himanshu Soni,53,Intern,Not Completed
+6618e4a2145643268cbdb4f1,Security Testing,Kundan Kumar S,69,Intern,Completed
+6618e4a2145643268cbdb4f2,ML Basics,Pooja Nareshsinh Thakur,204,Employee,Not Completed
+6618e4a2145643268cbdb4f3,ML Basics,Shirpi A,145,Employee,Completed
+6618e4a2145643268cbdb4f4,Quality Assurance Basics,Ruthraraj R,44,Intern,Not Completed
+6618e4a2145643268cbdb4f5,React JS,Likhitha Gurram,220,Intern,Completed
+6618e4a2145643268cbdb4f6,UI / UX Concept Figma,Satyam Pandey S,54,Employee,Completed
+6618e4a2145643268cbdb4f7,DevOps Operations,Venkata Charan Kumar Maddula,70,Employee,Not Completed
+6618e4a2145643268cbdb4f8,Git & Version Control,Prasanth S,41,Employee,Completed
+6618e4a2145643268cbdb4f9,ADF,Keerthika Kannan,148,Employee,Completed
+6618e4a2145643268cbdb4fa,DevOps Operations,Christopher Raj,44,Intern,Not Completed
+6618e4a2145643268cbdb4fb,Data Warehouse - ETL,Hariharan N,215,Intern,Completed
+6618e4a2145643268cbdb4fc,Git & Version Control,Kundan Kumar S,38,Intern,Completed
+6618e4a2145643268cbdb4fd,UI / UX Concept Figma,Ankit Kumar Mishra,57,Intern,Not Completed
+6618e4a2145643268cbdb4fe,DevOps Operations,Anil Prasad L,59,Employee,Not Completed
+6618e4a2145643268cbdb4ff,Quality Assurance Basics,Ajay S,28,Intern,Completed
+6618e4a2145643268cbdb500,Quality Assurance Basics,Gayathri G S,47,Employee,Completed
+6618e4a2145643268cbdb501,React JS,Gopinath Ramesh,185,Employee,Not Completed
+6618e4a2145643268cbdb502,ML Basics,Gopinath Ramesh,187,Intern,Not Completed
+6618e4a2145643268cbdb503,UI / UX Concept Figma,Pooja Nareshsinh Thakur,51,Employee,Not Completed
+6618e4a2145643268cbdb504,Cloud Platforms,Swatikka C,24,Intern,Not Completed
+6618e4a2145643268cbdb505,Data Warehouse - ETL,Arun Prasanth S,227,Employee,Completed
+6618e4a2145643268cbdb506,UI / UX Concept Figma,Dhanasekar Murugan,64,Employee,Not Completed
+6618e4a2145643268cbdb507,ADF,Christopher Raj,152,Employee,Completed
+6618e4a2145643268cbdb508,SQL,Arjun Ganesan,221,Intern,Completed
+6618e4a2145643268cbdb509,Data Warehouse - ETL,Venkata Charan Kumar Maddula,254,Intern,Not Completed
+6618e4a2145643268cbdb50a,React JS,Vignesh Anantharaj,205,Intern,Not Completed
+6618e4a2145643268cbdb50b,SQL,Ruthraraj R,236,Employee,Not Completed
+6618e4a2145643268cbdb50c,Security Testing,Anto Arokia Mary N L,72,Intern,Not Completed
+6618e4a2145643268cbdb50d,Security Testing,Hariharan N,65,Intern,Completed
+6618e4a2145643268cbdb50e,UI / UX Concept Figma,Pichhapati Venkata Naveen,46,Employee,Not Completed
+6618e4a2145643268cbdb50f,Quality Assurance Basics,Arjun Ganesan,37,Intern,Completed
+6618e4a2145643268cbdb510,Security Testing,Anil Prasad L,69,Employee,Completed
+6618e4a2145643268cbdb511,ADF,Venkata Charan Kumar Maddula,131,Employee,Completed
+6618e4a2145643268cbdb512,ML Basics,Hariharan N,199,Employee,Not Completed
+6618e4a2145643268cbdb513,Git & Version Control,Vikas Vyavhare,33,Intern,Not Completed
+6618e4a2145643268cbdb514,Python for DS,Sourav Kumar,102,Employee,Not Completed
+6618e4a2145643268cbdb515,React JS,Rishikar B,152,Intern,Not Completed
+6618e4a2145643268cbdb516,UI / UX Concept Figma,Likhitha Gurram,52,Intern,Not Completed
+6618e4a2145643268cbdb517,React JS,Neshanth G,204,Intern,Completed
+6618e4a2145643268cbdb518,DevOps Operations,Lejoy J,58,Intern,Not Completed
+6618e4a2145643268cbdb519,Cloud Platforms,Harish P,32,Employee,Not Completed
+6618e4a2145643268cbdb51a,Python for DS,Gayathri G S,73,Employee,Completed
+6618e4a2145643268cbdb51b,Git & Version Control,Siddharth Sridhar,38,Intern,Completed
+6618e4a2145643268cbdb51c,Cloud Platforms,Naveen Kumar S,38,Employee,Not Completed
+6618e4a2145643268cbdb51d,Python for DS,Vikas Vyavhare,92,Employee,Completed
+6618e4a2145643268cbdb51e,SQL,Naga Sandeep Reddy P,212,Intern,Not Completed
+6618e4a2145643268cbdb51f,Data Warehouse - ETL,Siddharth Sridhar,255,Employee,Not Completed
+6618e4a2145643268cbdb520,ADF,Purvaja Vashistha,131,Employee,Not Completed
+6618e4a2145643268cbdb521,SQL,Michael Leovalan,197,Employee,Not Completed
+6618e4a2145643268cbdb522,Git & Version Control,Ankit Kumar Mishra,41,Employee,Completed
+6618e4a2145643268cbdb523,ADF,Divya R,143,Employee,Not Completed
+6618e4a2145643268cbdb524,Python for DS,Felix Raj C,80,Intern,Completed
+6618e4a2145643268cbdb525,Git & Version Control,Anil Prasad L,49,Employee,Not Completed
+6618e4a2145643268cbdb526,ML Basics,Christopher D,175,Intern,Completed
+6618e4a2145643268cbdb527,ML Basics,Pichhapati Venkata Naveen,124,Intern,Completed
+6618e4a2145643268cbdb528,UI / UX Concept Figma,Lejoy J,45,Intern,Completed
+6618e4a2145643268cbdb529,Cloud Platforms,Neshanth G,29,Intern,Not Completed
+6618e4a2145643268cbdb52a,ADF,Pichhapati Venkata Naveen,131,Employee,Completed
+6618e4a2145643268cbdb52b,Security Testing,Vigneshwaran Jeyakumar,75,Intern,Not Completed
+6618e4a2145643268cbdb52c,React JS,Christopher Raj,184,Intern,Completed
+6618e4a2145643268cbdb52d,DevOps Operations,Michael Leovalan,56,Employee,Completed
+6618e4a2145643268cbdb52e,ADF,Livin Albert B,145,Employee,Completed
+6618e4a2145643268cbdb52f,DevOps Operations,Akkim Balaji C,44,Employee,Not Completed
+6618e4a2145643268cbdb530,Python for DS,Nivya V,93,Intern,Not Completed
+6618e4a2145643268cbdb531,Quality Assurance Basics,Hariharan N,40,Employee,Completed
+6618e4a2145643268cbdb532,Security Testing,Ravishankar P,82,Employee,Completed
+6618e4a2145643268cbdb533,SQL,Sivamalini V,174,Employee,Completed
+6618e4a2145643268cbdb534,ML Basics,Sivamalini V,142,Intern,Not Completed
+6618e4a2145643268cbdb535,Data Warehouse - ETL,Arun Prasanth S,304,Employee,Not Completed
+6618e4a2145643268cbdb536,ML Basics,Naveen Kumar S,200,Intern,Not Completed
+6618e4a2145643268cbdb537,SQL,Ankit Kumar Mishra,220,Intern,Completed
+6618e4a2145643268cbdb538,DevOps Operations,Harish P,53,Intern,Not Completed
+6618e4a2145643268cbdb539,UI / UX Concept Figma,Disha Matilda B,56,Employee,Not Completed
+6618e4a2145643268cbdb53a,DevOps Operations,Akkim Balaji C,49,Intern,Not Completed
+6618e4a2145643268cbdb53b,UI / UX Concept Figma,Divya R,65,Employee,Not Completed
+6618e4a2145643268cbdb53c,UI / UX Concept Figma,Swatikka C,35,Employee,Completed
+6618e4a2145643268cbdb53d,DevOps Operations,Prasanth S,63,Employee,Not Completed
+6618e4a2145643268cbdb53e,ML Basics,Sameer Basha B,155,Employee,Not Completed
+6618e4a2145643268cbdb53f,React JS,Ruthraraj R,250,Employee,Not Completed
+6618e4a2145643268cbdb540,Security Testing,Sameer Basha B,69,Intern,Not Completed
+6618e4a2145643268cbdb541,React JS,Vendeeshwaran C,254,Employee,Not Completed
+6618e4a2145643268cbdb542,React JS,Nivya V,249,Employee,Not Completed
+6618e4a2145643268cbdb543,UI / UX Concept Figma,Dhanasekar Murugan,55,Intern,Completed
+6618e4a2145643268cbdb544,Python for DS,Vignesh Anantharaj,103,Employee,Completed
+6618e4a2145643268cbdb545,ADF,Vikas Vyavhare,134,Intern,Not Completed
+6618e4a2145643268cbdb546,Security Testing,Keerthika Kannan,76,Employee,Not Completed
+6618e4a2145643268cbdb547,React JS,Himanshu Soni,251,Employee,Not Completed
+6618e4a2145643268cbdb548,ADF,Vignesh Anantharaj,124,Intern,Completed
+6618e4a2145643268cbdb549,Git & Version Control,Christopher D,37,Intern,Not Completed
+6618e4a2145643268cbdb54a,ML Basics,Gayathri G S,139,Employee,Not Completed
+6618e4a2145643268cbdb54b,UI / UX Concept Figma,Sivamalini V,47,Employee,Not Completed
+6618e4a2145643268cbdb54c,Python for DS,Sourav Kumar,63,Intern,Completed
+6618e4a2145643268cbdb54d,Cloud Platforms,Vignesh Anantharaj,40,Employee,Not Completed
+6618e4a2145643268cbdb54e,React JS,Ankit Kumar Mishra,237,Intern,Completed
+6618e4a2145643268cbdb54f,Cloud Platforms,Anto Arokia Mary N L,17,Intern,Completed
+6618e4a2145643268cbdb550,React JS,Keerthika Kannan,206,Intern,Completed
+6618e4a2145643268cbdb551,Cloud Platforms,Gayathri V,19,Intern,Not Completed
+6618e4a2145643268cbdb552,React JS,Felix Raj C,198,Intern,Not Completed
+6618e4a2145643268cbdb553,React JS,Sachinvias Gopalakrishnan,240,Intern,Not Completed
+6618e4a2145643268cbdb554,Security Testing,Ruthraraj R,61,Intern,Completed
+6618e4a2145643268cbdb555,Data Warehouse - ETL,Ajay S,207,Intern,Completed
+6618e4a2145643268cbdb556,Python for DS,Ruthraraj R,88,Intern,Not Completed
+6618e4a2145643268cbdb557,Security Testing,Vendeeshwaran C,66,Employee,Completed
+6618e4a2145643268cbdb558,SQL,Livin Albert B,218,Employee,Completed
+6618e4a2145643268cbdb559,UI / UX Concept Figma,Gayathri G S,38,Intern,Completed
+6618e4a2145643268cbdb55a,UI / UX Concept Figma,Radhakrishnan R,51,Employee,Not Completed
+6618e4a2145643268cbdb55b,Data Warehouse - ETL,Nivya V,262,Intern,Completed
+6618e4a2145643268cbdb55c,React JS,Satyam Pandey S,178,Employee,Completed
+6618e4a2145643268cbdb55d,Python for DS,Ajay S,89,Intern,Completed
+6618e4a2145643268cbdb55e,ML Basics,Arun Prasanth S,148,Employee,Not Completed
+6618e4a2145643268cbdb55f,DevOps Operations,Vigneshwaran Jeyakumar,64,Employee,Completed
+6618e4a2145643268cbdb560,SQL,Lavanya R,179,Employee,Not Completed
+6618e4a2145643268cbdb561,DevOps Operations,Sachinvias Gopalakrishnan,55,Employee,Not Completed
+6618e4a2145643268cbdb562,ADF,Siddharth Sridhar,138,Intern,Completed
+6618e4a2145643268cbdb563,DevOps Operations,Ajay S,53,Intern,Completed
+6618e4a2145643268cbdb564,Security Testing,Pichhapati Venkata Naveen,82,Employee,Not Completed
+6618e4a2145643268cbdb565,Quality Assurance Basics,Rajasundar Murugan Nadar C,26,Intern,Completed
+6618e4a2145643268cbdb566,DevOps Operations,Anil Prasad L,34,Intern,Not Completed
+6618e4a2145643268cbdb567,React JS,Vikas Vyavhare,193,Employee,Not Completed
+6618e4a2145643268cbdb568,DevOps Operations,Felix Raj C,49,Employee,Completed
+6618e4a2145643268cbdb569,SQL,Sathish Kumar V,161,Employee,Not Completed
+6618e4a2145643268cbdb56a,Data Warehouse - ETL,Purvaja Vashistha,236,Employee,Not Completed
+6618e4a2145643268cbdb56b,Python for DS,Christopher Raj,69,Intern,Not Completed
+6618e4a2145643268cbdb56c,React JS,Gopinath Ramesh,163,Employee,Not Completed
+6618e4a2145643268cbdb56d,DevOps Operations,Molly Buxton,40,Intern,Not Completed
+6618e4a2145643268cbdb56e,ADF,Sourav Kumar,133,Employee,Not Completed
+6618e4a2145643268cbdb56f,Quality Assurance Basics,Ankit Kumar Mishra,39,Intern,Completed
+6618e4a2145643268cbdb570,Data Warehouse - ETL,Hariharan N,222,Intern,Completed
+6618e4a2145643268cbdb571,Security Testing,Gayathri V,65,Employee,Completed
+6618e4a2145643268cbdb572,DevOps Operations,Anto Arokia Mary N L,58,Intern,Not Completed
+6618e4a2145643268cbdb573,UI / UX Concept Figma,Prasanth S,59,Employee,Not Completed
+6618e4a2145643268cbdb574,Python for DS,Rekha Anandan,70,Intern,Not Completed
+6618e4a2145643268cbdb575,ML Basics,Naga Sandeep Reddy P,167,Intern,Completed
+6618e4a2145643268cbdb576,ADF,Lavanya R,128,Intern,Completed
+6618e4a2145643268cbdb577,React JS,Molly Buxton,194,Employee,Completed
+6618e4a2145643268cbdb578,Security Testing,Rishikar B,68,Employee,Completed
+6618e4a2145643268cbdb579,ML Basics,Naveen Kumar S,162,Employee,Not Completed
+6618e4a2145643268cbdb57a,Git & Version Control,Rekha Anandan,41,Employee,Not Completed
+6618e4a2145643268cbdb57b,ML Basics,Livin Albert B,146,Employee,Completed
+6618e4a2145643268cbdb57c,Quality Assurance Basics,Sriram Krishnamoorthy,37,Intern,Completed
+6618e4a2145643268cbdb57d,Cloud Platforms,Gopinath Ramesh,28,Employee,Completed
+6618e4a2145643268cbdb57e,UI / UX Concept Figma,Molly Buxton,30,Intern,Not Completed
+6618e4a2145643268cbdb57f,Git & Version Control,Arun Prasanth S,32,Intern,Not Completed
+6618e4a2145643268cbdb580,UI / UX Concept Figma,Anil Prasad L,33,Intern,Not Completed
+6618e4a2145643268cbdb581,UI / UX Concept Figma,Achyut Pramod,38,Employee,Completed
+6618e4a2145643268cbdb582,Security Testing,Anil Prasad L,72,Intern,Not Completed
+6618e4a2145643268cbdb583,ADF,Siddharth Sridhar,121,Intern,Not Completed
+6618e4a2145643268cbdb584,SQL,Siddharth Sridhar,215,Intern,Not Completed
+6618e4a2145643268cbdb585,React JS,Ajay S,218,Employee,Not Completed
+6618e4a2145643268cbdb586,DevOps Operations,Sourav Kumar,45,Employee,Not Completed
+6618e4a2145643268cbdb587,React JS,Disha Matilda B,213,Employee,Not Completed
+6618e4a2145643268cbdb588,Data Warehouse - ETL,Akkim Balaji C,282,Intern,Not Completed
+6618e4a2145643268cbdb589,Cloud Platforms,Kanike Lakshmi Narayana,34,Employee,Not Completed
+6618e4a2145643268cbdb58a,Python for DS,Gayathri G S,81,Employee,Completed
+6618e4a2145643268cbdb58b,React JS,Naga Sandeep Reddy P,233,Employee,Completed
+6618e4a2145643268cbdb58c,ADF,Neshanth G,130,Intern,Not Completed
+6618e4a2145643268cbdb58d,Security Testing,Radhakrishnan R,66,Intern,Completed
+6618e4a2145643268cbdb58e,UI / UX Concept Figma,Arun Prasanth S,48,Employee,Not Completed
+6618e4a2145643268cbdb58f,SQL,Nivya V,214,Employee,Completed
+6618e4a2145643268cbdb590,DevOps Operations,Ajay S,47,Intern,Not Completed
+6618e4a2145643268cbdb591,Quality Assurance Basics,Himanshu Soni,41,Employee,Not Completed
+6618e4a2145643268cbdb592,React JS,Disha Matilda B,254,Employee,Not Completed
+6618e4a2145643268cbdb593,Cloud Platforms,Achyut Pramod,23,Employee,Completed
+6618e4a2145643268cbdb594,UI / UX Concept Figma,Felix Raj C,61,Employee,Not Completed
+6618e4a2145643268cbdb595,Data Warehouse - ETL,Rishikar B,293,Intern,Not Completed
+6618e4a2145643268cbdb596,ADF,Anto Arokia Mary N L,122,Intern,Not Completed
+6618e4a2145643268cbdb597,Git & Version Control,Vignesh Anantharaj,36,Intern,Completed
+6618e4a2145643268cbdb598,DevOps Operations,Lejoy J,43,Employee,Not Completed
+6618e4a2145643268cbdb599,Quality Assurance Basics,Kanike Lakshmi Narayana,40,Employee,Not Completed
+6618e4a2145643268cbdb59a,SQL,Rishikar B,203,Employee,Not Completed
+6618e4a2145643268cbdb59b,Cloud Platforms,Kanike Lakshmi Narayana,22,Intern,Completed
+6618e4a2145643268cbdb59c,React JS,Naveen Kumar S,184,Employee,Not Completed
+6618e4a2145643268cbdb59d,Cloud Platforms,Arjun Ganesan,30,Intern,Not Completed
+6618e4a2145643268cbdb59e,DevOps Operations,Achyut Pramod,54,Employee,Completed
+6618e4a2145643268cbdb59f,ADF,Babu G,155,Employee,Completed
+6618e4a2145643268cbdb5a0,Git & Version Control,Sourav Kumar,40,Employee,Not Completed
+6618e4a2145643268cbdb5a1,UI / UX Concept Figma,Livin Albert B,43,Employee,Completed
+6618e4a2145643268cbdb5a2,ADF,Ravishankar P,150,Employee,Not Completed
+6618e4a2145643268cbdb5a3,Git & Version Control,Livin Albert B,48,Employee,Completed
+6618e4a2145643268cbdb5a4,React JS,Sriram Krishnamoorthy,182,Intern,Not Completed
+6618e4a2145643268cbdb5a5,ML Basics,Radhakrishnan R,202,Employee,Not Completed
+6618e4a2145643268cbdb5a6,Python for DS,Vignesh Anantharaj,88,Intern,Not Completed
+6618e4a2145643268cbdb5a7,UI / UX Concept Figma,Neshanth G,59,Employee,Completed
+6618e4a2145643268cbdb5a8,DevOps Operations,Swatikka C,46,Employee,Not Completed
+6618e4a2145643268cbdb5a9,SQL,Ajay S,211,Employee,Not Completed
+6618e4a2145643268cbdb5aa,Cloud Platforms,Rajasundar Murugan Nadar C,24,Intern,Not Completed
+6618e4a2145643268cbdb5ab,UI / UX Concept Figma,Kanike Lakshmi Narayana,40,Employee,Completed
+6618e4a2145643268cbdb5ac,Quality Assurance Basics,Vigneshwaran Jeyakumar,36,Intern,Completed
+6618e4a2145643268cbdb5ad,Git & Version Control,Babu G,35,Employee,Completed
+6618e4a2145643268cbdb5ae,DevOps Operations,Pichhapati Venkata Naveen,59,Employee,Completed
+6618e4a2145643268cbdb5af,Security Testing,Purvaja Vashistha,70,Intern,Not Completed
+6618e4a2145643268cbdb5b0,Quality Assurance Basics,Michael Leovalan,38,Intern,Completed
+6618e4a2145643268cbdb5b1,React JS,Achyut Pramod,181,Employee,Completed
+6618e4a2145643268cbdb5b2,Python for DS,Michael Leovalan,99,Intern,Not Completed
+6618e4a2145643268cbdb5b3,SQL,Shirpi A,223,Intern,Completed
+6618e4a2145643268cbdb5b4,Data Warehouse - ETL,Gayathri V,202,Intern,Not Completed
+6618e4a2145643268cbdb5b5,Quality Assurance Basics,Naga Sandeep Reddy P,34,Intern,Not Completed
+6618e4a2145643268cbdb5b6,Python for DS,Christopher D,74,Intern,Completed
+6618e4a2145643268cbdb5b7,UI / UX Concept Figma,Venkata Charan Kumar Maddula,58,Intern,Not Completed
+6618e4a2145643268cbdb5b8,Git & Version Control,Prasanth S,39,Employee,Completed
+6618e4a2145643268cbdb5b9,ML Basics,Livin Albert B,107,Intern,Completed
+6618e4a2145643268cbdb5ba,Cloud Platforms,Ajay S,25,Intern,Completed
+6618e4a2145643268cbdb5bb,ML Basics,Achyut Pramod,172,Intern,Completed
+6618e4a2145643268cbdb5bc,ML Basics,Molly Buxton,167,Employee,Completed
+6618e4a2145643268cbdb5bd,UI / UX Concept Figma,Divya R,48,Employee,Completed
+6618e4a2145643268cbdb5be,UI / UX Concept Figma,Dhaneshwaran D,48,Intern,Not Completed
+6618e4a2145643268cbdb5bf,Python for DS,Ruthraraj R,66,Intern,Completed
+6618e4a2145643268cbdb5c0,Git & Version Control,Vignesh Anantharaj,54,Employee,Not Completed
+6618e4a2145643268cbdb5c1,Data Warehouse - ETL,Ankit Kumar Mishra,205,Intern,Not Completed
+6618e4a2145643268cbdb5c2,Data Warehouse - ETL,Naga Sandeep Reddy P,286,Employee,Not Completed
+6618e4a2145643268cbdb5c3,Data Warehouse - ETL,Vikas Vyavhare,221,Employee,Not Completed
+6618e4a2145643268cbdb5c4,ADF,Rishikar B,125,Intern,Completed
+6618e4a2145643268cbdb5c5,Security Testing,Pooja Nareshsinh Thakur,67,Employee,Completed
+6618e4a2145643268cbdb5c6,Security Testing,Pooja Nareshsinh Thakur,85,Employee,Not Completed
+6618e4a2145643268cbdb5c7,ML Basics,Swatikka C,96,Intern,Completed
+6618e4a2145643268cbdb5c8,Cloud Platforms,Naveen Kumar S,21,Intern,Completed
+6618e4a2145643268cbdb5c9,React JS,Ruthraraj R,190,Intern,Not Completed
+6618e4a2145643268cbdb5ca,Cloud Platforms,Lavanya R,23,Employee,Completed
+6618e4a2145643268cbdb5cb,SQL,Sourav Kumar,223,Intern,Completed
+6618e4a2145643268cbdb5cc,SQL,Pooja Nareshsinh Thakur,193,Intern,Completed
+6618e4a2145643268cbdb5cd,Data Warehouse - ETL,Vigneshwaran Jeyakumar,212,Employee,Completed
+6618e4a2145643268cbdb5ce,SQL,Christopher D,176,Intern,Completed
+6618e4a2145643268cbdb5cf,Cloud Platforms,Anil Prasad L,27,Employee,Completed
+6618e4a2145643268cbdb5d0,Security Testing,Gayathri V,67,Intern,Not Completed
+6618e4a2145643268cbdb5d1,Quality Assurance Basics,Sathish Kumar V,47,Employee,Completed
+6618e4a2145643268cbdb5d2,Data Warehouse - ETL,Ruthraraj R,235,Intern,Completed
+6618e4a2145643268cbdb5d3,SQL,Anil Prasad L,230,Employee,Completed
+6618e4a2145643268cbdb5d4,DevOps Operations,Hariharan N,50,Intern,Completed
+6618e4a2145643268cbdb5d5,Data Warehouse - ETL,Prasanth S,287,Employee,Completed
+6618e4a2145643268cbdb5d6,ADF,Akkim Balaji C,121,Intern,Completed
+6618e4a2145643268cbdb5d7,Security Testing,Anil Prasad L,70,Employee,Not Completed
+6618e4a2145643268cbdb5d8,ML Basics,Sourav Kumar,163,Intern,Not Completed
+6618e4a2145643268cbdb5d9,Security Testing,Keerthika Kannan,66,Employee,Completed
+6618e4a2145643268cbdb5da,Quality Assurance Basics,Arun Prasanth S,55,Employee,Not Completed
+6618e4a2145643268cbdb5db,UI / UX Concept Figma,Livin Albert B,44,Employee,Not Completed
+6618e4a2145643268cbdb5dc,ML Basics,Vendeeshwaran C,190,Intern,Not Completed
+6618e4a2145643268cbdb5dd,DevOps Operations,Siddharth Sridhar,44,Intern,Completed
+6618e4a2145643268cbdb5de,UI / UX Concept Figma,Pichhapati Venkata Naveen,36,Employee,Completed
+6618e4a2145643268cbdb5df,ML Basics,Felix Raj C,200,Employee,Not Completed
+6618e4a2145643268cbdb5e0,React JS,Ruthraraj R,208,Employee,Not Completed
+6618e4a2145643268cbdb5e1,React JS,Gayathri V,244,Employee,Not Completed
+6618e4a2145643268cbdb5e2,Git & Version Control,Arjun Ganesan,45,Employee,Not Completed
+6618e4a2145643268cbdb5e3,Cloud Platforms,Anil Prasad L,25,Intern,Completed
+6618e4a2145643268cbdb5e4,UI / UX Concept Figma,Siddharth Sridhar,39,Intern,Not Completed
+6618e4a2145643268cbdb5e5,Quality Assurance Basics,Gopinath Ramesh,49,Employee,Not Completed
+6618e4a2145643268cbdb5e6,SQL,Naga Sandeep Reddy P,195,Intern,Completed
+6618e4a2145643268cbdb5e7,DevOps Operations,Radhakrishnan R,49,Employee,Not Completed
+6618e4a2145643268cbdb5e8,Git & Version Control,Radhakrishnan R,49,Employee,Not Completed
+6618e4a2145643268cbdb5e9,React JS,Ankit Kumar Mishra,225,Intern,Completed
+6618e4a2145643268cbdb5ea,ADF,Gayathri V,126,Intern,Completed
+6618e4a2145643268cbdb5eb,DevOps Operations,Rekha Anandan,41,Intern,Completed
+6618e4a2145643268cbdb5ec,Git & Version Control,Ruthraraj R,43,Intern,Not Completed
+6618e4a2145643268cbdb5ed,Python for DS,Sameer Basha B,73,Intern,Not Completed
+6618e4a2145643268cbdb5ee,Security Testing,Pooja Nareshsinh Thakur,85,Employee,Completed
+6618e4a2145643268cbdb5ef,Quality Assurance Basics,Anto Arokia Mary N L,37,Intern,Not Completed
+6618e4a2145643268cbdb5f0,ADF,Achyut Pramod,157,Employee,Not Completed
+6618e4a2145643268cbdb5f1,Data Warehouse - ETL,Vigneshwaran Jeyakumar,235,Employee,Not Completed
+6618e4a2145643268cbdb5f2,Git & Version Control,Anto Arokia Mary N L,30,Intern,Not Completed
+6618e4a2145643268cbdb5f3,Git & Version Control,Arun Prasanth S,34,Intern,Not Completed
+6618e4a2145643268cbdb5f4,SQL,Anil Prasad L,243,Employee,Not Completed
+6618e4a2145643268cbdb5f5,React JS,Venkata Charan Kumar Maddula,214,Employee,Not Completed
+6618e4a2145643268cbdb5f6,Security Testing,Disha Matilda B,63,Intern,Completed
+6618e4a2145643268cbdb5f7,Quality Assurance Basics,Gayathri V,34,Intern,Completed
+6618e4a2145643268cbdb5f8,React JS,Pichhapati Venkata Naveen,178,Intern,Completed
+6618e4a2145643268cbdb5f9,Data Warehouse - ETL,Vignesh Anantharaj,285,Employee,Not Completed
+6618e4a2145643268cbdb5fa,Python for DS,Dhaneshwaran D,98,Employee,Not Completed
+6618e4a2145643268cbdb5fb,UI / UX Concept Figma,Likhitha Gurram,47,Employee,Completed
+6618e4a2145643268cbdb5fc,React JS,Shirpi A,216,Employee,Completed
+6618e4a2145643268cbdb5fd,Cloud Platforms,Ankit Kumar Mishra,22,Intern,Not Completed
+6618e4a2145643268cbdb5fe,ML Basics,Ruthraraj R,164,Intern,Completed
+6618e4a2145643268cbdb5ff,DevOps Operations,Michael Leovalan,48,Intern,Completed
+6618e4a2145643268cbdb600,Security Testing,Felix Raj C,83,Employee,Not Completed
+6618e4a2145643268cbdb601,ML Basics,Arun Prasanth S,179,Employee,Completed
+6618e4a2145643268cbdb602,ADF,Kanike Lakshmi Narayana,138,Intern,Completed
+6618e4a2145643268cbdb603,Git & Version Control,Ruthraraj R,42,Employee,Not Completed
+6618e4a2145643268cbdb604,Security Testing,Livin Albert B,63,Intern,Not Completed
+6618e4a2145643268cbdb605,UI / UX Concept Figma,Kanike Lakshmi Narayana,45,Intern,Completed
+6618e4a2145643268cbdb606,Python for DS,Babu G,83,Employee,Completed
+6618e4a2145643268cbdb607,ADF,Christopher D,154,Employee,Not Completed
+6618e4a2145643268cbdb608,Data Warehouse - ETL,Venkata Charan Kumar Maddula,301,Employee,Completed
+6618e4a2145643268cbdb609,Python for DS,Ravishankar P,100,Employee,Not Completed
+6618e4a2145643268cbdb60a,Quality Assurance Basics,Pichhapati Venkata Naveen,46,Employee,Not Completed
+6618e4a2145643268cbdb60b,React JS,Arun Prasanth S,151,Intern,Completed
+6618e4a2145643268cbdb60c,React JS,Divya R,197,Intern,Completed
+6618e4a2145643268cbdb60d,Security Testing,Dhanasekar Murugan,81,Employee,Completed
+6618e4a2145643268cbdb60e,Git & Version Control,Ravishankar P,37,Employee,Completed
+6618e4a2145643268cbdb60f,React JS,Siddharth Sridhar,180,Intern,Completed
+6618e4a2145643268cbdb610,Python for DS,Sourav Kumar,62,Intern,Not Completed
+6618e4a2145643268cbdb611,SQL,Sameer Basha B,243,Employee,Completed
+6618e4a2145643268cbdb612,Data Warehouse - ETL,Gopinath Ramesh,247,Intern,Not Completed
+6618e4a2145643268cbdb613,DevOps Operations,Purvaja Vashistha,45,Employee,Not Completed
+6618e4a2145643268cbdb614,ADF,Radhakrishnan R,126,Intern,Completed
+6618e4a2145643268cbdb615,Data Warehouse - ETL,Nivya V,257,Intern,Completed
+6618e4a2145643268cbdb616,Quality Assurance Basics,Sachinvias Gopalakrishnan,28,Intern,Completed
+6618e4a2145643268cbdb617,DevOps Operations,Himanshu Soni,44,Employee,Completed
+6618e4a2145643268cbdb618,Data Warehouse - ETL,Radhakrishnan R,268,Employee,Completed
+6618e4a2145643268cbdb619,Git & Version Control,Sivamalini V,44,Employee,Not Completed
+6618e4a2145643268cbdb61a,SQL,Gayathri G S,167,Intern,Completed
+6618e4a2145643268cbdb61b,ADF,Swatikka C,133,Employee,Completed
+6618e4a2145643268cbdb61c,Quality Assurance Basics,Nivya V,35,Intern,Completed
+6618e4a2145643268cbdb61d,Security Testing,Arun Prasanth S,63,Intern,Completed
+6618e4a2145643268cbdb61e,Python for DS,Vignesh Anantharaj,73,Employee,Completed
+6618e4a2145643268cbdb61f,Security Testing,Molly Buxton,66,Intern,Completed
+6618e4a2145643268cbdb620,UI / UX Concept Figma,Naga Sandeep Reddy P,40,Intern,Not Completed
+6618e4a2145643268cbdb621,UI / UX Concept Figma,Arun Prasanth S,54,Employee,Not Completed
+6618e4a2145643268cbdb622,SQL,Venkata Charan Kumar Maddula,165,Intern,Not Completed
+6618e4a2145643268cbdb623,UI / UX Concept Figma,Akkim Balaji C,38,Intern,Not Completed
+6618e4a2145643268cbdb624,Security Testing,Christopher D,73,Intern,Completed
+6618e4a2145643268cbdb625,UI / UX Concept Figma,Neshanth G,55,Employee,Completed
+6618e4a2145643268cbdb626,Cloud Platforms,Felix Raj C,28,Employee,Not Completed
+6618e4a2145643268cbdb627,Git & Version Control,Nivya V,37,Intern,Not Completed
+6618e4a2145643268cbdb628,Git & Version Control,Pichhapati Venkata Naveen,46,Employee,Not Completed
+6618e4a2145643268cbdb629,ADF,Molly Buxton,151,Employee,Not Completed
+6618e4a2145643268cbdb62a,ADF,Sameer Basha B,148,Employee,Completed
+6618e4a2145643268cbdb62b,Cloud Platforms,Ankit Kumar Mishra,23,Intern,Completed
+6618e4a2145643268cbdb62c,Data Warehouse - ETL,Arun Prasanth S,273,Intern,Completed
+6618e4a2145643268cbdb62d,ML Basics,Venkata Charan Kumar Maddula,152,Employee,Not Completed
+6618e4a2145643268cbdb62e,DevOps Operations,Likhitha Gurram,57,Intern,Not Completed
+6618e4a2145643268cbdb62f,Data Warehouse - ETL,Rajasundar Murugan Nadar C,285,Intern,Completed
+6618e4a2145643268cbdb630,Python for DS,Molly Buxton,68,Employee,Completed
+6618e4a2145643268cbdb631,SQL,Venkata Charan Kumar Maddula,189,Intern,Completed
+6618e4a2145643268cbdb632,SQL,Gayathri V,211,Intern,Not Completed
+6618e4a2145643268cbdb633,ADF,Kundan Kumar S,117,Intern,Completed
+6618e4a2145643268cbdb634,Data Warehouse - ETL,Livin Albert B,238,Intern,Not Completed
+6618e4a2145643268cbdb635,ADF,Arun Prasanth S,151,Employee,Completed
+6618e4a2145643268cbdb636,Git & Version Control,Gayathri V,38,Intern,Completed
+6618e4a2145643268cbdb637,Cloud Platforms,Michael Leovalan,37,Employee,Not Completed
+6618e4a2145643268cbdb638,Quality Assurance Basics,Lavanya R,27,Intern,Completed
+6618e4a2145643268cbdb639,Security Testing,Ajay S,73,Intern,Completed
+6618e4a2145643268cbdb63a,Data Warehouse - ETL,Arjun Ganesan,214,Intern,Completed
+6618e4a2145643268cbdb63b,Git & Version Control,Disha Matilda B,32,Intern,Completed
+6618e4a2145643268cbdb63c,Security Testing,Felix Raj C,71,Employee,Not Completed
+6618e4a2145643268cbdb63d,DevOps Operations,Prasanth S,48,Employee,Not Completed
+6618e4a2145643268cbdb63e,Security Testing,Kanike Lakshmi Narayana,57,Intern,Completed
+6618e4a2145643268cbdb63f,ADF,Sivamalini V,131,Intern,Not Completed
+6618e4a2145643268cbdb640,ADF,Rekha Anandan,145,Employee,Completed
+6618e4a2145643268cbdb641,Security Testing,Kundan Kumar S,77,Employee,Completed
+6618e4a2145643268cbdb642,UI / UX Concept Figma,Shirpi A,62,Employee,Not Completed
+6618e4a2145643268cbdb643,Python for DS,Gayathri G S,91,Employee,Completed
+6618e4a2145643268cbdb644,SQL,Lavanya R,168,Intern,Not Completed
+6618e4a2145643268cbdb645,ML Basics,Christopher D,167,Employee,Completed
+6618e4a2145643268cbdb646,Data Warehouse - ETL,Anto Arokia Mary N L,201,Intern,Not Completed
+6618e4a2145643268cbdb647,Git & Version Control,Purvaja Vashistha,35,Employee,Completed
+6618e4a2145643268cbdb648,UI / UX Concept Figma,Christopher Raj,44,Employee,Not Completed
+6618e4a2145643268cbdb649,ML Basics,Vignesh Anantharaj,158,Employee,Completed
+6618e4a2145643268cbdb64a,SQL,Babu G,169,Employee,Completed
+6618e4a2145643268cbdb64b,Cloud Platforms,Sameer Basha B,19,Intern,Completed
+6618e4a2145643268cbdb64c,DevOps Operations,Babu G,47,Intern,Completed
+6618e4a2145643268cbdb64d,Git & Version Control,Sourav Kumar,48,Employee,Completed
+6618e4a2145643268cbdb64e,Cloud Platforms,Ravishankar P,18,Intern,Not Completed
+6618e4a2145643268cbdb64f,Cloud Platforms,Swatikka C,26,Employee,Completed
+6618e4a2145643268cbdb650,Quality Assurance Basics,Kundan Kumar S,46,Employee,Completed
+6618e4a2145643268cbdb651,ADF,Gopinath Ramesh,140,Intern,Completed
+6618e4a2145643268cbdb652,SQL,Akkim Balaji C,226,Employee,Not Completed
+6618e4a2145643268cbdb653,ML Basics,Satyam Pandey S,131,Employee,Not Completed
+6618e4a2145643268cbdb654,Python for DS,Ankit Kumar Mishra,67,Intern,Not Completed
+6618e4a2145643268cbdb655,Python for DS,Nivya V,79,Employee,Not Completed
+6618e4a2145643268cbdb656,ADF,Pichhapati Venkata Naveen,135,Intern,Completed
+6618e4a2145643268cbdb657,Data Warehouse - ETL,Sriram Krishnamoorthy,240,Intern,Completed
+6618e4a2145643268cbdb658,ML Basics,Michael Leovalan,192,Intern,Not Completed
+6618e4a2145643268cbdb659,Python for DS,Gopinath Ramesh,86,Employee,Not Completed
+6618e4a2145643268cbdb65a,Security Testing,Himanshu Soni,72,Employee,Completed
+6618e4a2145643268cbdb65b,DevOps Operations,Achyut Pramod,63,Employee,Completed
+6618e4a2145643268cbdb65c,UI / UX Concept Figma,Arun Prasanth S,43,Intern,Completed
+6618e4a2145643268cbdb65d,Git & Version Control,Pooja Nareshsinh Thakur,44,Intern,Not Completed
+6618e4a2145643268cbdb65e,Data Warehouse - ETL,Christopher Raj,225,Employee,Not Completed
+6618e4a2145643268cbdb65f,React JS,Lejoy J,152,Intern,Not Completed
+6618e4a2145643268cbdb660,UI / UX Concept Figma,Rishikar B,45,Employee,Completed
+6618e4a2145643268cbdb661,UI / UX Concept Figma,Lavanya R,58,Intern,Not Completed
+6618e4a2145643268cbdb662,Git & Version Control,Purvaja Vashistha,35,Intern,Completed
+6618e4a2145643268cbdb663,Python for DS,Ruthraraj R,76,Employee,Completed
+6618e4a2145643268cbdb664,React JS,Ravishankar P,229,Intern,Not Completed
+6618e4a2145643268cbdb665,Data Warehouse - ETL,Achyut Pramod,232,Intern,Completed
+6618e4a2145643268cbdb666,Data Warehouse - ETL,Naga Sandeep Reddy P,242,Employee,Completed
+6618e4a2145643268cbdb667,Git & Version Control,Disha Matilda B,30,Intern,Completed
+6618e4a2145643268cbdb668,Quality Assurance Basics,Dhaneshwaran D,37,Employee,Completed
+6618e4a2145643268cbdb669,React JS,Kanike Lakshmi Narayana,246,Employee,Completed
+6618e4a2145643268cbdb66a,React JS,Purvaja Vashistha,198,Intern,Not Completed
+6618e4a2145643268cbdb66b,ADF,Swatikka C,130,Intern,Not Completed
+6618e4a2145643268cbdb66c,Git & Version Control,Pooja Nareshsinh Thakur,49,Employee,Not Completed
+6618e4a2145643268cbdb66d,Cloud Platforms,Sachinvias Gopalakrishnan,38,Employee,Not Completed
+6618e4a2145643268cbdb66e,Data Warehouse - ETL,Achyut Pramod,284,Employee,Completed
+6618e4a2145643268cbdb66f,UI / UX Concept Figma,Rajasundar Murugan Nadar C,42,Intern,Not Completed
+6618e4a2145643268cbdb670,Cloud Platforms,Achyut Pramod,36,Employee,Not Completed
+6618e4a2145643268cbdb671,ML Basics,Vigneshwaran Jeyakumar,141,Intern,Not Completed
+6618e4a2145643268cbdb672,Security Testing,Lavanya R,60,Intern,Not Completed
+6618e4a2145643268cbdb673,UI / UX Concept Figma,Naga Sandeep Reddy P,70,Employee,Not Completed
+6618e4a2145643268cbdb674,ML Basics,Dhaneshwaran D,179,Employee,Completed
+6618e4a2145643268cbdb675,Cloud Platforms,Babu G,29,Employee,Completed
+6618e4a2145643268cbdb676,UI / UX Concept Figma,Ravishankar P,61,Employee,Completed
+6618e4a2145643268cbdb677,Data Warehouse - ETL,Vignesh Anantharaj,264,Intern,Completed
+6618e4a2145643268cbdb678,Quality Assurance Basics,Michael Leovalan,32,Intern,Completed
+6618e4a2145643268cbdb679,Data Warehouse - ETL,Likhitha Gurram,231,Intern,Completed
+6618e4a2145643268cbdb67a,Git & Version Control,Shirpi A,26,Intern,Completed
+6618e4a2145643268cbdb67b,React JS,Naveen Kumar S,186,Intern,Not Completed
+6618e4a2145643268cbdb67c,React JS,Rajasundar Murugan Nadar C,254,Employee,Not Completed
+6618e4a2145643268cbdb67d,Data Warehouse - ETL,Kundan Kumar S,212,Employee,Not Completed
+6618e4a2145643268cbdb67e,UI / UX Concept Figma,Sameer Basha B,30,Intern,Completed
+6618e4a2145643268cbdb67f,ADF,Gopinath Ramesh,145,Employee,Not Completed
+6618e4a2145643268cbdb680,React JS,Ruthraraj R,194,Employee,Completed
+6618e4a2145643268cbdb681,Quality Assurance Basics,Swatikka C,33,Intern,Not Completed
+6618e4a2145643268cbdb682,Quality Assurance Basics,Babu G,41,Employee,Completed
+6618e4a2145643268cbdb683,ML Basics,Akkim Balaji C,171,Intern,Completed
+6618e4a2145643268cbdb684,Python for DS,Harish P,57,Intern,Completed
+6618e4a2145643268cbdb685,Cloud Platforms,Venkata Charan Kumar Maddula,25,Employee,Not Completed
+6618e4a2145643268cbdb686,Python for DS,Sameer Basha B,83,Intern,Completed
+6618e4a2145643268cbdb687,Python for DS,Ravishankar P,77,Intern,Completed
+6618e4a2145643268cbdb688,UI / UX Concept Figma,Pichhapati Venkata Naveen,70,Employee,Not Completed
+6618e4a2145643268cbdb689,Security Testing,Christopher D,65,Intern,Completed
+6618e4a2145643268cbdb68a,Quality Assurance Basics,Vigneshwaran Jeyakumar,34,Intern,Completed
+6618e4a2145643268cbdb68b,SQL,Satyam Pandey S,223,Intern,Completed
+6618e4a2145643268cbdb68c,Security Testing,Babu G,63,Intern,Completed
+6618e4a2145643268cbdb68d,UI / UX Concept Figma,Anto Arokia Mary N L,57,Intern,Not Completed
+6618e4a2145643268cbdb68e,Security Testing,Christopher D,74,Intern,Completed
+6618e4a2145643268cbdb68f,Quality Assurance Basics,Himanshu Soni,30,Intern,Completed
+6618e4a2145643268cbdb690,ADF,Hariharan N,144,Employee,Not Completed
+6618e4a2145643268cbdb691,Security Testing,Dhaneshwaran D,64,Intern,Not Completed
+6618e4a2145643268cbdb692,Cloud Platforms,Sathish Kumar V,28,Intern,Not Completed
+6618e4a2145643268cbdb693,Security Testing,Gayathri V,83,Employee,Completed
+6618e4a2145643268cbdb694,Security Testing,Lavanya R,74,Employee,Completed
+6618e4a2145643268cbdb695,ADF,Sameer Basha B,148,Intern,Not Completed
+6618e4a2145643268cbdb696,React JS,Pichhapati Venkata Naveen,203,Employee,Not Completed
+6618e4a2145643268cbdb697,SQL,Sourav Kumar,182,Intern,Completed
+6618e4a2145643268cbdb698,UI / UX Concept Figma,Anil Prasad L,34,Intern,Not Completed
+6618e4a2145643268cbdb699,React JS,Ankit Kumar Mishra,181,Employee,Completed
+6618e4a2145643268cbdb69a,Cloud Platforms,Lavanya R,10,Intern,Completed
+6618e4a2145643268cbdb69b,ML Basics,Neshanth G,136,Employee,Not Completed
+6618e4a2145643268cbdb69c,ADF,Venkata Charan Kumar Maddula,135,Employee,Not Completed
+6618e4a2145643268cbdb69d,Python for DS,Ruthraraj R,95,Intern,Completed
+6618e4a2145643268cbdb69e,UI / UX Concept Figma,Vendeeshwaran C,32,Intern,Not Completed
+6618e4a2145643268cbdb69f,React JS,Sachinvias Gopalakrishnan,215,Employee,Not Completed
+6618e4a2145643268cbdb6a0,Quality Assurance Basics,Dhaneshwaran D,42,Employee,Completed
+6618e4a2145643268cbdb6a1,DevOps Operations,Molly Buxton,41,Intern,Not Completed
+6618e4a2145643268cbdb6a2,UI / UX Concept Figma,Rishikar B,45,Intern,Not Completed
+6618e4a2145643268cbdb6a3,Security Testing,Lejoy J,71,Employee,Not Completed
+6618e4a2145643268cbdb6a4,Security Testing,Rishikar B,69,Intern,Not Completed
+6618e4a2145643268cbdb6a5,ML Basics,Gayathri G S,115,Intern,Completed
+6618e4a2145643268cbdb6a6,SQL,Vigneshwaran Jeyakumar,152,Intern,Completed
+6618e4a2145643268cbdb6a7,UI / UX Concept Figma,Babu G,47,Intern,Completed
+6618e4a2145643268cbdb6a8,ML Basics,Swatikka C,141,Intern,Completed
+6618e4a2145643268cbdb6a9,Quality Assurance Basics,Anil Prasad L,30,Intern,Completed
+6618e4a2145643268cbdb6aa,DevOps Operations,Purvaja Vashistha,44,Intern,Not Completed
+6618e4a2145643268cbdb6ab,ADF,Gopinath Ramesh,131,Employee,Completed
+6618e4a2145643268cbdb6ac,Python for DS,Rishikar B,70,Employee,Not Completed
+6618e4a2145643268cbdb6ad,ML Basics,Prasanth S,103,Intern,Completed
+6618e4a2145643268cbdb6ae,SQL,Divya R,151,Intern,Not Completed
+6618e4a2145643268cbdb6af,Security Testing,Lavanya R,89,Employee,Not Completed
+6618e4a2145643268cbdb6b0,Git & Version Control,Radhakrishnan R,46,Employee,Completed
+6618e4a2145643268cbdb6b1,DevOps Operations,Naga Sandeep Reddy P,52,Intern,Not Completed
+6618e4a2145643268cbdb6b2,SQL,Sathish Kumar V,235,Employee,Not Completed
+6618e4a2145643268cbdb6b3,Cloud Platforms,Sathish Kumar V,20,Employee,Completed
+6618e4a2145643268cbdb6b4,Security Testing,Sachinvias Gopalakrishnan,63,Intern,Completed
+6618e4a2145643268cbdb6b5,Cloud Platforms,Christopher D,22,Intern,Completed
+6618e4a2145643268cbdb6b6,ADF,Vikas Vyavhare,151,Employee,Not Completed
+6618e4a2145643268cbdb6b7,Quality Assurance Basics,Arun Prasanth S,45,Intern,Not Completed
+6618e4a2145643268cbdb6b8,Data Warehouse - ETL,Kanike Lakshmi Narayana,222,Employee,Completed
+6618e4a2145643268cbdb6b9,DevOps Operations,Harish P,44,Intern,Completed
+6618e4a2145643268cbdb6ba,Git & Version Control,Babu G,46,Employee,Completed
+6618e4a2145643268cbdb6bb,Quality Assurance Basics,Prasanth S,45,Intern,Not Completed
+6618e4a2145643268cbdb6bc,Security Testing,Likhitha Gurram,67,Intern,Not Completed
+6618e4a2145643268cbdb6bd,DevOps Operations,Himanshu Soni,48,Intern,Not Completed
+6618e4a2145643268cbdb6be,ADF,Ajay S,132,Employee,Not Completed
+6618e4a2145643268cbdb6bf,React JS,Hariharan N,252,Employee,Completed
+6618e4a2145643268cbdb6c0,SQL,Pichhapati Venkata Naveen,177,Intern,Not Completed
+6618e4a2145643268cbdb6c1,SQL,Gayathri G S,148,Intern,Completed
+6618e4a2145643268cbdb6c2,DevOps Operations,Arun Prasanth S,27,Intern,Completed
+6618e4a2145643268cbdb6c3,Data Warehouse - ETL,Molly Buxton,293,Intern,Completed
+6618e4a2145643268cbdb6c4,Security Testing,Akkim Balaji C,70,Intern,Completed
+6618e4a2145643268cbdb6c5,Git & Version Control,Ankit Kumar Mishra,44,Employee,Completed
+6618e4a2145643268cbdb6c6,Security Testing,Babu G,66,Employee,Completed
+6618e4a2145643268cbdb6c7,Security Testing,Ravishankar P,84,Employee,Completed
+6618e4a2145643268cbdb6c8,Security Testing,Prasanth S,75,Intern,Not Completed
+6618e4a2145643268cbdb6c9,DevOps Operations,Rekha Anandan,54,Employee,Not Completed
+6618e4a2145643268cbdb6ca,DevOps Operations,Anto Arokia Mary N L,52,Intern,Completed
+6618e4a2145643268cbdb6cb,Cloud Platforms,Hariharan N,27,Intern,Not Completed
+6618e4a2145643268cbdb6cc,Git & Version Control,Purvaja Vashistha,30,Intern,Completed
+6618e4a2145643268cbdb6cd,React JS,Pichhapati Venkata Naveen,181,Employee,Completed
+6618e4a2145643268cbdb6ce,UI / UX Concept Figma,Akkim Balaji C,48,Employee,Completed
+6618e4a2145643268cbdb6cf,React JS,Lejoy J,178,Employee,Completed
+6618e4a2145643268cbdb6d0,ML Basics,Christopher D,177,Employee,Completed
+6618e4a2145643268cbdb6d1,DevOps Operations,Achyut Pramod,43,Intern,Not Completed
+6618e4a2145643268cbdb6d2,SQL,Gayathri V,258,Employee,Not Completed
+6618e4a2145643268cbdb6d3,Git & Version Control,Sourav Kumar,51,Employee,Not Completed
+6618e4a2145643268cbdb6d4,React JS,Kanike Lakshmi Narayana,183,Employee,Completed
+6618e4a2145643268cbdb6d5,ML Basics,Keerthika Kannan,121,Employee,Completed
+6618e4a2145643268cbdb6d6,Security Testing,Neshanth G,81,Employee,Completed
+6618e4a2145643268cbdb6d7,Python for DS,Rajasundar Murugan Nadar C,79,Employee,Completed
+6618e4a2145643268cbdb6d8,UI / UX Concept Figma,Gopinath Ramesh,55,Intern,Completed
+6618e4a2145643268cbdb6d9,Data Warehouse - ETL,Michael Leovalan,272,Employee,Not Completed
+6618e4a2145643268cbdb6da,Python for DS,Ravishankar P,93,Intern,Completed
+6618e4a2145643268cbdb6db,DevOps Operations,Pooja Nareshsinh Thakur,59,Employee,Not Completed
+6618e4a2145643268cbdb6dc,Data Warehouse - ETL,Gayathri V,246,Intern,Completed
+6618e4a2145643268cbdb6dd,Git & Version Control,Sathish Kumar V,25,Intern,Completed
+6618e4a2145643268cbdb6de,Security Testing,Rekha Anandan,80,Employee,Not Completed
+6618e4a2145643268cbdb6df,ADF,Arun Prasanth S,115,Intern,Completed
+6618e4a2145643268cbdb6e0,Security Testing,Gayathri G S,76,Employee,Completed
+6618e4a2145643268cbdb6e1,React JS,Naveen Kumar S,204,Employee,Completed
+6618e4a2145643268cbdb6e2,Cloud Platforms,Likhitha Gurram,31,Employee,Completed
+6618e4a2145643268cbdb6e3,React JS,Christopher Raj,173,Employee,Not Completed
+6618e4a2145643268cbdb6e4,DevOps Operations,Shirpi A,57,Employee,Completed
+6618e4a2145643268cbdb6e5,ML Basics,Babu G,150,Intern,Not Completed
+6618e4a2145643268cbdb6e6,Data Warehouse - ETL,Sourav Kumar,253,Employee,Not Completed
+6618e4a2145643268cbdb6e7,Cloud Platforms,Nivya V,21,Employee,Completed
+6618e4a2145643268cbdb6e8,Cloud Platforms,Ruthraraj R,22,Intern,Not Completed
+6618e4a2145643268cbdb6e9,Security Testing,Arun Prasanth S,79,Intern,Not Completed
+6618e4a2145643268cbdb6ea,Cloud Platforms,Purvaja Vashistha,28,Employee,Completed
+6618e4a2145643268cbdb6eb,Quality Assurance Basics,Disha Matilda B,30,Intern,Not Completed
+6618e4a2145643268cbdb6ec,SQL,Naga Sandeep Reddy P,155,Intern,Completed
+6618e4a2145643268cbdb6ed,Git & Version Control,Livin Albert B,31,Intern,Not Completed
+6618e4a2145643268cbdb6ee,SQL,Arun Prasanth S,192,Intern,Completed
+6618e4a2145643268cbdb6ef,UI / UX Concept Figma,Christopher D,50,Employee,Not Completed
+6618e4a2145643268cbdb6f0,Security Testing,Livin Albert B,67,Intern,Completed
+6618e4a2145643268cbdb6f1,ADF,Michael Leovalan,150,Employee,Completed
+6618e4a2145643268cbdb6f2,Git & Version Control,Akkim Balaji C,47,Employee,Completed
+6618e4a2145643268cbdb6f3,Security Testing,Disha Matilda B,60,Intern,Not Completed
+6618e4a2145643268cbdb6f4,UI / UX Concept Figma,Harish P,62,Employee,Completed
+6618e4a2145643268cbdb6f5,Cloud Platforms,Sourav Kumar,16,Intern,Completed
+6618e4a2145643268cbdb6f6,DevOps Operations,Gayathri V,64,Employee,Completed
+6618e4a2145643268cbdb6f7,ADF,Arun Prasanth S,132,Employee,Not Completed
+6618e4a2145643268cbdb6f8,Quality Assurance Basics,Divya R,46,Employee,Not Completed
+6618e4a2145643268cbdb6f9,SQL,Ajay S,222,Employee,Completed
+6618e4a2145643268cbdb6fa,UI / UX Concept Figma,Arjun Ganesan,60,Intern,Not Completed
+6618e4a2145643268cbdb6fb,Cloud Platforms,Dhaneshwaran D,21,Intern,Not Completed
+6618e4a2145643268cbdb6fc,ADF,Ravishankar P,154,Employee,Not Completed
+6618e4a2145643268cbdb6fd,DevOps Operations,Prasanth S,53,Employee,Completed
+6618e4a2145643268cbdb6fe,UI / UX Concept Figma,Rajasundar Murugan Nadar C,47,Employee,Not Completed
+6618e4a2145643268cbdb6ff,React JS,Sourav Kumar,242,Employee,Not Completed
+6618e4a2145643268cbdb700,React JS,Ankit Kumar Mishra,157,Employee,Completed
+6618e4a2145643268cbdb701,Quality Assurance Basics,Likhitha Gurram,35,Intern,Not Completed
+6618e4a2145643268cbdb702,ML Basics,Gayathri G S,123,Employee,Completed
+6618e4a2145643268cbdb703,Cloud Platforms,Himanshu Soni,31,Employee,Completed
+6618e4a2145643268cbdb704,Security Testing,Sourav Kumar,65,Intern,Not Completed
+6618e4a2145643268cbdb705,UI / UX Concept Figma,Vignesh Anantharaj,36,Employee,Completed
+6618e4a2145643268cbdb706,Data Warehouse - ETL,Gayathri V,211,Employee,Not Completed
+6618e4a2145643268cbdb707,UI / UX Concept Figma,Vendeeshwaran C,49,Intern,Not Completed
+6618e4a2145643268cbdb708,Security Testing,Kundan Kumar S,58,Intern,Completed
+6618e4a2145643268cbdb709,SQL,Hariharan N,160,Intern,Not Completed
+6618e4a2145643268cbdb70a,Quality Assurance Basics,Vendeeshwaran C,40,Employee,Not Completed
+6618e4a2145643268cbdb70b,React JS,Ruthraraj R,160,Employee,Not Completed
+6618e4a2145643268cbdb70c,React JS,Gayathri V,247,Employee,Not Completed
+6618e4a2145643268cbdb70d,Cloud Platforms,Likhitha Gurram,35,Employee,Completed
+6618e4a2145643268cbdb70e,Quality Assurance Basics,Kundan Kumar S,55,Employee,Not Completed
+6618e4a2145643268cbdb70f,ML Basics,Disha Matilda B,135,Intern,Completed
+6618e4a2145643268cbdb710,React JS,Shirpi A,152,Intern,Completed
+6618e4a2145643268cbdb711,Python for DS,Arjun Ganesan,74,Intern,Completed
+6618e4a2145643268cbdb712,UI / UX Concept Figma,Livin Albert B,63,Employee,Not Completed
+6618e4a2145643268cbdb713,React JS,Hariharan N,222,Employee,Completed
+6618e4a2145643268cbdb714,Python for DS,Swatikka C,75,Intern,Not Completed
+6618e4a2145643268cbdb715,React JS,Venkata Charan Kumar Maddula,181,Employee,Completed
+6618e4a2145643268cbdb716,DevOps Operations,Molly Buxton,61,Employee,Completed
+6618e4a2145643268cbdb717,DevOps Operations,Molly Buxton,50,Intern,Completed
+6618e4a2145643268cbdb718,SQL,Sathish Kumar V,245,Employee,Not Completed
+6618e4a2145643268cbdb719,Cloud Platforms,Livin Albert B,28,Intern,Not Completed
+6618e4a2145643268cbdb71a,React JS,Kanike Lakshmi Narayana,214,Employee,Completed
+6618e4a2145643268cbdb71b,Python for DS,Arun Prasanth S,101,Employee,Completed
+6618e4a2145643268cbdb71c,ADF,Sourav Kumar,134,Employee,Completed
+6618e4a2145643268cbdb71d,Data Warehouse - ETL,Christopher Raj,262,Intern,Completed
+6618e4a2145643268cbdb71e,UI / UX Concept Figma,Molly Buxton,38,Employee,Completed
+6618e4a2145643268cbdb71f,Security Testing,Ajay S,68,Intern,Not Completed
+6618e4a2145643268cbdb720,Quality Assurance Basics,Venkata Charan Kumar Maddula,52,Employee,Not Completed

@@ -33,7 +33,7 @@ workSessions_status AS (
 total_users_per_assignment AS (
     SELECT
         assessment_id AS worksession_id,
-        COUNT(email) AS user_count,
+        COUNT(email) AS user_count, 
         SUM(marks_obtained) AS total_marks_per_assessment
     FROM
         performance

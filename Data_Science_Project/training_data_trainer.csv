@@ -1,0 +1,1001 @@
+Session_id,Training_name,Trainer_name,Start_time,End_time,Duration,UserType,Status
+66190338145643268cbde601,React JS,Ajay S,2024-04-12 13:32:36,2024-04-12 18:06:36,274,Intern,Not Completed
+66190338145643268cbde602,Git & Version Control,Gayathri V,2024-04-11 18:26:36,2024-04-11 18:56:36,30,Employee,Not Completed
+66190338145643268cbde603,ADF,Sathish Kumar V,2024-04-12 05:11:36,2024-04-12 06:32:36,81,Employee,Completed
+66190338145643268cbde604,ADF,Vendeeshwaran C,2024-04-12 01:39:36,2024-04-12 03:07:36,88,Employee,Completed
+66190338145643268cbde605,UI / UX Concept Figma,Hariharan N,2024-04-11 21:21:36,2024-04-11 22:33:36,72,Intern,Completed
+66190338145643268cbde606,DevOps Operations,Lavanya R,2024-04-12 15:13:36,2024-04-12 15:49:36,36,Employee,Not Completed
+66190338145643268cbde607,Quality Assurance Basics,Sivamalini V,2024-04-12 12:41:36,2024-04-12 14:21:36,100,Intern,Not Completed
+66190338145643268cbde608,Security Testing,Harish P,2024-04-11 20:24:36,2024-04-11 22:26:36,122,Intern,Not Completed
+66190338145643268cbde609,SQL,Satyam Pandey S,2024-04-11 20:15:36,2024-04-11 23:46:36,211,Intern,Completed
+66190338145643268cbde60a,Git & Version Control,Akkim Balaji C,2024-04-11 23:29:36,2024-04-11 23:32:36,3,Employee,Completed
+66190338145643268cbde60b,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 13:44:36,2024-04-12 16:53:36,189,Employee,Completed
+66190338145643268cbde60c,Git & Version Control,Gayathri V,2024-04-12 13:56:36,2024-04-12 14:39:36,43,Employee,Not Completed
+66190338145643268cbde60d,Python for DS,Radhakrishnan R,2024-04-12 00:03:36,2024-04-12 01:19:36,76,Employee,Not Completed
+66190338145643268cbde60e,Cloud Platforms,Molly Buxton,2024-04-11 16:41:36,2024-04-11 18:07:36,86,Intern,Not Completed
+66190338145643268cbde60f,DevOps Operations,Lavanya R,2024-04-12 07:13:36,2024-04-12 07:25:36,12,Employee,Completed
+66190338145643268cbde610,Cloud Platforms,Gopinath Ramesh,2024-04-11 23:40:36,2024-04-11 23:18:36,-22,Employee,Completed
+66190338145643268cbde611,Security Testing,Purvaja Vashistha,2024-04-12 00:50:36,2024-04-12 01:25:36,35,Employee,Completed
+66190338145643268cbde612,DevOps Operations,Anto Arokia Mary N L,2024-04-12 04:14:36,2024-04-12 04:24:36,10,Employee,Completed
+66190338145643268cbde613,SQL,Satyam Pandey S,2024-04-12 00:56:36,2024-04-12 04:05:36,189,Employee,Not Completed
+66190338145643268cbde614,UI / UX Concept Figma,Rekha Anandan,2024-04-11 19:37:36,2024-04-11 21:13:36,96,Intern,Not Completed
+66190338145643268cbde615,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 14:03:36,2024-04-12 16:54:36,171,Intern,Completed
+66190338145643268cbde616,Git & Version Control,Gayathri V,2024-04-12 05:50:36,2024-04-12 05:51:36,1,Employee,Completed
+66190338145643268cbde617,Security Testing,Purvaja Vashistha,2024-04-12 02:24:36,2024-04-12 04:02:36,98,Intern,Completed
+66190338145643268cbde618,DevOps Operations,Anto Arokia Mary N L,2024-04-12 10:14:36,2024-04-12 11:14:36,60,Intern,Completed
+66190338145643268cbde619,Security Testing,Likhitha Gurram,2024-04-11 19:04:36,2024-04-11 20:13:36,69,Employee,Not Completed
+66190338145643268cbde61a,UI / UX Concept Figma,Rekha Anandan,2024-04-12 13:09:36,2024-04-12 13:59:36,50,Employee,Not Completed
+66190338145643268cbde61b,Cloud Platforms,Neshanth G,2024-04-12 06:58:36,2024-04-12 06:44:36,-14,Employee,Completed
+66190338145643268cbde61c,React JS,Keerthika Kannan,2024-04-11 22:03:36,2024-04-12 00:03:36,120,Employee,Completed
+66190338145643268cbde61d,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 05:54:36,2024-04-12 07:39:36,105,Intern,Not Completed
+66190338145643268cbde61e,DevOps Operations,Sourav Kumar,2024-04-11 19:12:36,2024-04-11 20:52:36,100,Intern,Not Completed
+66190338145643268cbde61f,Git & Version Control,Vignesh Anantharaj,2024-04-12 08:24:36,2024-04-12 10:06:36,102,Intern,Not Completed
+66190338145643268cbde620,SQL,Felix Raj C,2024-04-11 17:28:36,2024-04-11 22:11:36,283,Intern,Not Completed
+66190338145643268cbde621,Python for DS,Livin Albert B,2024-04-12 14:24:36,2024-04-12 15:54:36,90,Employee,Not Completed
+66190338145643268cbde622,Git & Version Control,Gayathri V,2024-04-11 22:12:36,2024-04-11 22:46:36,34,Employee,Not Completed
+66190338145643268cbde623,SQL,Felix Raj C,2024-04-12 08:12:36,2024-04-12 11:25:36,193,Employee,Not Completed
+66190338145643268cbde624,DevOps Operations,Prasanth S,2024-04-12 13:23:36,2024-04-12 14:16:36,53,Intern,Completed
+66190338145643268cbde625,Security Testing,Harish P,2024-04-11 20:03:36,2024-04-11 20:26:36,23,Employee,Completed
+66190338145643268cbde626,Security Testing,Purvaja Vashistha,2024-04-12 05:09:36,2024-04-12 07:17:36,128,Intern,Not Completed
+66190338145643268cbde627,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 06:08:36,2024-04-12 09:42:36,214,Employee,Not Completed
+66190338145643268cbde628,Quality Assurance Basics,Arjun Ganesan,2024-04-11 22:44:36,2024-04-11 23:22:36,38,Employee,Not Completed
+66190338145643268cbde629,SQL,Sameer Basha B,2024-04-11 20:54:36,2024-04-11 23:55:36,181,Employee,Not Completed
+66190338145643268cbde62a,SQL,Sameer Basha B,2024-04-12 05:31:36,2024-04-12 08:03:36,152,Employee,Completed
+66190338145643268cbde62b,Data Warehouse - ETL,Anil Prasad L,2024-04-11 17:24:36,2024-04-11 21:42:36,258,Employee,Not Completed
+66190338145643268cbde62c,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 20:42:36,2024-04-11 23:33:36,171,Employee,Completed
+66190338145643268cbde62d,Security Testing,Disha Matilda B,2024-04-12 05:23:36,2024-04-12 06:51:36,88,Intern,Completed
+66190338145643268cbde62e,Git & Version Control,Akkim Balaji C,2024-04-11 21:33:36,2024-04-11 22:16:36,43,Employee,Not Completed
+66190338145643268cbde62f,DevOps Operations,Sourav Kumar,2024-04-12 06:58:36,2024-04-12 08:39:36,101,Intern,Not Completed
+66190338145643268cbde630,Security Testing,Disha Matilda B,2024-04-12 15:13:36,2024-04-12 17:19:36,126,Intern,Not Completed
+66190338145643268cbde631,React JS,Himanshu Soni,2024-04-12 06:23:36,2024-04-12 08:23:36,120,Employee,Completed
+66190338145643268cbde632,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-12 11:43:36,2024-04-12 12:29:36,46,Intern,Completed
+66190338145643268cbde633,React JS,Pichhapati Venkata Naveen,2024-04-12 04:41:36,2024-04-12 09:46:36,305,Intern,Not Completed
+66190338145643268cbde634,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 01:20:36,2024-04-12 03:36:36,136,Employee,Not Completed
+66190338145643268cbde635,Git & Version Control,Vignesh Anantharaj,2024-04-12 00:25:36,2024-04-12 02:05:36,100,Intern,Not Completed
+66190338145643268cbde636,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 10:06:36,2024-04-12 13:02:36,176,Intern,Not Completed
+66190338145643268cbde637,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-11 15:29:36,2024-04-11 15:05:36,-24,Employee,Completed
+66190338145643268cbde638,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 07:49:36,2024-04-12 09:34:36,105,Intern,Not Completed
+66190338145643268cbde639,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 02:28:36,2024-04-12 07:15:36,287,Employee,Not Completed
+66190338145643268cbde63a,DevOps Operations,Anto Arokia Mary N L,2024-04-12 08:20:36,2024-04-12 08:17:36,-3,Employee,Completed
+66190338145643268cbde63b,ADF,Vendeeshwaran C,2024-04-12 13:49:36,2024-04-12 16:33:36,164,Intern,Completed
+66190338145643268cbde63c,Python for DS,Vigneshwaran Jeyakumar,2024-04-11 23:38:36,2024-04-12 01:38:36,120,Intern,Not Completed
+66190338145643268cbde63d,ML Basics,Dhaneshwaran D,2024-04-12 01:56:36,2024-04-12 05:45:36,229,Intern,Not Completed
+66190338145643268cbde63e,Python for DS,Michael Leovalan,2024-04-11 17:13:36,2024-04-11 18:13:36,60,Employee,Not Completed
+66190338145643268cbde63f,SQL,Sameer Basha B,2024-04-11 18:35:36,2024-04-11 21:41:36,186,Employee,Completed
+66190338145643268cbde640,SQL,Sameer Basha B,2024-04-12 13:07:36,2024-04-12 17:14:36,247,Intern,Not Completed
+66190338145643268cbde641,Data Warehouse - ETL,Anil Prasad L,2024-04-11 17:12:36,2024-04-11 22:29:36,317,Intern,Not Completed
+66190338145643268cbde642,ADF,Divya R,2024-04-12 06:00:36,2024-04-12 09:00:36,180,Intern,Not Completed
+66190338145643268cbde643,Python for DS,Livin Albert B,2024-04-12 06:48:36,2024-04-12 08:26:36,98,Employee,Not Completed
+66190338145643268cbde644,Python for DS,Christopher D,2024-04-12 13:12:36,2024-04-12 13:47:36,35,Employee,Completed
+66190338145643268cbde645,React JS,Himanshu Soni,2024-04-12 04:04:36,2024-04-12 07:16:36,192,Employee,Not Completed
+66190338145643268cbde646,Python for DS,Michael Leovalan,2024-04-11 16:37:36,2024-04-11 18:28:36,111,Intern,Completed
+66190338145643268cbde647,Data Warehouse - ETL,Lejoy J,2024-04-11 15:53:36,2024-04-11 20:27:36,274,Employee,Not Completed
+66190338145643268cbde648,DevOps Operations,Naveen Kumar S,2024-04-12 10:05:36,2024-04-12 11:58:36,113,Intern,Not Completed
+66190338145643268cbde649,Security Testing,Harish P,2024-04-12 08:36:36,2024-04-12 09:56:36,80,Intern,Completed
+66190338145643268cbde64a,Security Testing,Likhitha Gurram,2024-04-11 15:27:36,2024-04-11 15:53:36,26,Employee,Completed
+66190338145643268cbde64b,React JS,Keerthika Kannan,2024-04-12 08:22:36,2024-04-12 10:45:36,143,Employee,Completed
+66190338145643268cbde64c,SQL,Felix Raj C,2024-04-11 23:11:36,2024-04-12 04:11:36,300,Intern,Not Completed
+66190338145643268cbde64d,Cloud Platforms,Neshanth G,2024-04-12 11:18:36,2024-04-12 12:37:36,79,Intern,Not Completed
+66190338145643268cbde64e,Git & Version Control,Gayathri G S,2024-04-12 04:52:36,2024-04-12 05:22:36,30,Employee,Not Completed
+66190338145643268cbde64f,ADF,Sathish Kumar V,2024-04-12 09:04:36,2024-04-12 12:19:36,195,Intern,Not Completed
+66190338145643268cbde650,Security Testing,Disha Matilda B,2024-04-12 05:44:36,2024-04-12 07:51:36,127,Intern,Not Completed
+66190338145643268cbde651,Quality Assurance Basics,Sivamalini V,2024-04-12 11:34:36,2024-04-12 12:37:36,63,Intern,Completed
+66190338145643268cbde652,SQL,Satyam Pandey S,2024-04-11 18:42:36,2024-04-11 22:50:36,248,Intern,Completed
+66190338145643268cbde653,Python for DS,Michael Leovalan,2024-04-12 12:37:36,2024-04-12 15:03:36,146,Intern,Not Completed
+66190338145643268cbde654,Git & Version Control,Gayathri G S,2024-04-12 02:48:36,2024-04-12 04:26:36,98,Intern,Not Completed
+66190338145643268cbde655,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 15:11:36,2024-04-12 17:21:36,130,Intern,Not Completed
+66190338145643268cbde656,Git & Version Control,Akkim Balaji C,2024-04-12 11:55:36,2024-04-12 13:34:36,99,Intern,Not Completed
+66190338145643268cbde657,ADF,Divya R,2024-04-11 23:42:36,2024-04-12 01:18:36,96,Employee,Completed
+66190338145643268cbde658,SQL,Sameer Basha B,2024-04-12 13:42:36,2024-04-12 15:41:36,119,Employee,Completed
+66190338145643268cbde659,ML Basics,Dhaneshwaran D,2024-04-12 05:47:36,2024-04-12 09:12:36,205,Intern,Not Completed
+66190338145643268cbde65a,Cloud Platforms,Neshanth G,2024-04-12 00:57:36,2024-04-12 00:41:36,-16,Employee,Completed
+66190338145643268cbde65b,Data Warehouse - ETL,Lejoy J,2024-04-12 10:18:36,2024-04-12 14:21:36,243,Employee,Completed
+66190338145643268cbde65c,ML Basics,Arun Prasanth S,2024-04-12 05:49:36,2024-04-12 09:22:36,213,Intern,Not Completed
+66190338145643268cbde65d,React JS,Himanshu Soni,2024-04-12 11:35:36,2024-04-12 15:38:36,243,Employee,Not Completed
+66190338145643268cbde65e,Quality Assurance Basics,Vikas Vyavhare,2024-04-11 17:51:36,2024-04-11 18:25:36,34,Employee,Not Completed
+66190338145643268cbde65f,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 08:05:36,2024-04-12 08:40:36,35,Employee,Not Completed
+66190338145643268cbde660,Quality Assurance Basics,Achyut Pramod,2024-04-12 10:58:36,2024-04-12 11:38:36,40,Employee,Not Completed
+66190338145643268cbde661,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 15:59:36,2024-04-11 16:09:36,10,Employee,Completed
+66190338145643268cbde662,Security Testing,Christopher Raj,2024-04-11 22:32:36,2024-04-12 00:05:36,93,Intern,Completed
+66190338145643268cbde663,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 23:16:36,2024-04-12 01:03:36,107,Intern,Not Completed
+66190338145643268cbde664,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 14:27:36,2024-04-12 18:25:36,238,Employee,Not Completed
+66190338145643268cbde665,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 11:04:36,2024-04-12 11:58:36,54,Employee,Completed
+66190338145643268cbde666,Data Warehouse - ETL,Lejoy J,2024-04-12 01:27:36,2024-04-12 05:56:36,269,Intern,Not Completed
+66190338145643268cbde667,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 16:45:36,2024-04-11 16:49:36,4,Employee,Completed
+66190338145643268cbde668,Python for DS,Radhakrishnan R,2024-04-11 21:06:36,2024-04-11 21:37:36,31,Employee,Completed
+66190338145643268cbde669,React JS,Himanshu Soni,2024-04-11 22:19:36,2024-04-12 03:14:36,295,Intern,Not Completed
+66190338145643268cbde66a,Quality Assurance Basics,Arjun Ganesan,2024-04-12 08:36:36,2024-04-12 09:34:36,58,Intern,Completed
+66190338145643268cbde66b,DevOps Operations,Lavanya R,2024-04-12 00:10:36,2024-04-12 01:00:36,50,Employee,Not Completed
+66190338145643268cbde66c,React JS,Keerthika Kannan,2024-04-11 22:11:36,2024-04-12 02:14:36,243,Intern,Not Completed
+66190338145643268cbde66d,Quality Assurance Basics,Sivamalini V,2024-04-11 23:10:36,2024-04-11 23:03:36,-7,Employee,Completed
+66190338145643268cbde66e,ADF,Divya R,2024-04-12 02:25:36,2024-04-12 05:32:36,187,Intern,Not Completed
+66190338145643268cbde66f,UI / UX Concept Figma,Hariharan N,2024-04-12 09:50:36,2024-04-12 11:06:36,76,Intern,Completed
+66190338145643268cbde670,ADF,Divya R,2024-04-11 18:02:36,2024-04-11 21:11:36,189,Intern,Not Completed
+66190338145643268cbde671,ML Basics,Swatikka C,2024-04-11 16:57:36,2024-04-11 19:02:36,125,Employee,Not Completed
+66190338145643268cbde672,Cloud Platforms,Neshanth G,2024-04-11 23:56:36,2024-04-11 23:33:36,-23,Employee,Completed
+66190338145643268cbde673,DevOps Operations,Prasanth S,2024-04-12 03:50:36,2024-04-12 05:26:36,96,Intern,Not Completed
+66190338145643268cbde674,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-11 21:47:36,2024-04-11 23:10:36,83,Intern,Not Completed
+66190338145643268cbde675,Python for DS,Michael Leovalan,2024-04-11 17:05:36,2024-04-11 19:44:36,159,Intern,Not Completed
+66190338145643268cbde676,Cloud Platforms,Molly Buxton,2024-04-12 05:07:36,2024-04-12 04:55:36,-12,Employee,Completed
+66190338145643268cbde677,Security Testing,Christopher Raj,2024-04-11 20:43:36,2024-04-11 21:20:36,37,Employee,Completed
+66190338145643268cbde678,SQL,Satyam Pandey S,2024-04-12 12:35:36,2024-04-12 17:09:36,274,Intern,Not Completed
+66190338145643268cbde679,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 22:28:36,2024-04-12 02:16:36,228,Intern,Completed
+66190338145643268cbde67a,Cloud Platforms,Molly Buxton,2024-04-12 10:34:36,2024-04-12 11:10:36,36,Intern,Completed
+66190338145643268cbde67b,Cloud Platforms,Neshanth G,2024-04-12 01:31:36,2024-04-12 01:19:36,-12,Employee,Completed
+66190338145643268cbde67c,DevOps Operations,Lavanya R,2024-04-12 01:58:36,2024-04-12 02:55:36,57,Employee,Not Completed
+66190338145643268cbde67d,SQL,Satyam Pandey S,2024-04-12 13:06:36,2024-04-12 16:24:36,198,Intern,Completed
+66190338145643268cbde67e,React JS,Himanshu Soni,2024-04-12 01:17:36,2024-04-12 04:43:36,206,Intern,Completed
+66190338145643268cbde67f,Python for DS,Christopher D,2024-04-12 12:00:36,2024-04-12 13:30:36,90,Employee,Not Completed
+66190338145643268cbde680,Security Testing,Disha Matilda B,2024-04-11 17:27:36,2024-04-11 19:43:36,136,Intern,Not Completed
+66190338145643268cbde681,React JS,Ajay S,2024-04-12 01:25:36,2024-04-12 04:04:36,159,Employee,Not Completed
+66190338145643268cbde682,Cloud Platforms,Gopinath Ramesh,2024-04-12 12:02:36,2024-04-12 11:38:36,-24,Employee,Completed
+66190338145643268cbde683,React JS,Keerthika Kannan,2024-04-11 17:04:36,2024-04-11 21:56:36,292,Intern,Not Completed
+66190338145643268cbde684,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 03:34:36,2024-04-12 08:03:36,269,Employee,Not Completed
+66190338145643268cbde685,ML Basics,Dhaneshwaran D,2024-04-11 17:14:36,2024-04-11 20:09:36,175,Intern,Completed
+66190338145643268cbde686,UI / UX Concept Figma,Rekha Anandan,2024-04-11 20:11:36,2024-04-11 20:02:36,-9,Employee,Completed
+66190338145643268cbde687,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-11 22:32:36,2024-04-12 03:07:36,275,Intern,Completed
+66190338145643268cbde688,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 00:35:36,2024-04-12 04:44:36,249,Employee,Not Completed
+66190338145643268cbde689,UI / UX Concept Figma,Hariharan N,2024-04-11 22:09:36,2024-04-11 22:07:36,-2,Employee,Completed
+66190338145643268cbde68a,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 19:37:36,2024-04-12 00:51:36,314,Intern,Completed
+66190338145643268cbde68b,Python for DS,Radhakrishnan R,2024-04-11 22:05:36,2024-04-11 23:21:36,76,Employee,Not Completed
+66190338145643268cbde68c,Git & Version Control,Akkim Balaji C,2024-04-12 05:09:36,2024-04-12 06:06:36,57,Intern,Completed
+66190338145643268cbde68d,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 11:35:36,2024-04-12 11:54:36,19,Employee,Completed
+66190338145643268cbde68e,ADF,Vendeeshwaran C,2024-04-12 08:16:36,2024-04-12 11:18:36,182,Intern,Not Completed
+66190338145643268cbde68f,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 10:19:36,2024-04-12 14:57:36,278,Employee,Not Completed
+66190338145643268cbde690,ML Basics,Dhaneshwaran D,2024-04-12 10:35:36,2024-04-12 13:03:36,148,Employee,Not Completed
+66190338145643268cbde691,Data Warehouse - ETL,Lejoy J,2024-04-12 01:10:36,2024-04-12 04:51:36,221,Employee,Not Completed
+66190338145643268cbde692,ML Basics,Dhaneshwaran D,2024-04-11 21:19:36,2024-04-12 00:29:36,190,Intern,Not Completed
+66190338145643268cbde693,Git & Version Control,Akkim Balaji C,2024-04-12 03:24:36,2024-04-12 05:05:36,101,Intern,Not Completed
+66190338145643268cbde694,React JS,Himanshu Soni,2024-04-11 17:00:36,2024-04-11 21:10:36,250,Intern,Not Completed
+66190338145643268cbde695,React JS,Ajay S,2024-04-11 23:54:36,2024-04-12 02:30:36,156,Employee,Not Completed
+66190338145643268cbde696,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 18:53:36,2024-04-11 19:55:36,62,Employee,Completed
+66190338145643268cbde697,Data Warehouse - ETL,Anil Prasad L,2024-04-12 11:08:36,2024-04-12 15:19:36,251,Employee,Not Completed
+66190338145643268cbde698,Quality Assurance Basics,Achyut Pramod,2024-04-12 00:09:36,2024-04-12 00:02:36,-7,Employee,Completed
+66190338145643268cbde699,React JS,Keerthika Kannan,2024-04-11 23:07:36,2024-04-12 01:00:36,113,Employee,Completed
+66190338145643268cbde69a,ML Basics,Kundan Kumar S,2024-04-11 18:41:36,2024-04-11 22:27:36,226,Intern,Not Completed
+66190338145643268cbde69b,Security Testing,Disha Matilda B,2024-04-11 23:19:36,2024-04-12 01:25:36,126,Intern,Not Completed
+66190338145643268cbde69c,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 23:53:36,2024-04-12 05:39:36,346,Intern,Not Completed
+66190338145643268cbde69d,Python for DS,Michael Leovalan,2024-04-11 20:19:36,2024-04-11 20:44:36,25,Employee,Completed
+66190338145643268cbde69e,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 10:48:36,2024-04-12 11:03:36,15,Employee,Completed
+66190338145643268cbde69f,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 05:51:36,2024-04-12 07:54:36,123,Intern,Not Completed
+66190338145643268cbde6a0,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 04:18:36,2024-04-12 10:00:36,342,Intern,Not Completed
+66190338145643268cbde6a1,UI / UX Concept Figma,Hariharan N,2024-04-11 19:33:36,2024-04-11 20:25:36,52,Employee,Not Completed
+66190338145643268cbde6a2,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-11 20:36:36,2024-04-11 22:01:36,85,Intern,Not Completed
+66190338145643268cbde6a3,Security Testing,Likhitha Gurram,2024-04-12 13:19:36,2024-04-12 14:32:36,73,Employee,Not Completed
+66190338145643268cbde6a4,Security Testing,Purvaja Vashistha,2024-04-12 01:24:36,2024-04-12 02:52:36,88,Intern,Completed
+66190338145643268cbde6a5,ML Basics,Dhaneshwaran D,2024-04-12 08:45:36,2024-04-12 11:03:36,138,Employee,Completed
+66190338145643268cbde6a6,DevOps Operations,Sourav Kumar,2024-04-12 00:10:36,2024-04-12 01:59:36,109,Intern,Not Completed
+66190338145643268cbde6a7,ADF,Divya R,2024-04-11 20:13:36,2024-04-11 21:39:36,86,Employee,Completed
+66190338145643268cbde6a8,React JS,Himanshu Soni,2024-04-11 19:29:36,2024-04-11 22:57:36,208,Intern,Completed
+66190338145643268cbde6a9,SQL,Nivya V,2024-04-12 06:31:36,2024-04-12 09:36:36,185,Employee,Not Completed
+66190338145643268cbde6aa,Cloud Platforms,Neshanth G,2024-04-11 16:25:36,2024-04-11 16:54:36,29,Employee,Not Completed
+66190338145643268cbde6ab,Git & Version Control,Gayathri G S,2024-04-12 12:53:36,2024-04-12 13:32:36,39,Employee,Not Completed
+66190338145643268cbde6ac,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 23:26:36,2024-04-12 00:08:36,42,Employee,Not Completed
+66190338145643268cbde6ad,DevOps Operations,Naveen Kumar S,2024-04-12 05:02:36,2024-04-12 06:03:36,61,Intern,Completed
+66190338145643268cbde6ae,ML Basics,Arun Prasanth S,2024-04-12 04:58:36,2024-04-12 07:03:36,125,Employee,Not Completed
+66190338145643268cbde6af,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 23:41:36,2024-04-12 02:05:36,144,Employee,Completed
+66190338145643268cbde6b0,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 06:33:36,2024-04-12 08:10:36,97,Intern,Not Completed
+66190338145643268cbde6b1,ADF,Ruthraraj R,2024-04-12 09:48:36,2024-04-12 11:16:36,88,Employee,Completed
+66190338145643268cbde6b2,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 01:05:36,2024-04-12 01:14:36,9,Employee,Completed
+66190338145643268cbde6b3,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 07:45:36,2024-04-12 10:27:36,162,Intern,Completed
+66190338145643268cbde6b4,React JS,Pichhapati Venkata Naveen,2024-04-12 12:24:36,2024-04-12 16:42:36,258,Intern,Completed
+66190338145643268cbde6b5,Security Testing,Christopher Raj,2024-04-12 07:14:36,2024-04-12 08:22:36,68,Employee,Not Completed
+66190338145643268cbde6b6,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 11:38:36,2024-04-12 13:35:36,117,Intern,Not Completed
+66190338145643268cbde6b7,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 11:59:36,2024-04-12 13:44:36,105,Intern,Not Completed
+66190338145643268cbde6b8,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 05:56:36,2024-04-12 06:54:36,58,Employee,Completed
+66190338145643268cbde6b9,Git & Version Control,Gayathri G S,2024-04-12 02:59:36,2024-04-12 03:58:36,59,Intern,Completed
+66190338145643268cbde6ba,Git & Version Control,Akkim Balaji C,2024-04-11 20:46:36,2024-04-11 20:45:36,-1,Employee,Completed
+66190338145643268cbde6bb,ADF,Sathish Kumar V,2024-04-11 17:12:36,2024-04-11 18:41:36,89,Employee,Completed
+66190338145643268cbde6bc,ADF,Sathish Kumar V,2024-04-12 00:17:36,2024-04-12 03:30:36,193,Intern,Not Completed
+66190338145643268cbde6bd,React JS,Shirpi A,2024-04-12 05:51:36,2024-04-12 08:21:36,150,Employee,Not Completed
+66190338145643268cbde6be,ML Basics,Dhaneshwaran D,2024-04-12 11:02:36,2024-04-12 14:40:36,218,Intern,Completed
+66190338145643268cbde6bf,Cloud Platforms,Gopinath Ramesh,2024-04-11 23:05:36,2024-04-12 00:26:36,81,Intern,Not Completed
+66190338145643268cbde6c0,Git & Version Control,Akkim Balaji C,2024-04-12 00:41:36,2024-04-12 00:43:36,2,Employee,Completed
+66190338145643268cbde6c1,ML Basics,Swatikka C,2024-04-12 11:16:36,2024-04-12 13:10:36,114,Employee,Not Completed
+66190338145643268cbde6c2,Cloud Platforms,Neshanth G,2024-04-11 15:50:36,2024-04-11 16:28:36,38,Intern,Completed
+66190338145643268cbde6c3,Security Testing,Disha Matilda B,2024-04-11 20:41:36,2024-04-11 22:56:36,135,Intern,Not Completed
+66190338145643268cbde6c4,ML Basics,Arun Prasanth S,2024-04-11 18:35:36,2024-04-11 20:56:36,141,Intern,Completed
+66190338145643268cbde6c5,ADF,Ruthraraj R,2024-04-12 13:07:36,2024-04-12 15:48:36,161,Intern,Completed
+66190338145643268cbde6c6,Git & Version Control,Naga Sandeep Reddy P,2024-04-11 22:30:36,2024-04-12 00:12:36,102,Intern,Not Completed
+66190338145643268cbde6c7,DevOps Operations,Lavanya R,2024-04-11 17:00:36,2024-04-11 18:54:36,114,Intern,Not Completed
+66190338145643268cbde6c8,React JS,Pichhapati Venkata Naveen,2024-04-12 05:33:36,2024-04-12 10:35:36,302,Intern,Not Completed
+66190338145643268cbde6c9,Security Testing,Harish P,2024-04-11 19:17:36,2024-04-11 19:39:36,22,Employee,Completed
+66190338145643268cbde6ca,Git & Version Control,Gayathri V,2024-04-11 18:23:36,2024-04-11 19:00:36,37,Employee,Not Completed
+66190338145643268cbde6cb,SQL,Felix Raj C,2024-04-11 15:34:36,2024-04-11 18:58:36,204,Intern,Completed
+66190338145643268cbde6cc,Security Testing,Christopher Raj,2024-04-12 07:14:36,2024-04-12 07:37:36,23,Employee,Completed
+66190338145643268cbde6cd,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 23:10:36,2024-04-12 00:11:36,61,Intern,Completed
+66190338145643268cbde6ce,DevOps Operations,Naveen Kumar S,2024-04-12 02:13:36,2024-04-12 04:13:36,120,Intern,Not Completed
+66190338145643268cbde6cf,React JS,Himanshu Soni,2024-04-11 22:54:36,2024-04-12 01:13:36,139,Employee,Completed
+66190338145643268cbde6d0,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 08:05:36,2024-04-12 10:33:36,148,Intern,Not Completed
+66190338145643268cbde6d1,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 00:24:36,2024-04-12 01:29:36,65,Intern,Completed
+66190338145643268cbde6d2,Cloud Platforms,Neshanth G,2024-04-11 21:36:36,2024-04-11 22:06:36,30,Employee,Not Completed
+66190338145643268cbde6d3,SQL,Sameer Basha B,2024-04-12 13:55:36,2024-04-12 17:58:36,243,Intern,Not Completed
+66190338145643268cbde6d4,Git & Version Control,Akkim Balaji C,2024-04-11 22:49:36,2024-04-11 22:43:36,-6,Employee,Completed
+66190338145643268cbde6d5,Security Testing,Disha Matilda B,2024-04-12 04:44:36,2024-04-12 05:59:36,75,Employee,Not Completed
+66190338145643268cbde6d6,Python for DS,Livin Albert B,2024-04-12 01:32:36,2024-04-12 04:09:36,157,Intern,Not Completed
+66190338145643268cbde6d7,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 07:16:36,2024-04-12 09:45:36,149,Intern,Not Completed
+66190338145643268cbde6d8,Quality Assurance Basics,Arjun Ganesan,2024-04-12 06:53:36,2024-04-12 07:36:36,43,Employee,Not Completed
+66190338145643268cbde6d9,Git & Version Control,Akkim Balaji C,2024-04-11 20:27:36,2024-04-11 20:32:36,5,Employee,Completed
+66190338145643268cbde6da,Cloud Platforms,Gopinath Ramesh,2024-04-12 02:58:36,2024-04-12 04:23:36,85,Intern,Not Completed
+66190338145643268cbde6db,Cloud Platforms,Neshanth G,2024-04-11 23:15:36,2024-04-11 22:52:36,-23,Employee,Completed
+66190338145643268cbde6dc,ADF,Ravishankar P,2024-04-11 18:11:36,2024-04-11 20:39:36,148,Intern,Completed
+66190338145643268cbde6dd,Python for DS,Radhakrishnan R,2024-04-12 04:55:36,2024-04-12 06:37:36,102,Intern,Completed
+66190338145643268cbde6de,SQL,Felix Raj C,2024-04-12 06:24:36,2024-04-12 08:56:36,152,Employee,Not Completed
+66190338145643268cbde6df,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 14:26:36,2024-04-12 16:23:36,117,Intern,Not Completed
+66190338145643268cbde6e0,Data Warehouse - ETL,Lejoy J,2024-04-12 05:37:36,2024-04-12 09:27:36,230,Employee,Not Completed
+66190338145643268cbde6e1,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 11:08:36,2024-04-12 12:02:36,54,Employee,Not Completed
+66190338145643268cbde6e2,SQL,Sameer Basha B,2024-04-12 06:17:36,2024-04-12 09:46:36,209,Employee,Not Completed
+66190338145643268cbde6e3,ADF,Divya R,2024-04-12 01:54:36,2024-04-12 04:10:36,136,Employee,Not Completed
+66190338145643268cbde6e4,Git & Version Control,Naga Sandeep Reddy P,2024-04-11 19:09:36,2024-04-11 20:50:36,101,Intern,Not Completed
+66190338145643268cbde6e5,DevOps Operations,Naveen Kumar S,2024-04-12 06:18:36,2024-04-12 06:18:36,0,Employee,Completed
+66190338145643268cbde6e6,React JS,Shirpi A,2024-04-12 14:29:36,2024-04-12 17:35:36,186,Intern,Completed
+66190338145643268cbde6e7,UI / UX Concept Figma,Babu G,2024-04-12 13:02:36,2024-04-12 14:46:36,104,Intern,Not Completed
+66190338145643268cbde6e8,Python for DS,Christopher D,2024-04-12 08:46:36,2024-04-12 10:56:36,130,Intern,Not Completed
+66190338145643268cbde6e9,React JS,Keerthika Kannan,2024-04-11 16:47:36,2024-04-11 20:58:36,251,Intern,Not Completed
+66190338145643268cbde6ea,UI / UX Concept Figma,Babu G,2024-04-12 14:02:36,2024-04-12 15:04:36,62,Intern,Completed
+66190338145643268cbde6eb,Cloud Platforms,Neshanth G,2024-04-12 04:31:36,2024-04-12 05:56:36,85,Intern,Not Completed
+66190338145643268cbde6ec,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 07:38:36,2024-04-12 12:40:36,302,Intern,Not Completed
+66190338145643268cbde6ed,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 06:25:36,2024-04-12 06:45:36,20,Employee,Completed
+66190338145643268cbde6ee,SQL,Nivya V,2024-04-11 21:26:36,2024-04-12 01:49:36,263,Intern,Completed
+66190338145643268cbde6ef,ADF,Vendeeshwaran C,2024-04-12 06:18:36,2024-04-12 09:08:36,170,Intern,Completed
+66190338145643268cbde6f0,Cloud Platforms,Gopinath Ramesh,2024-04-12 07:18:36,2024-04-12 07:54:36,36,Intern,Completed
+66190338145643268cbde6f1,React JS,Keerthika Kannan,2024-04-11 23:36:36,2024-04-12 04:37:36,301,Intern,Not Completed
+66190338145643268cbde6f2,SQL,Pooja Nareshsinh Thakur,2024-04-11 22:48:36,2024-04-12 02:51:36,243,Employee,Not Completed
+66190338145643268cbde6f3,Security Testing,Likhitha Gurram,2024-04-11 20:29:36,2024-04-11 22:09:36,100,Intern,Completed
+66190338145643268cbde6f4,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 08:04:36,2024-04-12 09:19:36,75,Employee,Completed
+66190338145643268cbde6f5,React JS,Ajay S,2024-04-12 08:41:36,2024-04-12 12:29:36,228,Intern,Completed
+66190338145643268cbde6f6,SQL,Satyam Pandey S,2024-04-12 02:49:36,2024-04-12 05:56:36,187,Employee,Not Completed
+66190338145643268cbde6f7,ADF,Vendeeshwaran C,2024-04-12 10:55:36,2024-04-12 13:43:36,168,Intern,Completed
+66190338145643268cbde6f8,Security Testing,Christopher Raj,2024-04-12 13:49:36,2024-04-12 14:53:36,64,Employee,Not Completed
+66190338145643268cbde6f9,UI / UX Concept Figma,Rekha Anandan,2024-04-12 03:21:36,2024-04-12 03:53:36,32,Employee,Not Completed
+66190338145643268cbde6fa,UI / UX Concept Figma,Rekha Anandan,2024-04-11 19:50:36,2024-04-11 21:22:36,92,Intern,Not Completed
+66190338145643268cbde6fb,ADF,Ravishankar P,2024-04-12 07:26:36,2024-04-12 09:10:36,104,Employee,Completed
+66190338145643268cbde6fc,ADF,Sathish Kumar V,2024-04-11 22:41:36,2024-04-12 00:47:36,126,Employee,Not Completed
+66190338145643268cbde6fd,SQL,Nivya V,2024-04-12 11:03:36,2024-04-12 14:17:36,194,Employee,Completed
+66190338145643268cbde6fe,ADF,Sathish Kumar V,2024-04-11 17:24:36,2024-04-11 19:52:36,148,Employee,Not Completed
+66190338145643268cbde6ff,DevOps Operations,Anto Arokia Mary N L,2024-04-12 08:17:36,2024-04-12 10:04:36,107,Intern,Not Completed
+66190338145643268cbde700,React JS,Himanshu Soni,2024-04-12 12:29:36,2024-04-12 16:16:36,227,Employee,Not Completed
+66190338145643268cbde701,ML Basics,Swatikka C,2024-04-11 15:25:36,2024-04-11 18:30:36,185,Intern,Completed
+66190338145643268cbde702,ADF,Ravishankar P,2024-04-12 06:53:36,2024-04-12 08:18:36,85,Employee,Completed
+66190338145643268cbde703,React JS,Ajay S,2024-04-12 04:14:36,2024-04-12 08:52:36,278,Intern,Not Completed
+66190338145643268cbde704,Cloud Platforms,Molly Buxton,2024-04-12 09:26:36,2024-04-12 09:05:36,-21,Employee,Completed
+66190338145643268cbde705,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 22:47:36,2024-04-12 02:52:36,245,Intern,Not Completed
+66190338145643268cbde706,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-11 20:06:36,2024-04-11 19:54:36,-12,Employee,Completed
+66190338145643268cbde707,Security Testing,Harish P,2024-04-11 16:07:36,2024-04-11 17:33:36,86,Intern,Completed
+66190338145643268cbde708,ML Basics,Dhaneshwaran D,2024-04-12 02:09:36,2024-04-12 03:30:36,81,Employee,Completed
+66190338145643268cbde709,Cloud Platforms,Neshanth G,2024-04-12 11:34:36,2024-04-12 12:57:36,83,Intern,Not Completed
+66190338145643268cbde70a,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 22:29:36,2024-04-12 03:30:36,301,Intern,Not Completed
+66190338145643268cbde70b,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 22:47:36,2024-04-12 03:07:36,260,Employee,Completed
+66190338145643268cbde70c,Cloud Platforms,Gopinath Ramesh,2024-04-12 08:21:36,2024-04-12 09:46:36,85,Intern,Not Completed
+66190338145643268cbde70d,Quality Assurance Basics,Sivamalini V,2024-04-12 10:59:36,2024-04-12 12:36:36,97,Intern,Not Completed
+66190338145643268cbde70e,Git & Version Control,Gayathri G S,2024-04-12 04:18:36,2024-04-12 06:02:36,104,Intern,Not Completed
+66190338145643268cbde70f,Data Warehouse - ETL,Lejoy J,2024-04-12 11:09:36,2024-04-12 15:02:36,233,Employee,Not Completed
+66190338145643268cbde710,Git & Version Control,Vignesh Anantharaj,2024-04-12 06:39:36,2024-04-12 06:40:36,1,Employee,Completed
+66190338145643268cbde711,ADF,Sathish Kumar V,2024-04-11 15:32:36,2024-04-11 17:49:36,137,Employee,Not Completed
+66190338145643268cbde712,Python for DS,Livin Albert B,2024-04-12 14:28:36,2024-04-12 16:18:36,110,Intern,Completed
+66190338145643268cbde713,Security Testing,Disha Matilda B,2024-04-11 20:09:36,2024-04-11 21:09:36,60,Employee,Not Completed
+66190338145643268cbde714,ML Basics,Arun Prasanth S,2024-04-12 01:22:36,2024-04-12 04:05:36,163,Intern,Not Completed
+66190338145643268cbde715,Python for DS,Radhakrishnan R,2024-04-12 06:19:36,2024-04-12 07:59:36,100,Employee,Not Completed
+66190338145643268cbde716,Cloud Platforms,Molly Buxton,2024-04-12 10:15:36,2024-04-12 10:52:36,37,Intern,Completed
+66190338145643268cbde717,DevOps Operations,Lavanya R,2024-04-12 13:06:36,2024-04-12 14:14:36,68,Intern,Completed
+66190338145643268cbde718,Python for DS,Christopher D,2024-04-12 11:07:36,2024-04-12 12:46:36,99,Intern,Completed
+66190338145643268cbde719,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 11:57:36,2024-04-12 16:45:36,288,Intern,Completed
+66190338145643268cbde71a,ADF,Sathish Kumar V,2024-04-12 14:54:36,2024-04-12 18:03:36,189,Intern,Not Completed
+66190338145643268cbde71b,UI / UX Concept Figma,Rekha Anandan,2024-04-11 16:40:36,2024-04-11 17:42:36,62,Intern,Completed
+66190338145643268cbde71c,React JS,Himanshu Soni,2024-04-12 07:08:36,2024-04-12 10:29:36,201,Employee,Completed
+66190338145643268cbde71d,ADF,Divya R,2024-04-12 07:12:36,2024-04-12 08:35:36,83,Employee,Completed
+66190338145643268cbde71e,Security Testing,Likhitha Gurram,2024-04-12 11:48:36,2024-04-12 12:28:36,40,Employee,Completed
+66190338145643268cbde71f,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 14:37:36,2024-04-12 18:31:36,234,Intern,Completed
+66190338145643268cbde720,Cloud Platforms,Gopinath Ramesh,2024-04-11 17:32:36,2024-04-11 17:20:36,-12,Employee,Completed
+66190338145643268cbde721,Python for DS,Livin Albert B,2024-04-12 12:20:36,2024-04-12 14:40:36,140,Intern,Not Completed
+66190338145643268cbde722,SQL,Satyam Pandey S,2024-04-12 12:09:36,2024-04-12 15:45:36,216,Intern,Completed
+66190338145643268cbde723,ADF,Vendeeshwaran C,2024-04-12 04:26:36,2024-04-12 06:16:36,110,Employee,Completed
+66190338145643268cbde724,Security Testing,Harish P,2024-04-12 09:18:36,2024-04-12 11:34:36,136,Intern,Not Completed
+66190338145643268cbde725,DevOps Operations,Sourav Kumar,2024-04-12 09:44:36,2024-04-12 11:40:36,116,Intern,Not Completed
+66190338145643268cbde726,Cloud Platforms,Rishikar B,2024-04-12 13:19:36,2024-04-12 14:37:36,78,Intern,Not Completed
+66190338145643268cbde727,React JS,Keerthika Kannan,2024-04-12 14:18:36,2024-04-12 18:23:36,245,Intern,Completed
+66190338145643268cbde728,SQL,Felix Raj C,2024-04-12 08:50:36,2024-04-12 12:04:36,194,Employee,Not Completed
+66190338145643268cbde729,React JS,Ajay S,2024-04-12 02:52:36,2024-04-12 06:33:36,221,Intern,Not Completed
+66190338145643268cbde72a,Python for DS,Christopher D,2024-04-12 07:11:36,2024-04-12 08:42:36,91,Employee,Not Completed
+66190338145643268cbde72b,Git & Version Control,Naga Sandeep Reddy P,2024-04-11 19:01:36,2024-04-11 19:44:36,43,Employee,Not Completed
+66190338145643268cbde72c,Python for DS,Radhakrishnan R,2024-04-12 13:19:36,2024-04-12 14:55:36,96,Employee,Not Completed
+66190338145643268cbde72d,SQL,Pooja Nareshsinh Thakur,2024-04-12 11:56:36,2024-04-12 15:09:36,193,Intern,Completed
+66190338145643268cbde72e,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 04:27:36,2024-04-12 06:37:36,130,Intern,Completed
+66190338145643268cbde72f,Quality Assurance Basics,Sivamalini V,2024-04-12 01:20:36,2024-04-12 01:15:36,-5,Employee,Completed
+66190338145643268cbde730,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 13:15:36,2024-04-12 13:48:36,33,Employee,Not Completed
+66190338145643268cbde731,ML Basics,Arun Prasanth S,2024-04-11 17:08:36,2024-04-11 19:09:36,121,Employee,Not Completed
+66190338145643268cbde732,Cloud Platforms,Neshanth G,2024-04-12 08:38:36,2024-04-12 08:59:36,21,Employee,Not Completed
+66190338145643268cbde733,ADF,Sathish Kumar V,2024-04-12 07:19:36,2024-04-12 08:57:36,98,Employee,Completed
+66190338145643268cbde734,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 22:43:36,2024-04-12 03:07:36,264,Intern,Completed
+66190338145643268cbde735,React JS,Shirpi A,2024-04-12 04:08:36,2024-04-12 08:55:36,287,Intern,Not Completed
+66190338145643268cbde736,ADF,Divya R,2024-04-12 11:02:36,2024-04-12 13:42:36,160,Intern,Completed
+66190338145643268cbde737,Security Testing,Purvaja Vashistha,2024-04-12 14:58:36,2024-04-12 17:05:36,127,Intern,Not Completed
+66190338145643268cbde738,React JS,Himanshu Soni,2024-04-12 02:07:36,2024-04-12 04:36:36,149,Employee,Completed
+66190338145643268cbde739,UI / UX Concept Figma,Babu G,2024-04-11 19:37:36,2024-04-11 20:42:36,65,Intern,Completed
+66190338145643268cbde73a,ML Basics,Arun Prasanth S,2024-04-12 04:10:36,2024-04-12 05:55:36,105,Employee,Completed
+66190338145643268cbde73b,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-12 00:15:36,2024-04-12 00:05:36,-10,Employee,Completed
+66190338145643268cbde73c,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 12:24:36,2024-04-12 18:01:36,337,Intern,Not Completed
+66190338145643268cbde73d,Security Testing,Purvaja Vashistha,2024-04-11 18:33:36,2024-04-11 19:09:36,36,Employee,Completed
+66190338145643268cbde73e,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 19:36:36,2024-04-11 23:01:36,205,Intern,Not Completed
+66190338145643268cbde73f,Security Testing,Disha Matilda B,2024-04-11 17:27:36,2024-04-11 18:02:36,35,Employee,Completed
+66190338145643268cbde740,Python for DS,Radhakrishnan R,2024-04-12 08:53:36,2024-04-12 09:48:36,55,Employee,Completed
+66190338145643268cbde741,SQL,Sameer Basha B,2024-04-11 23:00:36,2024-04-12 00:53:36,113,Employee,Completed
+66190338145643268cbde742,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 21:05:36,2024-04-12 01:26:36,261,Intern,Completed
+66190338145643268cbde743,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 10:03:36,2024-04-12 14:23:36,260,Employee,Not Completed
+66190338145643268cbde744,ML Basics,Kundan Kumar S,2024-04-12 08:13:36,2024-04-12 09:31:36,78,Employee,Completed
+66190338145643268cbde745,Git & Version Control,Gayathri V,2024-04-12 07:48:36,2024-04-12 08:47:36,59,Intern,Completed
+66190338145643268cbde746,React JS,Himanshu Soni,2024-04-11 21:37:36,2024-04-12 02:19:36,282,Intern,Not Completed
+66190338145643268cbde747,DevOps Operations,Naveen Kumar S,2024-04-12 04:05:36,2024-04-12 04:00:36,-5,Employee,Completed
+66190338145643268cbde748,Python for DS,Radhakrishnan R,2024-04-12 10:31:36,2024-04-12 13:03:36,152,Intern,Not Completed
+66190338145643268cbde749,ADF,Divya R,2024-04-11 18:07:36,2024-04-11 21:09:36,182,Intern,Not Completed
+66190338145643268cbde74a,DevOps Operations,Prasanth S,2024-04-12 05:55:36,2024-04-12 06:56:36,61,Intern,Completed
+66190338145643268cbde74b,ADF,Ruthraraj R,2024-04-12 12:14:36,2024-04-12 15:29:36,195,Intern,Not Completed
+66190338145643268cbde74c,UI / UX Concept Figma,Hariharan N,2024-04-12 01:35:36,2024-04-12 01:38:36,3,Employee,Completed
+66190338145643268cbde74d,SQL,Sameer Basha B,2024-04-12 02:56:36,2024-04-12 06:17:36,201,Intern,Completed
+66190338145643268cbde74e,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 17:58:36,2024-04-11 19:08:36,70,Employee,Completed
+66190338145643268cbde74f,React JS,Himanshu Soni,2024-04-11 19:52:36,2024-04-12 00:49:36,297,Intern,Not Completed
+66190338145643268cbde750,Git & Version Control,Gayathri V,2024-04-11 22:10:36,2024-04-11 23:01:36,51,Intern,Completed
+66190338145643268cbde751,Security Testing,Purvaja Vashistha,2024-04-11 20:24:36,2024-04-11 21:38:36,74,Employee,Not Completed
+66190338145643268cbde752,Git & Version Control,Akkim Balaji C,2024-04-12 05:48:36,2024-04-12 07:25:36,97,Intern,Not Completed
+66190338145643268cbde753,ML Basics,Swatikka C,2024-04-11 20:10:36,2024-04-11 23:02:36,172,Intern,Completed
+66190338145643268cbde754,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 06:37:36,2024-04-12 08:14:36,97,Intern,Not Completed
+66190338145643268cbde755,Cloud Platforms,Gopinath Ramesh,2024-04-12 11:01:36,2024-04-12 12:30:36,89,Intern,Not Completed
+66190338145643268cbde756,ML Basics,Swatikka C,2024-04-12 11:12:36,2024-04-12 13:39:36,147,Employee,Not Completed
+66190338145643268cbde757,Python for DS,Christopher D,2024-04-12 04:53:36,2024-04-12 07:17:36,144,Intern,Not Completed
+66190338145643268cbde758,Security Testing,Harish P,2024-04-12 05:34:36,2024-04-12 07:40:36,126,Intern,Not Completed
+66190338145643268cbde759,Data Warehouse - ETL,Lejoy J,2024-04-12 15:01:36,2024-04-12 18:57:36,236,Intern,Completed
+66190338145643268cbde75a,UI / UX Concept Figma,Rekha Anandan,2024-04-12 07:13:36,2024-04-12 08:22:36,69,Intern,Completed
+66190338145643268cbde75b,SQL,Sameer Basha B,2024-04-11 18:24:36,2024-04-11 21:00:36,156,Employee,Completed
+66190338145643268cbde75c,ML Basics,Arun Prasanth S,2024-04-11 22:49:36,2024-04-12 01:36:36,167,Intern,Not Completed
+66190338145643268cbde75d,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 11:27:36,2024-04-12 11:28:36,1,Employee,Completed
+66190338145643268cbde75e,UI / UX Concept Figma,Rekha Anandan,2024-04-12 08:20:36,2024-04-12 09:11:36,51,Intern,Completed
+66190338145643268cbde75f,DevOps Operations,Prasanth S,2024-04-12 00:34:36,2024-04-12 00:42:36,8,Employee,Completed
+66190338145643268cbde760,SQL,Nivya V,2024-04-12 06:53:36,2024-04-12 09:56:36,183,Intern,Completed
+66190338145643268cbde761,Python for DS,Christopher D,2024-04-12 13:16:36,2024-04-12 14:57:36,101,Intern,Completed
+66190338145643268cbde762,React JS,Ajay S,2024-04-12 06:57:36,2024-04-12 09:27:36,150,Employee,Completed
+66190338145643268cbde763,Git & Version Control,Vignesh Anantharaj,2024-04-11 21:18:36,2024-04-11 22:53:36,95,Intern,Not Completed
+66190338145643268cbde764,UI / UX Concept Figma,Rekha Anandan,2024-04-11 19:27:36,2024-04-11 19:20:36,-7,Employee,Completed
+66190338145643268cbde765,SQL,Felix Raj C,2024-04-11 23:08:36,2024-04-12 03:22:36,254,Intern,Completed
+66190338145643268cbde766,Cloud Platforms,Gopinath Ramesh,2024-04-11 17:11:36,2024-04-11 16:53:36,-18,Employee,Completed
+66190338145643268cbde767,DevOps Operations,Prasanth S,2024-04-11 20:46:36,2024-04-11 22:35:36,109,Intern,Not Completed
+66190338145643268cbde768,React JS,Keerthika Kannan,2024-04-12 10:08:36,2024-04-12 13:23:36,195,Intern,Completed
+66190338145643268cbde769,Security Testing,Disha Matilda B,2024-04-11 17:41:36,2024-04-11 19:57:36,136,Intern,Not Completed
+66190338145643268cbde76a,Python for DS,Michael Leovalan,2024-04-11 18:40:36,2024-04-11 19:51:36,71,Employee,Not Completed
+66190338145643268cbde76b,Security Testing,Harish P,2024-04-12 06:33:36,2024-04-12 07:08:36,35,Employee,Completed
+66190338145643268cbde76c,Git & Version Control,Gayathri V,2024-04-12 10:36:36,2024-04-12 10:41:36,5,Employee,Completed
+66190338145643268cbde76d,Python for DS,Radhakrishnan R,2024-04-11 16:06:36,2024-04-11 17:29:36,83,Intern,Completed
+66190338145643268cbde76e,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 06:31:36,2024-04-12 08:43:36,132,Intern,Not Completed
+66190338145643268cbde76f,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 01:21:36,2024-04-12 05:55:36,274,Employee,Not Completed
+66190338145643268cbde770,ADF,Sathish Kumar V,2024-04-11 21:08:36,2024-04-11 23:46:36,158,Intern,Completed
+66190338145643268cbde771,DevOps Operations,Sourav Kumar,2024-04-11 15:40:36,2024-04-11 17:12:36,92,Intern,Not Completed
+66190338145643268cbde772,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 21:42:36,2024-04-11 22:46:36,64,Intern,Completed
+66190338145643268cbde773,ADF,Ravishankar P,2024-04-11 21:24:36,2024-04-11 23:33:36,129,Employee,Not Completed
+66190338145643268cbde774,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 10:56:36,2024-04-12 11:01:36,5,Employee,Completed
+66190338145643268cbde775,Cloud Platforms,Gopinath Ramesh,2024-04-12 02:22:36,2024-04-12 03:51:36,89,Intern,Not Completed
+66190338145643268cbde776,DevOps Operations,Prasanth S,2024-04-12 11:51:36,2024-04-12 13:44:36,113,Intern,Not Completed
+66190338145643268cbde777,SQL,Satyam Pandey S,2024-04-12 11:42:36,2024-04-12 16:48:36,306,Intern,Not Completed
+66190338145643268cbde778,React JS,Pichhapati Venkata Naveen,2024-04-12 01:03:36,2024-04-12 04:03:36,180,Employee,Not Completed
+66190338145643268cbde779,ADF,Ruthraraj R,2024-04-12 13:28:36,2024-04-12 16:41:36,193,Intern,Not Completed
+66190338145643268cbde77a,React JS,Shirpi A,2024-04-11 17:34:36,2024-04-11 19:43:36,129,Employee,Completed
+66190338145643268cbde77b,Cloud Platforms,Gopinath Ramesh,2024-04-12 05:46:36,2024-04-12 06:04:36,18,Employee,Not Completed
+66190338145643268cbde77c,ADF,Divya R,2024-04-11 21:35:36,2024-04-12 00:04:36,149,Intern,Completed
+66190338145643268cbde77d,Cloud Platforms,Neshanth G,2024-04-12 08:14:36,2024-04-12 09:34:36,80,Intern,Not Completed
+66190338145643268cbde77e,ML Basics,Arun Prasanth S,2024-04-12 03:00:36,2024-04-12 07:18:36,258,Intern,Not Completed
+66190338145643268cbde77f,ADF,Vendeeshwaran C,2024-04-12 05:18:36,2024-04-12 07:39:36,141,Employee,Not Completed
+66190338145643268cbde780,Data Warehouse - ETL,Anil Prasad L,2024-04-12 08:14:36,2024-04-12 12:17:36,243,Employee,Completed
+66190338145643268cbde781,Python for DS,Michael Leovalan,2024-04-12 14:11:36,2024-04-12 16:18:36,127,Intern,Not Completed
+66190338145643268cbde782,UI / UX Concept Figma,Babu G,2024-04-11 15:22:36,2024-04-11 15:52:36,30,Employee,Not Completed
+66190338145643268cbde783,SQL,Satyam Pandey S,2024-04-11 21:23:36,2024-04-12 01:30:36,247,Employee,Not Completed
+66190338145643268cbde784,Security Testing,Disha Matilda B,2024-04-12 01:10:36,2024-04-12 02:25:36,75,Employee,Not Completed
+66190338145643268cbde785,Data Warehouse - ETL,Anil Prasad L,2024-04-11 19:35:36,2024-04-12 01:02:36,327,Intern,Not Completed
+66190338145643268cbde786,Git & Version Control,Gayathri G S,2024-04-12 00:44:36,2024-04-12 01:28:36,44,Employee,Not Completed
+66190338145643268cbde787,ADF,Ravishankar P,2024-04-12 01:06:36,2024-04-12 03:56:36,170,Intern,Completed
+66190338145643268cbde788,Git & Version Control,Gayathri G S,2024-04-12 10:44:36,2024-04-12 11:21:36,37,Employee,Not Completed
+66190338145643268cbde789,Security Testing,Disha Matilda B,2024-04-12 08:47:36,2024-04-12 10:00:36,73,Employee,Not Completed
+66190338145643268cbde78a,Cloud Platforms,Neshanth G,2024-04-12 06:56:36,2024-04-12 06:38:36,-18,Employee,Completed
+66190338145643268cbde78b,ADF,Sathish Kumar V,2024-04-12 04:00:36,2024-04-12 05:49:36,109,Employee,Completed
+66190338145643268cbde78c,UI / UX Concept Figma,Babu G,2024-04-11 17:29:36,2024-04-11 18:01:36,32,Employee,Not Completed
+66190338145643268cbde78d,Security Testing,Christopher Raj,2024-04-11 16:39:36,2024-04-11 17:00:36,21,Employee,Completed
+66190338145643268cbde78e,Quality Assurance Basics,Achyut Pramod,2024-04-12 04:38:36,2024-04-12 06:11:36,93,Intern,Not Completed
+66190338145643268cbde78f,Python for DS,Radhakrishnan R,2024-04-12 03:56:36,2024-04-12 05:17:36,81,Intern,Completed
+66190338145643268cbde790,SQL,Satyam Pandey S,2024-04-12 05:59:36,2024-04-12 09:52:36,233,Intern,Not Completed
+66190338145643268cbde791,Data Warehouse - ETL,Anil Prasad L,2024-04-11 21:27:36,2024-04-12 01:41:36,254,Employee,Not Completed
+66190338145643268cbde792,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 07:12:36,2024-04-12 13:09:36,357,Intern,Not Completed
+66190338145643268cbde793,React JS,Himanshu Soni,2024-04-12 04:08:36,2024-04-12 08:54:36,286,Intern,Not Completed
+66190338145643268cbde794,Data Warehouse - ETL,Lejoy J,2024-04-12 05:13:36,2024-04-12 07:53:36,160,Employee,Completed
+66190338145643268cbde795,Python for DS,Michael Leovalan,2024-04-12 07:53:36,2024-04-12 10:20:36,147,Intern,Not Completed
+66190338145643268cbde796,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 01:41:36,2024-04-12 01:37:36,-4,Employee,Completed
+66190338145643268cbde797,ML Basics,Arun Prasanth S,2024-04-11 23:17:36,2024-04-12 02:39:36,202,Intern,Completed
+66190338145643268cbde798,SQL,Sameer Basha B,2024-04-11 20:18:36,2024-04-11 23:51:36,213,Intern,Completed
+66190338145643268cbde799,SQL,Satyam Pandey S,2024-04-12 14:58:36,2024-04-12 19:12:36,254,Intern,Not Completed
+66190338145643268cbde79a,ML Basics,Dhaneshwaran D,2024-04-11 23:18:36,2024-04-12 01:00:36,102,Employee,Completed
+66190338145643268cbde79b,Quality Assurance Basics,Sivamalini V,2024-04-12 05:28:36,2024-04-12 05:23:36,-5,Employee,Completed
+66190338145643268cbde79c,Quality Assurance Basics,Sivamalini V,2024-04-11 20:31:36,2024-04-11 22:16:36,105,Intern,Not Completed
+66190338145643268cbde79d,React JS,Himanshu Soni,2024-04-12 10:07:36,2024-04-12 14:34:36,267,Intern,Completed
+66190338145643268cbde79e,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 11:25:36,2024-04-12 14:17:36,172,Employee,Not Completed
+66190338145643268cbde79f,ML Basics,Kundan Kumar S,2024-04-12 14:27:36,2024-04-12 17:02:36,155,Intern,Completed
+66190338145643268cbde7a0,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 04:29:36,2024-04-12 05:06:36,37,Employee,Not Completed
+66190338145643268cbde7a1,Git & Version Control,Akkim Balaji C,2024-04-12 05:10:36,2024-04-12 06:47:36,97,Intern,Not Completed
+66190338145643268cbde7a2,DevOps Operations,Lavanya R,2024-04-12 06:26:36,2024-04-12 06:25:36,-1,Employee,Completed
+66190338145643268cbde7a3,UI / UX Concept Figma,Rekha Anandan,2024-04-12 03:13:36,2024-04-12 04:05:36,52,Intern,Completed
+66190338145643268cbde7a4,Security Testing,Likhitha Gurram,2024-04-11 19:46:36,2024-04-11 21:50:36,124,Intern,Not Completed
+66190338145643268cbde7a5,Git & Version Control,Gayathri G S,2024-04-12 08:01:36,2024-04-12 09:39:36,98,Intern,Not Completed
+66190338145643268cbde7a6,DevOps Operations,Lavanya R,2024-04-11 21:19:36,2024-04-11 22:15:36,56,Employee,Not Completed
+66190338145643268cbde7a7,Security Testing,Likhitha Gurram,2024-04-12 06:16:36,2024-04-12 06:49:36,33,Employee,Completed
+66190338145643268cbde7a8,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 01:03:36,2024-04-12 02:02:36,59,Intern,Completed
+66190338145643268cbde7a9,Security Testing,Christopher Raj,2024-04-11 22:50:36,2024-04-12 00:24:36,94,Intern,Completed
+66190338145643268cbde7aa,ADF,Ravishankar P,2024-04-12 07:37:36,2024-04-12 10:47:36,190,Intern,Not Completed
+66190338145643268cbde7ab,Python for DS,Michael Leovalan,2024-04-12 12:16:36,2024-04-12 14:51:36,155,Intern,Not Completed
+66190338145643268cbde7ac,Git & Version Control,Akkim Balaji C,2024-04-11 19:50:36,2024-04-11 20:51:36,61,Intern,Completed
+66190338145643268cbde7ad,SQL,Pooja Nareshsinh Thakur,2024-04-12 10:54:36,2024-04-12 14:46:36,232,Intern,Not Completed
+66190338145643268cbde7ae,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 04:24:36,2024-04-12 07:22:36,178,Employee,Not Completed
+66190338145643268cbde7af,ML Basics,Swatikka C,2024-04-11 21:46:36,2024-04-11 23:44:36,118,Employee,Not Completed
+66190338145643268cbde7b0,Python for DS,Michael Leovalan,2024-04-12 00:25:36,2024-04-12 01:58:36,93,Employee,Not Completed
+66190338145643268cbde7b1,Security Testing,Likhitha Gurram,2024-04-12 03:14:36,2024-04-12 04:30:36,76,Employee,Not Completed
+66190338145643268cbde7b2,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 03:14:36,2024-04-12 08:04:36,290,Intern,Completed
+66190338145643268cbde7b3,ML Basics,Arun Prasanth S,2024-04-11 17:25:36,2024-04-11 18:27:36,62,Employee,Completed
+66190338145643268cbde7b4,SQL,Pooja Nareshsinh Thakur,2024-04-12 11:45:36,2024-04-12 14:37:36,172,Employee,Not Completed
+66190338145643268cbde7b5,Cloud Platforms,Molly Buxton,2024-04-12 00:42:36,2024-04-12 01:27:36,45,Intern,Completed
+66190338145643268cbde7b6,React JS,Himanshu Soni,2024-04-11 18:58:36,2024-04-11 21:59:36,181,Employee,Not Completed
+66190338145643268cbde7b7,UI / UX Concept Figma,Rekha Anandan,2024-04-12 11:46:36,2024-04-12 13:21:36,95,Intern,Not Completed
+66190338145643268cbde7b8,React JS,Keerthika Kannan,2024-04-12 08:39:36,2024-04-12 13:21:36,282,Intern,Not Completed
+66190338145643268cbde7b9,SQL,Nivya V,2024-04-11 19:39:36,2024-04-11 23:40:36,241,Employee,Not Completed
+66190338145643268cbde7ba,Cloud Platforms,Gopinath Ramesh,2024-04-12 00:28:36,2024-04-12 00:04:36,-24,Employee,Completed
+66190338145643268cbde7bb,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 11:29:36,2024-04-12 11:49:36,20,Employee,Completed
+66190338145643268cbde7bc,Security Testing,Likhitha Gurram,2024-04-12 10:14:36,2024-04-12 11:20:36,66,Employee,Not Completed
+66190338145643268cbde7bd,Data Warehouse - ETL,Anil Prasad L,2024-04-12 02:05:36,2024-04-12 05:22:36,197,Employee,Completed
+66190338145643268cbde7be,Quality Assurance Basics,Arjun Ganesan,2024-04-12 11:32:36,2024-04-12 12:05:36,33,Employee,Not Completed
+66190338145643268cbde7bf,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 22:55:36,2024-04-12 00:30:36,95,Employee,Completed
+66190338145643268cbde7c0,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 16:14:36,2024-04-11 22:11:36,357,Intern,Not Completed
+66190338145643268cbde7c1,Git & Version Control,Gayathri G S,2024-04-12 12:24:36,2024-04-12 13:26:36,62,Intern,Completed
+66190338145643268cbde7c2,SQL,Felix Raj C,2024-04-12 14:00:36,2024-04-12 17:57:36,237,Intern,Not Completed
+66190338145643268cbde7c3,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 16:30:36,2024-04-11 17:33:36,63,Intern,Completed
+66190338145643268cbde7c4,ML Basics,Dhaneshwaran D,2024-04-12 06:30:36,2024-04-12 08:10:36,100,Employee,Completed
+66190338145643268cbde7c5,Cloud Platforms,Gopinath Ramesh,2024-04-12 01:31:36,2024-04-12 02:06:36,35,Intern,Completed
+66190338145643268cbde7c6,DevOps Operations,Naveen Kumar S,2024-04-12 00:54:36,2024-04-12 00:49:36,-5,Employee,Completed
+66190338145643268cbde7c7,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 13:20:36,2024-04-12 14:26:36,66,Intern,Completed
+66190338145643268cbde7c8,SQL,Pooja Nareshsinh Thakur,2024-04-11 23:41:36,2024-04-12 01:49:36,128,Employee,Completed
+66190338145643268cbde7c9,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 01:19:36,2024-04-12 01:55:36,36,Employee,Not Completed
+66190338145643268cbde7ca,DevOps Operations,Prasanth S,2024-04-11 16:16:36,2024-04-11 16:11:36,-5,Employee,Completed
+66190338145643268cbde7cb,Quality Assurance Basics,Arjun Ganesan,2024-04-11 22:27:36,2024-04-12 00:08:36,101,Intern,Not Completed
+66190338145643268cbde7cc,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 23:01:36,2024-04-12 03:42:36,281,Intern,Completed
+66190338145643268cbde7cd,Python for DS,Michael Leovalan,2024-04-12 00:35:36,2024-04-12 01:29:36,54,Employee,Completed
+66190338145643268cbde7ce,Quality Assurance Basics,Arjun Ganesan,2024-04-12 06:55:36,2024-04-12 07:45:36,50,Intern,Completed
+66190338145643268cbde7cf,UI / UX Concept Figma,Babu G,2024-04-11 22:11:36,2024-04-11 23:08:36,57,Intern,Completed
+66190338145643268cbde7d0,Git & Version Control,Vignesh Anantharaj,2024-04-12 09:17:36,2024-04-12 10:19:36,62,Intern,Completed
+66190338145643268cbde7d1,Quality Assurance Basics,Arjun Ganesan,2024-04-12 15:02:36,2024-04-12 15:47:36,45,Employee,Not Completed
+66190338145643268cbde7d2,ML Basics,Kundan Kumar S,2024-04-11 19:03:36,2024-04-11 22:11:36,188,Intern,Completed
+66190338145643268cbde7d3,Git & Version Control,Gayathri V,2024-04-12 03:26:36,2024-04-12 03:21:36,-5,Employee,Completed
+66190338145643268cbde7d4,Cloud Platforms,Neshanth G,2024-04-12 08:48:36,2024-04-12 09:37:36,49,Intern,Completed
+66190338145643268cbde7d5,ML Basics,Arun Prasanth S,2024-04-11 17:42:36,2024-04-11 21:06:36,204,Intern,Completed
+66190338145643268cbde7d6,Quality Assurance Basics,Vikas Vyavhare,2024-04-11 23:45:36,2024-04-12 01:17:36,92,Intern,Not Completed
+66190338145643268cbde7d7,Git & Version Control,Naga Sandeep Reddy P,2024-04-11 19:14:36,2024-04-11 19:46:36,32,Employee,Not Completed
+66190338145643268cbde7d8,ADF,Ravishankar P,2024-04-11 20:06:36,2024-04-11 21:27:36,81,Employee,Completed
+66190338145643268cbde7d9,Python for DS,Vigneshwaran Jeyakumar,2024-04-11 17:54:36,2024-04-11 20:21:36,147,Intern,Not Completed
+66190338145643268cbde7da,ADF,Vendeeshwaran C,2024-04-11 20:08:36,2024-04-11 22:35:36,147,Employee,Not Completed
+66190338145643268cbde7db,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 07:44:36,2024-04-12 12:15:36,271,Intern,Completed
+66190338145643268cbde7dc,SQL,Nivya V,2024-04-11 22:37:36,2024-04-12 02:14:36,217,Intern,Completed
+66190338145643268cbde7dd,Cloud Platforms,Molly Buxton,2024-04-12 08:34:36,2024-04-12 09:56:36,82,Intern,Not Completed
+66190338145643268cbde7de,ADF,Divya R,2024-04-12 00:04:36,2024-04-12 03:13:36,189,Intern,Not Completed
+66190338145643268cbde7df,Quality Assurance Basics,Sivamalini V,2024-04-12 01:17:36,2024-04-12 02:55:36,98,Intern,Not Completed
+66190338145643268cbde7e0,React JS,Himanshu Soni,2024-04-11 19:14:36,2024-04-11 22:46:36,212,Employee,Not Completed
+66190338145643268cbde7e1,Security Testing,Purvaja Vashistha,2024-04-11 17:21:36,2024-04-11 18:35:36,74,Employee,Not Completed
+66190338145643268cbde7e2,Security Testing,Christopher Raj,2024-04-12 01:52:36,2024-04-12 03:53:36,121,Intern,Not Completed
+66190338145643268cbde7e3,Python for DS,Michael Leovalan,2024-04-12 02:08:36,2024-04-12 03:36:36,88,Intern,Completed
+66190338145643268cbde7e4,React JS,Shirpi A,2024-04-11 15:22:36,2024-04-11 17:44:36,142,Employee,Completed
+66190338145643268cbde7e5,Cloud Platforms,Molly Buxton,2024-04-12 07:38:36,2024-04-12 09:03:36,85,Intern,Not Completed
+66190338145643268cbde7e6,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 00:41:36,2024-04-12 01:50:36,69,Employee,Not Completed
+66190338145643268cbde7e7,Cloud Platforms,Rishikar B,2024-04-12 12:16:36,2024-04-12 13:32:36,76,Intern,Not Completed
+66190338145643268cbde7e8,Python for DS,Vigneshwaran Jeyakumar,2024-04-11 18:01:36,2024-04-11 20:01:36,120,Intern,Not Completed
+66190338145643268cbde7e9,Git & Version Control,Gayathri V,2024-04-12 11:33:36,2024-04-12 11:32:36,-1,Employee,Completed
+66190338145643268cbde7ea,UI / UX Concept Figma,Babu G,2024-04-12 04:33:36,2024-04-12 04:39:36,6,Employee,Completed
+66190338145643268cbde7eb,DevOps Operations,Prasanth S,2024-04-12 02:41:36,2024-04-12 02:46:36,5,Employee,Completed
+66190338145643268cbde7ec,Security Testing,Disha Matilda B,2024-04-12 09:00:36,2024-04-12 09:21:36,21,Employee,Completed
+66190338145643268cbde7ed,Security Testing,Likhitha Gurram,2024-04-12 08:25:36,2024-04-12 10:03:36,98,Intern,Completed
+66190338145643268cbde7ee,Python for DS,Radhakrishnan R,2024-04-12 01:10:36,2024-04-12 03:31:36,141,Intern,Not Completed
+66190338145643268cbde7ef,SQL,Felix Raj C,2024-04-11 21:00:36,2024-04-12 02:07:36,307,Intern,Not Completed
+66190338145643268cbde7f0,Security Testing,Harish P,2024-04-11 20:10:36,2024-04-11 20:43:36,33,Employee,Completed
+66190338145643268cbde7f1,SQL,Felix Raj C,2024-04-12 11:22:36,2024-04-12 13:36:36,134,Employee,Completed
+66190338145643268cbde7f2,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 11:43:36,2024-04-12 13:14:36,91,Intern,Not Completed
+66190338145643268cbde7f3,ADF,Ravishankar P,2024-04-11 17:17:36,2024-04-11 19:02:36,105,Employee,Completed
+66190338145643268cbde7f4,DevOps Operations,Sourav Kumar,2024-04-11 18:22:36,2024-04-11 19:18:36,56,Employee,Not Completed
+66190338145643268cbde7f5,Security Testing,Likhitha Gurram,2024-04-12 00:32:36,2024-04-12 01:09:36,37,Employee,Completed
+66190338145643268cbde7f6,Security Testing,Disha Matilda B,2024-04-11 23:16:36,2024-04-11 23:38:36,22,Employee,Completed
+66190338145643268cbde7f7,Cloud Platforms,Neshanth G,2024-04-12 03:07:36,2024-04-12 03:35:36,28,Employee,Not Completed
+66190338145643268cbde7f8,Quality Assurance Basics,Achyut Pramod,2024-04-12 02:57:36,2024-04-12 04:37:36,100,Intern,Not Completed
+66190338145643268cbde7f9,Python for DS,Radhakrishnan R,2024-04-12 02:41:36,2024-04-12 03:55:36,74,Employee,Not Completed
+66190338145643268cbde7fa,Cloud Platforms,Molly Buxton,2024-04-12 09:02:36,2024-04-12 08:47:36,-15,Employee,Completed
+66190338145643268cbde7fb,Git & Version Control,Gayathri G S,2024-04-12 12:17:36,2024-04-12 13:11:36,54,Intern,Completed
+66190338145643268cbde7fc,ML Basics,Dhaneshwaran D,2024-04-11 15:54:36,2024-04-11 18:52:36,178,Intern,Not Completed
+66190338145643268cbde7fd,Python for DS,Michael Leovalan,2024-04-11 21:24:36,2024-04-11 22:57:36,93,Employee,Not Completed
+66190338145643268cbde7fe,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 08:59:36,2024-04-12 09:56:36,57,Intern,Completed
+66190338145643268cbde7ff,UI / UX Concept Figma,Babu G,2024-04-11 23:34:36,2024-04-12 00:53:36,79,Intern,Completed
+66190338145643268cbde800,DevOps Operations,Anto Arokia Mary N L,2024-04-12 09:24:36,2024-04-12 11:10:36,106,Intern,Not Completed
+66190338145643268cbde801,Python for DS,Christopher D,2024-04-11 20:33:36,2024-04-11 21:59:36,86,Intern,Completed
+66190338145643268cbde802,Python for DS,Michael Leovalan,2024-04-12 02:58:36,2024-04-12 03:46:36,48,Employee,Completed
+66190338145643268cbde803,Security Testing,Purvaja Vashistha,2024-04-12 09:46:36,2024-04-12 10:56:36,70,Employee,Not Completed
+66190338145643268cbde804,Security Testing,Disha Matilda B,2024-04-12 11:12:36,2024-04-12 12:39:36,87,Intern,Completed
+66190338145643268cbde805,Cloud Platforms,Neshanth G,2024-04-11 19:50:36,2024-04-11 19:40:36,-10,Employee,Completed
+66190338145643268cbde806,ML Basics,Dhaneshwaran D,2024-04-12 03:15:36,2024-04-12 05:07:36,112,Employee,Completed
+66190338145643268cbde807,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 23:48:36,2024-04-12 03:25:36,217,Employee,Not Completed
+66190338145643268cbde808,ML Basics,Dhaneshwaran D,2024-04-12 08:17:36,2024-04-12 12:20:36,243,Intern,Not Completed
+66190338145643268cbde809,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 01:54:36,2024-04-12 06:09:36,255,Intern,Completed
+66190338145643268cbde80a,UI / UX Concept Figma,Babu G,2024-04-12 14:29:36,2024-04-12 15:04:36,35,Employee,Not Completed
+66190338145643268cbde80b,ML Basics,Dhaneshwaran D,2024-04-12 00:53:36,2024-04-12 02:29:36,96,Employee,Completed
+66190338145643268cbde80c,DevOps Operations,Sourav Kumar,2024-04-12 03:11:36,2024-04-12 04:52:36,101,Intern,Not Completed
+66190338145643268cbde80d,Security Testing,Likhitha Gurram,2024-04-12 15:07:36,2024-04-12 17:26:36,139,Intern,Not Completed
+66190338145643268cbde80e,ADF,Ravishankar P,2024-04-12 01:37:36,2024-04-12 04:40:36,183,Intern,Not Completed
+66190338145643268cbde80f,Data Warehouse - ETL,Anil Prasad L,2024-04-11 19:27:36,2024-04-11 22:57:36,210,Employee,Completed
+66190338145643268cbde810,ADF,Vendeeshwaran C,2024-04-11 17:21:36,2024-04-11 19:42:36,141,Employee,Not Completed
+66190338145643268cbde811,Security Testing,Disha Matilda B,2024-04-12 02:19:36,2024-04-12 02:42:36,23,Employee,Completed
+66190338145643268cbde812,Quality Assurance Basics,Achyut Pramod,2024-04-12 14:11:36,2024-04-12 15:15:36,64,Intern,Completed
+66190338145643268cbde813,SQL,Satyam Pandey S,2024-04-12 00:50:36,2024-04-12 03:40:36,170,Employee,Not Completed
+66190338145643268cbde814,Python for DS,Radhakrishnan R,2024-04-12 03:50:36,2024-04-12 05:21:36,91,Intern,Completed
+66190338145643268cbde815,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 19:55:36,2024-04-12 00:09:36,254,Employee,Not Completed
+66190338145643268cbde816,Cloud Platforms,Neshanth G,2024-04-12 10:35:36,2024-04-12 11:19:36,44,Intern,Completed
+66190338145643268cbde817,ADF,Ravishankar P,2024-04-12 05:58:36,2024-04-12 07:34:36,96,Employee,Completed
+66190338145643268cbde818,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 23:05:36,2024-04-12 00:20:36,75,Intern,Completed
+66190338145643268cbde819,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 22:46:36,2024-04-12 00:56:36,130,Employee,Completed
+66190338145643268cbde81a,Git & Version Control,Vignesh Anantharaj,2024-04-11 22:54:36,2024-04-12 00:32:36,98,Intern,Not Completed
+66190338145643268cbde81b,React JS,Pichhapati Venkata Naveen,2024-04-12 07:52:36,2024-04-12 10:26:36,154,Employee,Not Completed
+66190338145643268cbde81c,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 01:28:36,2024-04-12 04:35:36,187,Intern,Completed
+66190338145643268cbde81d,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-11 15:43:36,2024-04-11 19:19:36,216,Employee,Completed
+66190338145643268cbde81e,Quality Assurance Basics,Arjun Ganesan,2024-04-11 16:12:36,2024-04-11 17:43:36,91,Intern,Not Completed
+66190338145643268cbde81f,React JS,Himanshu Soni,2024-04-12 12:44:36,2024-04-12 14:57:36,133,Employee,Completed
+66190338145643268cbde820,Cloud Platforms,Neshanth G,2024-04-11 19:59:36,2024-04-11 20:46:36,47,Intern,Completed
+66190338145643268cbde821,Cloud Platforms,Molly Buxton,2024-04-12 09:10:36,2024-04-12 09:27:36,17,Employee,Not Completed
+66190338145643268cbde822,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 03:26:36,2024-04-12 08:00:36,274,Intern,Completed
+66190338145643268cbde823,ML Basics,Arun Prasanth S,2024-04-12 10:16:36,2024-04-12 12:19:36,123,Employee,Completed
+66190338145643268cbde824,Cloud Platforms,Neshanth G,2024-04-12 04:51:36,2024-04-12 06:08:36,77,Intern,Not Completed
+66190338145643268cbde825,SQL,Nivya V,2024-04-11 17:55:36,2024-04-11 21:32:36,217,Intern,Completed
+66190338145643268cbde826,React JS,Pichhapati Venkata Naveen,2024-04-12 09:46:36,2024-04-12 14:29:36,283,Intern,Not Completed
+66190338145643268cbde827,Git & Version Control,Naga Sandeep Reddy P,2024-04-11 16:34:36,2024-04-11 16:39:36,5,Employee,Completed
+66190338145643268cbde828,ML Basics,Arun Prasanth S,2024-04-12 05:57:36,2024-04-12 09:01:36,184,Intern,Not Completed
+66190338145643268cbde829,Security Testing,Purvaja Vashistha,2024-04-12 10:10:36,2024-04-12 12:10:36,120,Intern,Not Completed
+66190338145643268cbde82a,SQL,Nivya V,2024-04-12 15:08:36,2024-04-12 18:58:36,230,Employee,Not Completed
+66190338145643268cbde82b,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 09:53:36,2024-04-12 10:35:36,42,Employee,Not Completed
+66190338145643268cbde82c,Security Testing,Christopher Raj,2024-04-12 02:02:36,2024-04-12 03:30:36,88,Intern,Completed
+66190338145643268cbde82d,ML Basics,Arun Prasanth S,2024-04-11 18:39:36,2024-04-11 21:15:36,156,Employee,Not Completed
+66190338145643268cbde82e,React JS,Pichhapati Venkata Naveen,2024-04-11 18:04:36,2024-04-11 20:07:36,123,Employee,Completed
+66190338145643268cbde82f,Git & Version Control,Gayathri V,2024-04-12 01:28:36,2024-04-12 01:24:36,-4,Employee,Completed
+66190338145643268cbde830,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 11:47:36,2024-04-12 13:42:36,115,Intern,Not Completed
+66190338145643268cbde831,ML Basics,Dhaneshwaran D,2024-04-12 13:20:36,2024-04-12 16:43:36,203,Intern,Completed
+66190338145643268cbde832,ML Basics,Kundan Kumar S,2024-04-11 19:49:36,2024-04-11 21:37:36,108,Employee,Completed
+66190338145643268cbde833,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 05:04:36,2024-04-12 07:32:36,148,Employee,Not Completed
+66190338145643268cbde834,DevOps Operations,Naveen Kumar S,2024-04-12 05:37:36,2024-04-12 05:55:36,18,Employee,Completed
+66190338145643268cbde835,ADF,Sathish Kumar V,2024-04-11 17:34:36,2024-04-11 19:59:36,145,Intern,Completed
+66190338145643268cbde836,Python for DS,Michael Leovalan,2024-04-12 12:00:36,2024-04-12 14:25:36,145,Intern,Not Completed
+66190338145643268cbde837,Cloud Platforms,Molly Buxton,2024-04-12 07:38:36,2024-04-12 07:22:36,-16,Employee,Completed
+66190338145643268cbde838,DevOps Operations,Sourav Kumar,2024-04-11 22:16:36,2024-04-11 23:12:36,56,Employee,Not Completed
+66190338145643268cbde839,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-12 12:23:36,2024-04-12 13:13:36,50,Intern,Completed
+66190338145643268cbde83a,ADF,Ravishankar P,2024-04-12 09:00:36,2024-04-12 10:42:36,102,Employee,Completed
+66190338145643268cbde83b,Python for DS,Michael Leovalan,2024-04-11 19:51:36,2024-04-11 22:27:36,156,Intern,Not Completed
+66190338145643268cbde83c,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 10:11:36,2024-04-12 14:57:36,286,Intern,Completed
+66190338145643268cbde83d,React JS,Shirpi A,2024-04-11 17:14:36,2024-04-11 21:28:36,254,Intern,Not Completed
+66190338145643268cbde83e,ADF,Sathish Kumar V,2024-04-12 09:01:36,2024-04-12 10:35:36,94,Employee,Completed
+66190338145643268cbde83f,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 19:01:36,2024-04-12 00:01:36,300,Intern,Completed
+66190338145643268cbde840,DevOps Operations,Naveen Kumar S,2024-04-12 04:11:36,2024-04-12 04:51:36,40,Employee,Not Completed
+66190338145643268cbde841,Quality Assurance Basics,Achyut Pramod,2024-04-12 02:23:36,2024-04-12 04:03:36,100,Intern,Not Completed
+66190338145643268cbde842,ML Basics,Arun Prasanth S,2024-04-11 21:01:36,2024-04-12 00:33:36,212,Intern,Completed
+66190338145643268cbde843,Python for DS,Christopher D,2024-04-12 12:52:36,2024-04-12 14:11:36,79,Employee,Not Completed
+66190338145643268cbde844,Git & Version Control,Gayathri G S,2024-04-12 09:00:36,2024-04-12 09:02:36,2,Employee,Completed
+66190338145643268cbde845,React JS,Ajay S,2024-04-12 05:15:36,2024-04-12 08:00:36,165,Employee,Completed
+66190338145643268cbde846,ML Basics,Arun Prasanth S,2024-04-12 13:28:36,2024-04-12 16:06:36,158,Employee,Not Completed
+66190338145643268cbde847,ML Basics,Dhaneshwaran D,2024-04-12 01:47:36,2024-04-12 04:09:36,142,Intern,Completed
+66190338145643268cbde848,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 23:47:36,2024-04-12 00:38:36,51,Employee,Not Completed
+66190338145643268cbde849,DevOps Operations,Naveen Kumar S,2024-04-12 00:57:36,2024-04-12 01:53:36,56,Intern,Completed
+66190338145643268cbde84a,SQL,Satyam Pandey S,2024-04-11 16:13:36,2024-04-11 20:03:36,230,Intern,Completed
+66190338145643268cbde84b,Quality Assurance Basics,Arjun Ganesan,2024-04-11 19:52:36,2024-04-11 19:53:36,1,Employee,Completed
+66190338145643268cbde84c,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 14:58:36,2024-04-12 16:39:36,101,Intern,Not Completed
+66190338145643268cbde84d,SQL,Pooja Nareshsinh Thakur,2024-04-12 13:38:36,2024-04-12 18:06:36,268,Intern,Completed
+66190338145643268cbde84e,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 05:18:36,2024-04-12 07:16:36,118,Employee,Not Completed
+66190338145643268cbde84f,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 02:43:36,2024-04-12 04:14:36,91,Intern,Not Completed
+66190338145643268cbde850,UI / UX Concept Figma,Babu G,2024-04-12 12:06:36,2024-04-12 13:13:36,67,Intern,Completed
+66190338145643268cbde851,Security Testing,Christopher Raj,2024-04-12 13:56:36,2024-04-12 16:02:36,126,Intern,Not Completed
+66190338145643268cbde852,Python for DS,Livin Albert B,2024-04-12 02:38:36,2024-04-12 03:25:36,47,Employee,Completed
+66190338145643268cbde853,ADF,Sathish Kumar V,2024-04-11 23:01:36,2024-04-12 01:05:36,124,Employee,Not Completed
+66190338145643268cbde854,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 12:09:36,2024-04-12 12:08:36,-1,Employee,Completed
+66190338145643268cbde855,Git & Version Control,Vignesh Anantharaj,2024-04-12 03:51:36,2024-04-12 05:34:36,103,Intern,Not Completed
+66190338145643268cbde856,ML Basics,Dhaneshwaran D,2024-04-12 13:31:36,2024-04-12 16:46:36,195,Intern,Not Completed
+66190338145643268cbde857,Cloud Platforms,Rishikar B,2024-04-12 06:08:36,2024-04-12 06:29:36,21,Employee,Not Completed
+66190338145643268cbde858,Python for DS,Vigneshwaran Jeyakumar,2024-04-11 21:45:36,2024-04-11 23:46:36,121,Intern,Not Completed
+66190338145643268cbde859,DevOps Operations,Naveen Kumar S,2024-04-12 05:51:36,2024-04-12 07:07:36,76,Intern,Completed
+66190338145643268cbde85a,DevOps Operations,Sourav Kumar,2024-04-12 12:25:36,2024-04-12 13:14:36,49,Employee,Not Completed
+66190338145643268cbde85b,ADF,Vendeeshwaran C,2024-04-11 23:20:36,2024-04-12 02:30:36,190,Intern,Not Completed
+66190338145643268cbde85c,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 09:15:36,2024-04-12 10:16:36,61,Intern,Completed
+66190338145643268cbde85d,SQL,Pooja Nareshsinh Thakur,2024-04-11 19:50:36,2024-04-12 00:11:36,261,Intern,Completed
+66190338145643268cbde85e,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 13:27:36,2024-04-12 14:46:36,79,Intern,Completed
+66190338145643268cbde85f,DevOps Operations,Naveen Kumar S,2024-04-11 15:52:36,2024-04-11 16:54:36,62,Intern,Completed
+66190338145643268cbde860,ML Basics,Arun Prasanth S,2024-04-12 09:04:36,2024-04-12 11:20:36,136,Employee,Not Completed
+66190338145643268cbde861,DevOps Operations,Lavanya R,2024-04-12 03:54:36,2024-04-12 03:59:36,5,Employee,Completed
+66190338145643268cbde862,React JS,Himanshu Soni,2024-04-11 23:47:36,2024-04-12 02:20:36,153,Employee,Not Completed
+66190338145643268cbde863,ADF,Ruthraraj R,2024-04-12 11:27:36,2024-04-12 14:14:36,167,Intern,Completed
+66190338145643268cbde864,ML Basics,Swatikka C,2024-04-12 03:32:36,2024-04-12 07:42:36,250,Intern,Not Completed
+66190338145643268cbde865,React JS,Himanshu Soni,2024-04-12 14:13:36,2024-04-12 17:15:36,182,Intern,Completed
+66190338145643268cbde866,Python for DS,Michael Leovalan,2024-04-12 13:26:36,2024-04-12 14:57:36,91,Employee,Not Completed
+66190338145643268cbde867,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 12:22:36,2024-04-12 14:50:36,148,Intern,Not Completed
+66190338145643268cbde868,Python for DS,Livin Albert B,2024-04-11 17:32:36,2024-04-11 18:26:36,54,Employee,Completed
+66190338145643268cbde869,Security Testing,Disha Matilda B,2024-04-12 13:23:36,2024-04-12 13:54:36,31,Employee,Completed
+66190338145643268cbde86a,UI / UX Concept Figma,Hariharan N,2024-04-12 10:46:36,2024-04-12 11:48:36,62,Intern,Completed
+66190338145643268cbde86b,Security Testing,Purvaja Vashistha,2024-04-12 13:22:36,2024-04-12 14:30:36,68,Employee,Not Completed
+66190338145643268cbde86c,Security Testing,Harish P,2024-04-12 11:00:36,2024-04-12 12:15:36,75,Employee,Not Completed
+66190338145643268cbde86d,Security Testing,Disha Matilda B,2024-04-12 02:49:36,2024-04-12 05:04:36,135,Intern,Not Completed
+66190338145643268cbde86e,Quality Assurance Basics,Achyut Pramod,2024-04-11 17:25:36,2024-04-11 19:07:36,102,Intern,Not Completed
+66190338145643268cbde86f,ML Basics,Swatikka C,2024-04-12 00:33:36,2024-04-12 04:08:36,215,Intern,Completed
+66190338145643268cbde870,Data Warehouse - ETL,Lejoy J,2024-04-11 23:50:36,2024-04-12 04:15:36,265,Employee,Not Completed
+66190338145643268cbde871,SQL,Nivya V,2024-04-11 16:55:36,2024-04-11 21:50:36,295,Intern,Not Completed
+66190338145643268cbde872,Cloud Platforms,Rishikar B,2024-04-12 06:25:36,2024-04-12 07:06:36,41,Intern,Completed
+66190338145643268cbde873,Security Testing,Christopher Raj,2024-04-12 09:07:36,2024-04-12 10:13:36,66,Employee,Not Completed
+66190338145643268cbde874,Quality Assurance Basics,Sivamalini V,2024-04-11 18:57:36,2024-04-11 19:53:36,56,Intern,Completed
+66190338145643268cbde875,ML Basics,Kundan Kumar S,2024-04-12 02:14:36,2024-04-12 06:32:36,258,Intern,Not Completed
+66190338145643268cbde876,SQL,Sameer Basha B,2024-04-12 02:37:36,2024-04-12 04:51:36,134,Employee,Completed
+66190338145643268cbde877,React JS,Himanshu Soni,2024-04-12 14:40:36,2024-04-12 17:39:36,179,Intern,Completed
+66190338145643268cbde878,React JS,Shirpi A,2024-04-11 22:47:36,2024-04-12 02:26:36,219,Employee,Not Completed
+66190338145643268cbde879,Security Testing,Purvaja Vashistha,2024-04-11 21:36:36,2024-04-11 21:58:36,22,Employee,Completed
+66190338145643268cbde87a,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 06:05:36,2024-04-12 07:35:36,90,Intern,Not Completed
+66190338145643268cbde87b,Python for DS,Michael Leovalan,2024-04-12 09:23:36,2024-04-12 11:01:36,98,Intern,Completed
+66190338145643268cbde87c,UI / UX Concept Figma,Hariharan N,2024-04-11 22:23:36,2024-04-11 22:17:36,-6,Employee,Completed
+66190338145643268cbde87d,Cloud Platforms,Neshanth G,2024-04-11 22:20:36,2024-04-11 23:36:36,76,Intern,Not Completed
+66190338145643268cbde87e,Security Testing,Christopher Raj,2024-04-12 01:05:36,2024-04-12 02:27:36,82,Intern,Completed
+66190338145643268cbde87f,Security Testing,Harish P,2024-04-12 08:15:36,2024-04-12 10:23:36,128,Intern,Not Completed
+66190338145643268cbde880,UI / UX Concept Figma,Rekha Anandan,2024-04-12 00:29:36,2024-04-12 01:19:36,50,Employee,Not Completed
+66190338145643268cbde881,Cloud Platforms,Gopinath Ramesh,2024-04-11 22:36:36,2024-04-11 22:20:36,-16,Employee,Completed
+66190338145643268cbde882,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 09:08:36,2024-04-12 12:47:36,219,Employee,Not Completed
+66190338145643268cbde883,Security Testing,Christopher Raj,2024-04-11 21:10:36,2024-04-11 22:17:36,67,Employee,Not Completed
+66190338145643268cbde884,UI / UX Concept Figma,Rekha Anandan,2024-04-12 14:36:36,2024-04-12 15:11:36,35,Employee,Not Completed
+66190338145643268cbde885,DevOps Operations,Lavanya R,2024-04-12 05:35:36,2024-04-12 05:27:36,-8,Employee,Completed
+66190338145643268cbde886,Git & Version Control,Gayathri G S,2024-04-11 19:12:36,2024-04-11 19:43:36,31,Employee,Not Completed
+66190338145643268cbde887,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 07:01:36,2024-04-12 08:18:36,77,Employee,Not Completed
+66190338145643268cbde888,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 13:55:36,2024-04-12 18:47:36,292,Intern,Not Completed
+66190338145643268cbde889,Quality Assurance Basics,Achyut Pramod,2024-04-12 13:00:36,2024-04-12 13:43:36,43,Employee,Not Completed
+66190338145643268cbde88a,Cloud Platforms,Gopinath Ramesh,2024-04-11 19:19:36,2024-04-11 18:58:36,-21,Employee,Completed
+66190338145643268cbde88b,React JS,Ajay S,2024-04-12 07:21:36,2024-04-12 10:28:36,187,Employee,Not Completed
+66190338145643268cbde88c,Git & Version Control,Gayathri V,2024-04-12 07:10:36,2024-04-12 07:53:36,43,Employee,Not Completed
+66190338145643268cbde88d,Git & Version Control,Akkim Balaji C,2024-04-12 15:11:36,2024-04-12 15:44:36,33,Employee,Not Completed
+66190338145643268cbde88e,Quality Assurance Basics,Sivamalini V,2024-04-12 05:36:36,2024-04-12 06:14:36,38,Employee,Not Completed
+66190338145643268cbde88f,ADF,Sathish Kumar V,2024-04-11 15:25:36,2024-04-11 17:31:36,126,Employee,Not Completed
+66190338145643268cbde890,Security Testing,Disha Matilda B,2024-04-11 22:34:36,2024-04-11 23:55:36,81,Intern,Completed
+66190338145643268cbde891,Cloud Platforms,Rishikar B,2024-04-12 10:25:36,2024-04-12 10:03:36,-22,Employee,Completed
+66190338145643268cbde892,DevOps Operations,Anto Arokia Mary N L,2024-04-12 08:46:36,2024-04-12 10:35:36,109,Intern,Not Completed
+66190338145643268cbde893,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 20:33:36,2024-04-11 21:05:36,32,Employee,Not Completed
+66190338145643268cbde894,ADF,Ruthraraj R,2024-04-11 17:18:36,2024-04-11 18:51:36,93,Employee,Completed
+66190338145643268cbde895,React JS,Keerthika Kannan,2024-04-11 23:09:36,2024-04-12 03:36:36,267,Intern,Completed
+66190338145643268cbde896,React JS,Pichhapati Venkata Naveen,2024-04-11 15:53:36,2024-04-11 19:20:36,207,Employee,Not Completed
+66190338145643268cbde897,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 15:34:36,2024-04-11 18:42:36,188,Employee,Not Completed
+66190338145643268cbde898,Git & Version Control,Vignesh Anantharaj,2024-04-12 03:15:36,2024-04-12 04:55:36,100,Intern,Not Completed
+66190338145643268cbde899,Data Warehouse - ETL,Anil Prasad L,2024-04-12 06:33:36,2024-04-12 11:37:36,304,Intern,Completed
+66190338145643268cbde89a,Quality Assurance Basics,Arjun Ganesan,2024-04-11 23:32:36,2024-04-11 23:37:36,5,Employee,Completed
+66190338145643268cbde89b,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-12 00:47:36,2024-04-12 02:12:36,85,Intern,Not Completed
+66190338145643268cbde89c,ML Basics,Dhaneshwaran D,2024-04-12 05:33:36,2024-04-12 08:44:36,191,Employee,Not Completed
+66190338145643268cbde89d,SQL,Nivya V,2024-04-11 23:30:36,2024-04-12 02:21:36,171,Employee,Not Completed
+66190338145643268cbde89e,ML Basics,Arun Prasanth S,2024-04-11 23:16:36,2024-04-12 03:29:36,253,Intern,Not Completed
+66190338145643268cbde89f,Python for DS,Radhakrishnan R,2024-04-11 19:33:36,2024-04-11 20:50:36,77,Employee,Not Completed
+66190338145643268cbde8a0,Security Testing,Christopher Raj,2024-04-12 02:58:36,2024-04-12 05:03:36,125,Intern,Not Completed
+66190338145643268cbde8a1,ADF,Sathish Kumar V,2024-04-11 15:49:36,2024-04-11 18:08:36,139,Employee,Not Completed
+66190338145643268cbde8a2,UI / UX Concept Figma,Siddharth Sridhar,2024-04-11 18:07:36,2024-04-11 18:14:36,7,Employee,Completed
+66190338145643268cbde8a3,UI / UX Concept Figma,Rekha Anandan,2024-04-12 04:50:36,2024-04-12 06:41:36,111,Intern,Not Completed
+66190338145643268cbde8a4,DevOps Operations,Prasanth S,2024-04-11 17:02:36,2024-04-11 17:46:36,44,Employee,Not Completed
+66190338145643268cbde8a5,Quality Assurance Basics,Sivamalini V,2024-04-12 11:59:36,2024-04-12 13:00:36,61,Intern,Completed
+66190338145643268cbde8a6,Cloud Platforms,Rishikar B,2024-04-12 04:50:36,2024-04-12 05:32:36,42,Intern,Completed
+66190338145643268cbde8a7,UI / UX Concept Figma,Hariharan N,2024-04-12 05:44:36,2024-04-12 06:50:36,66,Intern,Completed
+66190338145643268cbde8a8,SQL,Pooja Nareshsinh Thakur,2024-04-11 20:07:36,2024-04-12 00:08:36,241,Intern,Completed
+66190338145643268cbde8a9,ML Basics,Swatikka C,2024-04-12 04:22:36,2024-04-12 07:15:36,173,Intern,Completed
+66190338145643268cbde8aa,ML Basics,Kundan Kumar S,2024-04-11 18:16:36,2024-04-11 19:19:36,63,Employee,Completed
+66190338145643268cbde8ab,UI / UX Concept Figma,Rekha Anandan,2024-04-12 12:15:36,2024-04-12 12:56:36,41,Employee,Not Completed
+66190338145643268cbde8ac,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 01:25:36,2024-04-12 05:35:36,250,Employee,Not Completed
+66190338145643268cbde8ad,Cloud Platforms,Neshanth G,2024-04-12 09:15:36,2024-04-12 08:55:36,-20,Employee,Completed
+66190338145643268cbde8ae,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-12 05:07:36,2024-04-12 05:50:36,43,Intern,Completed
+66190338145643268cbde8af,DevOps Operations,Lavanya R,2024-04-11 20:00:36,2024-04-11 21:07:36,67,Intern,Completed
+66190338145643268cbde8b0,ML Basics,Arun Prasanth S,2024-04-11 17:55:36,2024-04-11 21:30:36,215,Intern,Not Completed
+66190338145643268cbde8b1,Data Warehouse - ETL,Lejoy J,2024-04-12 06:02:36,2024-04-12 11:54:36,352,Intern,Not Completed
+66190338145643268cbde8b2,React JS,Shirpi A,2024-04-12 08:54:36,2024-04-12 12:54:36,240,Intern,Completed
+66190338145643268cbde8b3,Python for DS,Michael Leovalan,2024-04-12 10:31:36,2024-04-12 11:41:36,70,Employee,Not Completed
+66190338145643268cbde8b4,Python for DS,Radhakrishnan R,2024-04-11 23:23:36,2024-04-12 02:03:36,160,Intern,Not Completed
+66190338145643268cbde8b5,Python for DS,Livin Albert B,2024-04-11 23:46:36,2024-04-12 00:14:36,28,Employee,Completed
+66190338145643268cbde8b6,Python for DS,Michael Leovalan,2024-04-12 04:38:36,2024-04-12 07:02:36,144,Intern,Not Completed
+66190338145643268cbde8b7,ML Basics,Dhaneshwaran D,2024-04-12 13:14:36,2024-04-12 15:35:36,141,Intern,Completed
+66190338145643268cbde8b8,Quality Assurance Basics,Arjun Ganesan,2024-04-12 01:37:36,2024-04-12 03:18:36,101,Intern,Not Completed
+66190338145643268cbde8b9,SQL,Satyam Pandey S,2024-04-12 01:29:36,2024-04-12 04:55:36,206,Employee,Not Completed
+66190338145643268cbde8ba,ADF,Ravishankar P,2024-04-11 17:21:36,2024-04-11 18:47:36,86,Employee,Completed
+66190338145643268cbde8bb,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 14:39:36,2024-04-12 18:50:36,251,Employee,Completed
+66190338145643268cbde8bc,ML Basics,Swatikka C,2024-04-12 12:33:36,2024-04-12 14:49:36,136,Intern,Completed
+66190338145643268cbde8bd,Python for DS,Radhakrishnan R,2024-04-11 19:17:36,2024-04-11 21:23:36,126,Intern,Not Completed
+66190338145643268cbde8be,Data Warehouse - ETL,Anil Prasad L,2024-04-12 09:31:36,2024-04-12 14:37:36,306,Intern,Not Completed
+66190338145643268cbde8bf,UI / UX Concept Figma,Hariharan N,2024-04-12 14:43:36,2024-04-12 15:44:36,61,Intern,Completed
+66190338145643268cbde8c0,Git & Version Control,Gayathri V,2024-04-11 22:30:36,2024-04-11 23:01:36,31,Employee,Not Completed
+66190338145643268cbde8c1,Python for DS,Livin Albert B,2024-04-11 21:45:36,2024-04-11 23:19:36,94,Intern,Completed
+66190338145643268cbde8c2,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-11 18:02:36,2024-04-11 18:52:36,50,Intern,Completed
+66190338145643268cbde8c3,DevOps Operations,Prasanth S,2024-04-12 07:17:36,2024-04-12 08:56:36,99,Intern,Not Completed
+66190338145643268cbde8c4,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 03:09:36,2024-04-12 03:59:36,50,Employee,Not Completed
+66190338145643268cbde8c5,ADF,Ravishankar P,2024-04-12 00:53:36,2024-04-12 03:18:36,145,Intern,Completed
+66190338145643268cbde8c6,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 01:22:36,2024-04-12 01:59:36,37,Employee,Not Completed
+66190338145643268cbde8c7,ML Basics,Kundan Kumar S,2024-04-11 16:35:36,2024-04-11 20:48:36,253,Intern,Not Completed
+66190338145643268cbde8c8,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 01:14:36,2024-04-12 04:48:36,214,Employee,Not Completed
+66190338145643268cbde8c9,Python for DS,Christopher D,2024-04-12 10:34:36,2024-04-12 13:08:36,154,Intern,Not Completed
+66190338145643268cbde8ca,Git & Version Control,Gayathri V,2024-04-12 08:21:36,2024-04-12 09:21:36,60,Intern,Completed
+66190338145643268cbde8cb,Quality Assurance Basics,Vikas Vyavhare,2024-04-11 23:19:36,2024-04-12 00:53:36,94,Intern,Not Completed
+66190338145643268cbde8cc,Data Warehouse - ETL,Anil Prasad L,2024-04-12 07:51:36,2024-04-12 13:15:36,324,Intern,Not Completed
+66190338145643268cbde8cd,Cloud Platforms,Rishikar B,2024-04-12 05:11:36,2024-04-12 04:54:36,-17,Employee,Completed
+66190338145643268cbde8ce,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 02:10:36,2024-04-12 03:04:36,54,Intern,Completed
+66190338145643268cbde8cf,Python for DS,Christopher D,2024-04-11 21:41:36,2024-04-11 22:32:36,51,Employee,Completed
+66190338145643268cbde8d0,Git & Version Control,Gayathri V,2024-04-11 18:00:36,2024-04-11 18:34:36,34,Employee,Not Completed
+66190338145643268cbde8d1,React JS,Keerthika Kannan,2024-04-12 13:56:36,2024-04-12 17:40:36,224,Intern,Completed
+66190338145643268cbde8d2,React JS,Pichhapati Venkata Naveen,2024-04-11 22:09:36,2024-04-12 02:13:36,244,Intern,Completed
+66190338145643268cbde8d3,Quality Assurance Basics,Arjun Ganesan,2024-04-11 17:26:36,2024-04-11 18:08:36,42,Employee,Not Completed
+66190338145643268cbde8d4,DevOps Operations,Prasanth S,2024-04-11 16:20:36,2024-04-11 16:12:36,-8,Employee,Completed
+66190338145643268cbde8d5,Cloud Platforms,Rishikar B,2024-04-12 00:50:36,2024-04-12 01:33:36,43,Intern,Completed
+66190338145643268cbde8d6,ADF,Ruthraraj R,2024-04-12 08:04:36,2024-04-12 09:41:36,97,Employee,Completed
+66190338145643268cbde8d7,Cloud Platforms,Molly Buxton,2024-04-12 01:32:36,2024-04-12 01:53:36,21,Employee,Not Completed
+66190338145643268cbde8d8,UI / UX Concept Figma,Hariharan N,2024-04-11 15:45:36,2024-04-11 15:38:36,-7,Employee,Completed
+66190338145643268cbde8d9,Quality Assurance Basics,Arjun Ganesan,2024-04-11 20:14:36,2024-04-11 21:57:36,103,Intern,Not Completed
+66190338145643268cbde8da,ADF,Ravishankar P,2024-04-12 08:35:36,2024-04-12 10:35:36,120,Employee,Not Completed
+66190338145643268cbde8db,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 16:06:36,2024-04-11 19:56:36,230,Employee,Completed
+66190338145643268cbde8dc,ML Basics,Dhaneshwaran D,2024-04-12 09:30:36,2024-04-12 13:25:36,235,Intern,Not Completed
+66190338145643268cbde8dd,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 16:50:36,2024-04-11 18:25:36,95,Intern,Not Completed
+66190338145643268cbde8de,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 09:09:36,2024-04-12 12:06:36,177,Employee,Completed
+66190338145643268cbde8df,SQL,Sameer Basha B,2024-04-11 16:19:36,2024-04-11 19:53:36,214,Employee,Not Completed
+66190338145643268cbde8e0,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 20:41:36,2024-04-11 21:36:36,55,Intern,Completed
+66190338145643268cbde8e1,ADF,Vendeeshwaran C,2024-04-12 08:14:36,2024-04-12 09:58:36,104,Employee,Completed
+66190338145643268cbde8e2,DevOps Operations,Naveen Kumar S,2024-04-11 18:55:36,2024-04-11 19:35:36,40,Employee,Not Completed
+66190338145643268cbde8e3,Git & Version Control,Vignesh Anantharaj,2024-04-11 22:43:36,2024-04-11 22:46:36,3,Employee,Completed
+66190338145643268cbde8e4,Security Testing,Christopher Raj,2024-04-11 21:07:36,2024-04-11 22:33:36,86,Intern,Completed
+66190338145643268cbde8e5,React JS,Keerthika Kannan,2024-04-11 19:05:36,2024-04-11 23:08:36,243,Employee,Not Completed
+66190338145643268cbde8e6,Cloud Platforms,Rishikar B,2024-04-12 03:14:36,2024-04-12 04:39:36,85,Intern,Not Completed
+66190338145643268cbde8e7,ADF,Ravishankar P,2024-04-11 17:02:36,2024-04-11 18:28:36,86,Employee,Completed
+66190338145643268cbde8e8,SQL,Satyam Pandey S,2024-04-12 09:44:36,2024-04-12 11:46:36,122,Employee,Completed
+66190338145643268cbde8e9,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 06:26:36,2024-04-12 08:07:36,101,Intern,Not Completed
+66190338145643268cbde8ea,Python for DS,Michael Leovalan,2024-04-12 07:08:36,2024-04-12 09:10:36,122,Intern,Not Completed
+66190338145643268cbde8eb,UI / UX Concept Figma,Rekha Anandan,2024-04-12 07:56:36,2024-04-12 08:55:36,59,Employee,Not Completed
+66190338145643268cbde8ec,Cloud Platforms,Rishikar B,2024-04-12 07:50:36,2024-04-12 08:27:36,37,Intern,Completed
+66190338145643268cbde8ed,React JS,Keerthika Kannan,2024-04-11 20:16:36,2024-04-12 00:37:36,261,Intern,Completed
+66190338145643268cbde8ee,Python for DS,Christopher D,2024-04-12 05:10:36,2024-04-12 07:05:36,115,Intern,Completed
+66190338145643268cbde8ef,Python for DS,Michael Leovalan,2024-04-11 16:38:36,2024-04-11 18:41:36,123,Intern,Not Completed
+66190338145643268cbde8f0,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 09:20:36,2024-04-12 13:08:36,228,Employee,Completed
+66190338145643268cbde8f1,ML Basics,Dhaneshwaran D,2024-04-12 08:15:36,2024-04-12 09:48:36,93,Employee,Completed
+66190338145643268cbde8f2,SQL,Nivya V,2024-04-12 05:29:36,2024-04-12 10:22:36,293,Intern,Not Completed
+66190338145643268cbde8f3,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 15:09:36,2024-04-12 15:53:36,44,Employee,Not Completed
+66190338145643268cbde8f4,Quality Assurance Basics,Achyut Pramod,2024-04-12 00:15:36,2024-04-12 01:09:36,54,Intern,Completed
+66190338145643268cbde8f5,Quality Assurance Basics,Sivamalini V,2024-04-12 14:50:36,2024-04-12 15:27:36,37,Employee,Not Completed
+66190338145643268cbde8f6,React JS,Pichhapati Venkata Naveen,2024-04-11 20:21:36,2024-04-12 00:10:36,229,Employee,Not Completed
+66190338145643268cbde8f7,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 13:54:36,2024-04-12 13:58:36,4,Employee,Completed
+66190338145643268cbde8f8,Python for DS,Christopher D,2024-04-12 05:06:36,2024-04-12 06:27:36,81,Intern,Completed
+66190338145643268cbde8f9,UI / UX Concept Figma,Siddharth Sridhar,2024-04-11 17:30:36,2024-04-11 18:07:36,37,Employee,Not Completed
+66190338145643268cbde8fa,DevOps Operations,Sourav Kumar,2024-04-11 21:16:36,2024-04-11 21:57:36,41,Employee,Not Completed
+66190338145643268cbde8fb,Security Testing,Christopher Raj,2024-04-11 22:57:36,2024-04-12 00:35:36,98,Intern,Completed
+66190338145643268cbde8fc,Quality Assurance Basics,Sivamalini V,2024-04-12 08:31:36,2024-04-12 09:06:36,35,Employee,Not Completed
+66190338145643268cbde8fd,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 03:09:36,2024-04-12 03:59:36,50,Intern,Completed
+66190338145643268cbde8fe,Cloud Platforms,Rishikar B,2024-04-12 01:06:36,2024-04-12 00:44:36,-22,Employee,Completed
+66190338145643268cbde8ff,DevOps Operations,Anto Arokia Mary N L,2024-04-12 05:58:36,2024-04-12 07:08:36,70,Intern,Completed
+66190338145643268cbde900,ML Basics,Dhaneshwaran D,2024-04-11 16:20:36,2024-04-11 19:04:36,164,Intern,Not Completed
+66190338145643268cbde901,Git & Version Control,Gayathri G S,2024-04-11 17:01:36,2024-04-11 18:00:36,59,Intern,Completed
+66190338145643268cbde902,SQL,Felix Raj C,2024-04-12 00:13:36,2024-04-12 03:56:36,223,Employee,Not Completed
+66190338145643268cbde903,Security Testing,Disha Matilda B,2024-04-11 22:39:36,2024-04-12 00:44:36,125,Intern,Not Completed
+66190338145643268cbde904,Data Warehouse - ETL,Anil Prasad L,2024-04-11 18:52:36,2024-04-11 22:33:36,221,Employee,Completed
+66190338145643268cbde905,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 10:33:36,2024-04-12 15:10:36,277,Intern,Completed
+66190338145643268cbde906,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 15:18:36,2024-04-11 16:18:36,60,Intern,Completed
+66190338145643268cbde907,SQL,Satyam Pandey S,2024-04-12 04:25:36,2024-04-12 07:22:36,177,Employee,Not Completed
+66190338145643268cbde908,Cloud Platforms,Rishikar B,2024-04-11 19:40:36,2024-04-11 20:24:36,44,Intern,Completed
+66190338145643268cbde909,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 04:39:36,2024-04-12 09:06:36,267,Employee,Not Completed
+66190338145643268cbde90a,React JS,Keerthika Kannan,2024-04-12 04:25:36,2024-04-12 06:48:36,143,Employee,Completed
+66190338145643268cbde90b,React JS,Keerthika Kannan,2024-04-11 17:38:36,2024-04-11 20:42:36,184,Employee,Not Completed
+66190338145643268cbde90c,SQL,Sameer Basha B,2024-04-12 05:09:36,2024-04-12 08:59:36,230,Intern,Completed
+66190338145643268cbde90d,ADF,Ruthraraj R,2024-04-12 04:18:36,2024-04-12 06:34:36,136,Employee,Not Completed
+66190338145643268cbde90e,Python for DS,Michael Leovalan,2024-04-11 22:39:36,2024-04-12 01:13:36,154,Intern,Not Completed
+66190338145643268cbde90f,Python for DS,Michael Leovalan,2024-04-12 04:59:36,2024-04-12 06:25:36,86,Intern,Completed
+66190338145643268cbde910,React JS,Shirpi A,2024-04-11 22:27:36,2024-04-12 01:22:36,175,Intern,Completed
+66190338145643268cbde911,SQL,Nivya V,2024-04-12 11:25:36,2024-04-12 15:02:36,217,Intern,Completed
+66190338145643268cbde912,Quality Assurance Basics,Sivamalini V,2024-04-12 02:40:36,2024-04-12 04:15:36,95,Intern,Not Completed
+66190338145643268cbde913,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-11 16:42:36,2024-04-11 21:07:36,265,Intern,Not Completed
+66190338145643268cbde914,Git & Version Control,Gayathri V,2024-04-11 19:04:36,2024-04-11 19:49:36,45,Employee,Not Completed
+66190338145643268cbde915,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 07:27:36,2024-04-12 09:45:36,138,Employee,Completed
+66190338145643268cbde916,Cloud Platforms,Molly Buxton,2024-04-11 15:23:36,2024-04-11 15:59:36,36,Intern,Completed
+66190338145643268cbde917,Data Warehouse - ETL,Anil Prasad L,2024-04-12 02:37:36,2024-04-12 07:56:36,319,Intern,Not Completed
+66190338145643268cbde918,Quality Assurance Basics,Arjun Ganesan,2024-04-12 00:37:36,2024-04-12 02:07:36,90,Intern,Not Completed
+66190338145643268cbde919,React JS,Ajay S,2024-04-12 00:29:36,2024-04-12 04:34:36,245,Intern,Completed
+66190338145643268cbde91a,Python for DS,Radhakrishnan R,2024-04-12 02:35:36,2024-04-12 04:31:36,116,Intern,Completed
+66190338145643268cbde91b,ML Basics,Dhaneshwaran D,2024-04-12 00:16:36,2024-04-12 03:54:36,218,Intern,Completed
+66190338145643268cbde91c,SQL,Satyam Pandey S,2024-04-11 23:23:36,2024-04-12 02:49:36,206,Employee,Not Completed
+66190338145643268cbde91d,UI / UX Concept Figma,Siddharth Sridhar,2024-04-12 08:31:36,2024-04-12 10:10:36,99,Intern,Not Completed
+66190338145643268cbde91e,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 01:27:36,2024-04-12 04:17:36,170,Employee,Completed
+66190338145643268cbde91f,Cloud Platforms,Molly Buxton,2024-04-11 16:48:36,2024-04-11 18:18:36,90,Intern,Not Completed
+66190338145643268cbde920,DevOps Operations,Prasanth S,2024-04-12 12:59:36,2024-04-12 13:01:36,2,Employee,Completed
+66190338145643268cbde921,Python for DS,Christopher D,2024-04-12 05:22:36,2024-04-12 06:40:36,78,Employee,Not Completed
+66190338145643268cbde922,SQL,Pooja Nareshsinh Thakur,2024-04-12 11:28:36,2024-04-12 15:43:36,255,Intern,Not Completed
+66190338145643268cbde923,Security Testing,Likhitha Gurram,2024-04-12 11:20:36,2024-04-12 12:50:36,90,Intern,Completed
+66190338145643268cbde924,React JS,Himanshu Soni,2024-04-11 18:10:36,2024-04-11 21:46:36,216,Employee,Not Completed
+66190338145643268cbde925,Security Testing,Christopher Raj,2024-04-11 19:10:36,2024-04-11 20:30:36,80,Intern,Completed
+66190338145643268cbde926,SQL,Sameer Basha B,2024-04-12 09:17:36,2024-04-12 13:50:36,273,Intern,Not Completed
+66190338145643268cbde927,ADF,Ruthraraj R,2024-04-12 13:07:36,2024-04-12 15:37:36,150,Employee,Not Completed
+66190338145643268cbde928,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 06:04:36,2024-04-12 07:39:36,95,Intern,Not Completed
+66190338145643268cbde929,Git & Version Control,Akkim Balaji C,2024-04-12 01:57:36,2024-04-12 03:42:36,105,Intern,Not Completed
+66190338145643268cbde92a,ML Basics,Kundan Kumar S,2024-04-12 12:58:36,2024-04-12 14:12:36,74,Employee,Completed
+66190338145643268cbde92b,ADF,Vendeeshwaran C,2024-04-12 01:55:36,2024-04-12 04:44:36,169,Intern,Completed
+66190338145643268cbde92c,UI / UX Concept Figma,Babu G,2024-04-12 02:45:36,2024-04-12 04:03:36,78,Intern,Completed
+66190338145643268cbde92d,ML Basics,Arun Prasanth S,2024-04-11 21:21:36,2024-04-11 23:55:36,154,Intern,Completed
+66190338145643268cbde92e,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 04:53:36,2024-04-12 05:31:36,38,Employee,Not Completed
+66190338145643268cbde92f,Cloud Platforms,Gopinath Ramesh,2024-04-12 09:32:36,2024-04-12 10:58:36,86,Intern,Not Completed
+66190338145643268cbde930,React JS,Himanshu Soni,2024-04-11 21:02:36,2024-04-11 23:25:36,143,Employee,Completed
+66190338145643268cbde931,Python for DS,Radhakrishnan R,2024-04-11 19:15:36,2024-04-11 21:36:36,141,Intern,Not Completed
+66190338145643268cbde932,ML Basics,Venkata Charan Kumar Maddula,2024-04-11 21:57:36,2024-04-11 23:50:36,113,Employee,Completed
+66190338145643268cbde933,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 00:02:36,2024-04-12 00:29:36,27,Employee,Completed
+66190338145643268cbde934,DevOps Operations,Sourav Kumar,2024-04-11 18:38:36,2024-04-11 18:28:36,-10,Employee,Completed
+66190338145643268cbde935,Quality Assurance Basics,Sivamalini V,2024-04-12 13:53:36,2024-04-12 15:37:36,104,Intern,Not Completed
+66190338145643268cbde936,Quality Assurance Basics,Arjun Ganesan,2024-04-12 13:29:36,2024-04-12 13:30:36,1,Employee,Completed
+66190338145643268cbde937,Python for DS,Livin Albert B,2024-04-12 13:22:36,2024-04-12 14:53:36,91,Intern,Completed
+66190338145643268cbde938,ADF,Vendeeshwaran C,2024-04-11 19:08:36,2024-04-11 21:34:36,146,Intern,Completed
+66190338145643268cbde939,ADF,Vendeeshwaran C,2024-04-11 22:34:36,2024-04-12 01:39:36,185,Intern,Not Completed
+66190338145643268cbde93a,SQL,Nivya V,2024-04-12 06:42:36,2024-04-12 11:11:36,269,Intern,Completed
+66190338145643268cbde93b,UI / UX Concept Figma,Rekha Anandan,2024-04-12 13:33:36,2024-04-12 15:24:36,111,Intern,Not Completed
+66190338145643268cbde93c,ML Basics,Dhaneshwaran D,2024-04-12 02:18:36,2024-04-12 04:46:36,148,Employee,Not Completed
+66190338145643268cbde93d,Security Testing,Christopher Raj,2024-04-12 00:44:36,2024-04-12 02:59:36,135,Intern,Not Completed
+66190338145643268cbde93e,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-11 18:44:36,2024-04-11 20:07:36,83,Intern,Not Completed
+66190338145643268cbde93f,React JS,Himanshu Soni,2024-04-12 04:03:36,2024-04-12 06:17:36,134,Employee,Completed
+66190338145643268cbde940,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 04:47:36,2024-04-12 10:04:36,317,Intern,Completed
+66190338145643268cbde941,React JS,Ajay S,2024-04-12 05:15:36,2024-04-12 08:21:36,186,Intern,Completed
+66190338145643268cbde942,Security Testing,Purvaja Vashistha,2024-04-12 12:15:36,2024-04-12 14:31:36,136,Intern,Not Completed
+66190338145643268cbde943,ML Basics,Arun Prasanth S,2024-04-12 11:01:36,2024-04-12 14:18:36,197,Intern,Completed
+66190338145643268cbde944,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 10:18:36,2024-04-12 10:16:36,-2,Employee,Completed
+66190338145643268cbde945,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 18:54:36,2024-04-11 19:55:36,61,Intern,Completed
+66190338145643268cbde946,Security Testing,Disha Matilda B,2024-04-12 04:20:36,2024-04-12 05:44:36,84,Intern,Completed
+66190338145643268cbde947,ADF,Divya R,2024-04-11 20:15:36,2024-04-11 23:43:36,208,Intern,Not Completed
+66190338145643268cbde948,Cloud Platforms,Molly Buxton,2024-04-12 13:46:36,2024-04-12 14:06:36,20,Employee,Not Completed
+66190338145643268cbde949,SQL,Felix Raj C,2024-04-12 14:04:36,2024-04-12 17:44:36,220,Employee,Not Completed
+66190338145643268cbde94a,React JS,Ajay S,2024-04-11 19:23:36,2024-04-11 22:53:36,210,Intern,Not Completed
+66190338145643268cbde94b,React JS,Shirpi A,2024-04-12 04:43:36,2024-04-12 06:48:36,125,Employee,Completed
+66190338145643268cbde94c,Python for DS,Radhakrishnan R,2024-04-12 05:57:36,2024-04-12 06:42:36,45,Employee,Completed
+66190338145643268cbde94d,Cloud Platforms,Rishikar B,2024-04-12 08:58:36,2024-04-12 09:21:36,23,Employee,Not Completed
+66190338145643268cbde94e,ML Basics,Arun Prasanth S,2024-04-11 15:43:36,2024-04-11 18:35:36,172,Employee,Not Completed
+66190338145643268cbde94f,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 20:38:36,2024-04-12 00:08:36,210,Employee,Not Completed
+66190338145643268cbde950,ML Basics,Arun Prasanth S,2024-04-11 16:46:36,2024-04-11 19:13:36,147,Employee,Completed
+66190338145643268cbde951,Git & Version Control,Gayathri G S,2024-04-12 04:52:36,2024-04-12 05:22:36,30,Employee,Not Completed
+66190338145643268cbde952,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 13:44:36,2024-04-12 17:42:36,238,Intern,Not Completed
+66190338145643268cbde953,Data Warehouse - ETL,Anil Prasad L,2024-04-11 18:23:36,2024-04-11 22:26:36,243,Employee,Not Completed
+66190338145643268cbde954,ML Basics,Kundan Kumar S,2024-04-12 09:30:36,2024-04-12 13:10:36,220,Intern,Completed
+66190338145643268cbde955,ADF,Vendeeshwaran C,2024-04-12 11:03:36,2024-04-12 12:23:36,80,Employee,Completed
+66190338145643268cbde956,Cloud Platforms,Rishikar B,2024-04-12 02:42:36,2024-04-12 04:00:36,78,Intern,Not Completed
+66190338145643268cbde957,Python for DS,Christopher D,2024-04-12 09:51:36,2024-04-12 11:28:36,97,Employee,Not Completed
+66190338145643268cbde958,React JS,Shirpi A,2024-04-11 19:16:36,2024-04-11 23:14:36,238,Employee,Not Completed
+66190338145643268cbde959,UI / UX Concept Figma,Hariharan N,2024-04-12 07:41:36,2024-04-12 09:38:36,117,Intern,Not Completed
+66190338145643268cbde95a,DevOps Operations,Lavanya R,2024-04-11 22:05:36,2024-04-12 00:02:36,117,Intern,Not Completed
+66190338145643268cbde95b,DevOps Operations,Sourav Kumar,2024-04-11 23:59:36,2024-04-12 00:30:36,31,Employee,Not Completed
+66190338145643268cbde95c,Python for DS,Livin Albert B,2024-04-11 18:48:36,2024-04-11 21:23:36,155,Intern,Not Completed
+66190338145643268cbde95d,ADF,Ravishankar P,2024-04-11 19:27:36,2024-04-11 22:52:36,205,Intern,Not Completed
+66190338145643268cbde95e,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 04:09:36,2024-04-12 09:47:36,338,Intern,Not Completed
+66190338145643268cbde95f,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 05:31:36,2024-04-12 06:07:36,36,Employee,Not Completed
+66190338145643268cbde960,Quality Assurance Basics,Sivamalini V,2024-04-12 05:37:36,2024-04-12 07:18:36,101,Intern,Not Completed
+66190338145643268cbde961,React JS,Keerthika Kannan,2024-04-12 10:43:36,2024-04-12 14:46:36,243,Intern,Not Completed
+66190338145643268cbde962,Security Testing,Christopher Raj,2024-04-11 20:22:36,2024-04-11 21:56:36,94,Intern,Completed
+66190338145643268cbde963,ADF,Ruthraraj R,2024-04-12 09:47:36,2024-04-12 13:04:36,197,Intern,Not Completed
+66190338145643268cbde964,Security Testing,Likhitha Gurram,2024-04-12 13:27:36,2024-04-12 15:43:36,136,Intern,Not Completed
+66190338145643268cbde965,React JS,Shirpi A,2024-04-12 11:45:36,2024-04-12 15:31:36,226,Intern,Not Completed
+66190338145643268cbde966,ADF,Ravishankar P,2024-04-11 23:04:36,2024-04-12 01:38:36,154,Intern,Completed
+66190338145643268cbde967,Python for DS,Christopher D,2024-04-12 02:54:36,2024-04-12 05:34:36,160,Intern,Not Completed
+66190338145643268cbde968,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 11:05:36,2024-04-12 11:55:36,50,Intern,Completed
+66190338145643268cbde969,React JS,Keerthika Kannan,2024-04-11 21:15:36,2024-04-12 01:21:36,246,Intern,Completed
+66190338145643268cbde96a,Quality Assurance Basics,Vikas Vyavhare,2024-04-11 21:03:36,2024-04-11 21:08:36,5,Employee,Completed
+66190338145643268cbde96b,ML Basics,Venkata Charan Kumar Maddula,2024-04-12 12:44:36,2024-04-12 16:15:36,211,Intern,Completed
+66190338145643268cbde96c,React JS,Shirpi A,2024-04-11 17:56:36,2024-04-11 19:51:36,115,Employee,Completed
+66190338145643268cbde96d,SQL,Satyam Pandey S,2024-04-12 05:21:36,2024-04-12 08:20:36,179,Employee,Not Completed
+66190338145643268cbde96e,ML Basics,Dhaneshwaran D,2024-04-11 19:45:36,2024-04-11 23:15:36,210,Intern,Completed
+66190338145643268cbde96f,ML Basics,Kundan Kumar S,2024-04-12 06:42:36,2024-04-12 09:25:36,163,Employee,Not Completed
+66190338145643268cbde970,React JS,Ajay S,2024-04-12 04:38:36,2024-04-12 06:34:36,116,Employee,Completed
+66190338145643268cbde971,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-11 23:04:36,2024-04-12 03:45:36,281,Intern,Not Completed
+66190338145643268cbde972,SQL,Nivya V,2024-04-12 04:17:36,2024-04-12 07:16:36,179,Employee,Not Completed
+66190338145643268cbde973,Security Testing,Likhitha Gurram,2024-04-12 14:29:36,2024-04-12 16:45:36,136,Intern,Not Completed
+66190338145643268cbde974,UI / UX Concept Figma,Rekha Anandan,2024-04-12 14:31:36,2024-04-12 16:11:36,100,Intern,Not Completed
+66190338145643268cbde975,Security Testing,Likhitha Gurram,2024-04-12 04:40:36,2024-04-12 06:00:36,80,Intern,Completed
+66190338145643268cbde976,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-11 20:08:36,2024-04-11 23:58:36,230,Employee,Completed
+66190338145643268cbde977,Data Warehouse - ETL,Lejoy J,2024-04-11 18:22:36,2024-04-11 22:10:36,228,Employee,Completed
+66190338145643268cbde978,React JS,Pichhapati Venkata Naveen,2024-04-12 08:52:36,2024-04-12 12:49:36,237,Intern,Completed
+66190338145643268cbde979,SQL,Felix Raj C,2024-04-11 15:45:36,2024-04-11 18:17:36,152,Employee,Not Completed
+66190338145643268cbde97a,Git & Version Control,Vignesh Anantharaj,2024-04-12 01:07:36,2024-04-12 01:50:36,43,Employee,Not Completed
+66190338145643268cbde97b,Security Testing,Christopher Raj,2024-04-12 09:29:36,2024-04-12 11:48:36,139,Intern,Not Completed
+66190338145643268cbde97c,Git & Version Control,Gayathri G S,2024-04-12 04:59:36,2024-04-12 04:56:36,-3,Employee,Completed
+66190338145643268cbde97d,DevOps Operations,Anto Arokia Mary N L,2024-04-12 10:42:36,2024-04-12 12:34:36,112,Intern,Not Completed
+66190338145643268cbde97e,ADF,Ravishankar P,2024-04-12 04:51:36,2024-04-12 06:52:36,121,Employee,Not Completed
+66190338145643268cbde97f,Quality Assurance Basics,Achyut Pramod,2024-04-11 15:44:36,2024-04-11 17:24:36,100,Intern,Not Completed
+66190338145643268cbde980,Python for DS,Radhakrishnan R,2024-04-12 08:01:36,2024-04-12 08:52:36,51,Employee,Completed
+66190338145643268cbde981,Quality Assurance Basics,Vikas Vyavhare,2024-04-11 17:21:36,2024-04-11 18:19:36,58,Intern,Completed
+66190338145643268cbde982,Security Testing,Purvaja Vashistha,2024-04-11 19:55:36,2024-04-11 22:05:36,130,Intern,Not Completed
+66190338145643268cbde983,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 11:38:36,2024-04-12 17:22:36,344,Intern,Not Completed
+66190338145643268cbde984,ADF,Ravishankar P,2024-04-12 08:32:36,2024-04-12 11:44:36,192,Intern,Not Completed
+66190338145643268cbde985,Security Testing,Harish P,2024-04-12 09:01:36,2024-04-12 09:30:36,29,Employee,Completed
+66190338145643268cbde986,Python for DS,Christopher D,2024-04-11 17:53:36,2024-04-11 19:18:36,85,Intern,Completed
+66190338145643268cbde987,Quality Assurance Basics,Vikas Vyavhare,2024-04-12 07:42:36,2024-04-12 07:38:36,-4,Employee,Completed
+66190338145643268cbde988,Python for DS,Radhakrishnan R,2024-04-12 01:35:36,2024-04-12 03:01:36,86,Intern,Completed
+66190338145643268cbde989,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 14:37:36,2024-04-12 16:11:36,94,Intern,Not Completed
+66190338145643268cbde98a,ADF,Divya R,2024-04-11 18:24:36,2024-04-11 21:14:36,170,Intern,Completed
+66190338145643268cbde98b,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-11 22:48:36,2024-04-12 03:14:36,266,Intern,Not Completed
+66190338145643268cbde98c,Security Testing,Likhitha Gurram,2024-04-11 23:46:36,2024-04-12 00:55:36,69,Employee,Not Completed
+66190338145643268cbde98d,ML Basics,Swatikka C,2024-04-11 18:44:36,2024-04-11 21:03:36,139,Employee,Completed
+66190338145643268cbde98e,Quality Assurance Basics,Vikas Vyavhare,2024-04-11 19:06:36,2024-04-11 19:07:36,1,Employee,Completed
+66190338145643268cbde98f,UI / UX Concept Figma,Babu G,2024-04-11 23:31:36,2024-04-12 00:29:36,58,Intern,Completed
+66190338145643268cbde990,ML Basics,Kundan Kumar S,2024-04-12 15:10:36,2024-04-12 17:12:36,122,Employee,Not Completed
+66190338145643268cbde991,Security Testing,Disha Matilda B,2024-04-12 01:39:36,2024-04-12 03:03:36,84,Intern,Completed
+66190338145643268cbde992,Data Warehouse - ETL,Anil Prasad L,2024-04-12 10:50:36,2024-04-12 14:08:36,198,Employee,Completed
+66190338145643268cbde993,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-11 16:59:36,2024-04-11 21:26:36,267,Intern,Not Completed
+66190338145643268cbde994,DevOps Operations,Anto Arokia Mary N L,2024-04-11 18:16:36,2024-04-11 18:20:36,4,Employee,Completed
+66190338145643268cbde995,UI / UX Concept Figma,Babu G,2024-04-12 10:46:36,2024-04-12 10:56:36,10,Employee,Completed
+66190338145643268cbde996,Git & Version Control,Naga Sandeep Reddy P,2024-04-12 02:42:36,2024-04-12 03:19:36,37,Employee,Not Completed
+66190338145643268cbde997,Cloud Platforms,Rishikar B,2024-04-12 00:14:36,2024-04-12 00:53:36,39,Intern,Completed
+66190338145643268cbde998,Python for DS,Vigneshwaran Jeyakumar,2024-04-12 04:11:36,2024-04-12 06:20:36,129,Intern,Not Completed
+66190338145643268cbde999,UI / UX Concept Figma,Rekha Anandan,2024-04-12 04:39:36,2024-04-12 04:31:36,-8,Employee,Completed
+66190338145643268cbde99a,Cloud Platforms,Rishikar B,2024-04-11 23:27:36,2024-04-11 23:43:36,16,Employee,Not Completed
+66190338145643268cbde99b,DevOps Operations,Sourav Kumar,2024-04-11 21:51:36,2024-04-11 22:57:36,66,Intern,Completed
+66190338145643268cbde99c,UI / UX Concept Figma,Hariharan N,2024-04-12 12:46:36,2024-04-12 13:22:36,36,Employee,Not Completed
+66190338145643268cbde99d,SQL,Nivya V,2024-04-12 13:55:36,2024-04-12 17:26:36,211,Employee,Not Completed
+66190338145643268cbde99e,React JS,Ajay S,2024-04-12 02:42:36,2024-04-12 04:35:36,113,Employee,Completed
+66190338145643268cbde99f,ML Basics,Kundan Kumar S,2024-04-12 01:47:36,2024-04-12 03:59:36,132,Employee,Not Completed
+66190338145643268cbde9a0,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-11 17:42:36,2024-04-11 19:00:36,78,Intern,Completed
+66190338145643268cbde9a1,React JS,Himanshu Soni,2024-04-12 03:56:36,2024-04-12 07:53:36,237,Intern,Completed
+66190338145643268cbde9a2,Security Testing,Harish P,2024-04-11 22:51:36,2024-04-11 23:58:36,67,Employee,Not Completed
+66190338145643268cbde9a3,UI / UX Concept Figma,Rekha Anandan,2024-04-11 23:04:36,2024-04-12 00:34:36,90,Intern,Not Completed
+66190338145643268cbde9a4,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 05:48:36,2024-04-12 09:06:36,198,Employee,Completed
+66190338145643268cbde9a5,Quality Assurance Basics,Sivamalini V,2024-04-12 06:22:36,2024-04-12 06:15:36,-7,Employee,Completed
+66190338145643268cbde9a6,DevOps Operations,Lavanya R,2024-04-11 18:24:36,2024-04-11 19:25:36,61,Intern,Completed
+66190338145643268cbde9a7,Cloud Platforms,Rishikar B,2024-04-12 07:02:36,2024-04-12 06:49:36,-13,Employee,Completed
+66190338145643268cbde9a8,ML Basics,Kundan Kumar S,2024-04-11 19:34:36,2024-04-11 22:48:36,194,Employee,Not Completed
+66190338145643268cbde9a9,DevOps Operations,Naveen Kumar S,2024-04-12 11:07:36,2024-04-12 12:57:36,110,Intern,Not Completed
+66190338145643268cbde9aa,Git & Version Control,Vignesh Anantharaj,2024-04-11 23:48:36,2024-04-12 00:29:36,41,Employee,Not Completed
+66190338145643268cbde9ab,ADF,Sathish Kumar V,2024-04-12 02:14:36,2024-04-12 04:39:36,145,Intern,Completed
+66190338145643268cbde9ac,React JS,Shirpi A,2024-04-12 01:06:36,2024-04-12 04:17:36,191,Employee,Completed
+66190338145643268cbde9ad,ADF,Sathish Kumar V,2024-04-11 20:40:36,2024-04-12 00:03:36,203,Intern,Not Completed
+66190338145643268cbde9ae,Security Testing,Disha Matilda B,2024-04-12 06:22:36,2024-04-12 08:37:36,135,Intern,Not Completed
+66190338145643268cbde9af,DevOps Operations,Lavanya R,2024-04-12 10:28:36,2024-04-12 11:04:36,36,Employee,Not Completed
+66190338145643268cbde9b0,React JS,Shirpi A,2024-04-11 17:40:36,2024-04-11 21:25:36,225,Intern,Not Completed
+66190338145643268cbde9b1,React JS,Pichhapati Venkata Naveen,2024-04-11 21:03:36,2024-04-11 23:47:36,164,Employee,Completed
+66190338145643268cbde9b2,Quality Assurance Basics,Sivamalini V,2024-04-11 23:05:36,2024-04-11 23:44:36,39,Employee,Not Completed
+66190338145643268cbde9b3,UI / UX Concept Figma,Rekha Anandan,2024-04-12 12:15:36,2024-04-12 12:07:36,-8,Employee,Completed
+66190338145643268cbde9b4,Data Warehouse - ETL,Ankit Kumar Mishra,2024-04-12 07:42:36,2024-04-12 12:52:36,310,Intern,Not Completed
+66190338145643268cbde9b5,Cloud Platforms,Rishikar B,2024-04-12 10:21:36,2024-04-12 10:47:36,26,Employee,Not Completed
+66190338145643268cbde9b6,Cloud Platforms,Molly Buxton,2024-04-11 16:12:36,2024-04-11 16:39:36,27,Employee,Not Completed
+66190338145643268cbde9b7,SQL,Nivya V,2024-04-11 23:24:36,2024-04-12 02:49:36,205,Employee,Not Completed
+66190338145643268cbde9b8,Git & Version Control,Akkim Balaji C,2024-04-12 13:45:36,2024-04-12 14:20:36,35,Employee,Not Completed
+66190338145643268cbde9b9,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 12:15:36,2024-04-12 12:56:36,41,Employee,Not Completed
+66190338145643268cbde9ba,UI / UX Concept Figma,Dhanasekar Murugan,2024-04-12 12:18:36,2024-04-12 12:17:36,-1,Employee,Completed
+66190338145643268cbde9bb,DevOps Operations,Anto Arokia Mary N L,2024-04-12 04:06:36,2024-04-12 05:25:36,79,Intern,Completed
+66190338145643268cbde9bc,Security Testing,Purvaja Vashistha,2024-04-12 08:45:36,2024-04-12 09:11:36,26,Employee,Completed
+66190338145643268cbde9bd,React JS,Himanshu Soni,2024-04-12 12:07:36,2024-04-12 15:35:36,208,Employee,Completed
+66190338145643268cbde9be,Data Warehouse - ETL,Rajasundar Murugan Nadar C,2024-04-12 02:15:36,2024-04-12 07:21:36,306,Intern,Completed
+66190338145643268cbde9bf,Data Warehouse - ETL,Sriram Krishnamoorthy,2024-04-12 11:49:36,2024-04-12 16:17:36,268,Intern,Not Completed
+66190338145643268cbde9c0,ADF,Sathish Kumar V,2024-04-12 13:53:36,2024-04-12 16:08:36,135,Employee,Not Completed
+66190338145643268cbde9c1,Python for DS,Livin Albert B,2024-04-12 13:39:36,2024-04-12 16:13:36,154,Intern,Not Completed
+66190338145643268cbde9c2,Git & Version Control,Gayathri V,2024-04-12 09:12:36,2024-04-12 10:08:36,56,Intern,Completed
+66190338145643268cbde9c3,Security Testing,Likhitha Gurram,2024-04-12 10:59:36,2024-04-12 13:07:36,128,Intern,Not Completed
+66190338145643268cbde9c4,Cloud Platforms,Kanike Lakshmi Narayana,2024-04-12 13:48:36,2024-04-12 15:12:36,84,Intern,Not Completed
+66190338145643268cbde9c5,Security Testing,Christopher Raj,2024-04-11 17:23:36,2024-04-11 17:45:36,22,Employee,Completed
+66190338145643268cbde9c6,ADF,Divya R,2024-04-11 17:45:36,2024-04-11 20:07:36,142,Employee,Not Completed
+66190338145643268cbde9c7,Git & Version Control,Gayathri V,2024-04-12 08:54:36,2024-04-12 10:36:36,102,Intern,Not Completed
+66190338145643268cbde9c8,React JS,Ajay S,2024-04-11 21:39:36,2024-04-12 00:50:36,191,Intern,Completed
+66190338145643268cbde9c9,SQL,Sameer Basha B,2024-04-12 09:12:36,2024-04-12 12:22:36,190,Intern,Completed
+66190338145643268cbde9ca,Git & Version Control,Akkim Balaji C,2024-04-11 20:00:36,2024-04-11 20:02:36,2,Employee,Completed
+66190338145643268cbde9cb,DevOps Operations,Lavanya R,2024-04-12 02:53:36,2024-04-12 03:10:36,17,Employee,Completed
+66190338145643268cbde9cc,DevOps Operations,Sourav Kumar,2024-04-12 05:07:36,2024-04-12 06:41:36,94,Intern,Not Completed
+66190338145643268cbde9cd,DevOps Operations,Sourav Kumar,2024-04-12 01:34:36,2024-04-12 01:54:36,20,Employee,Completed
+66190338145643268cbde9ce,DevOps Operations,Lavanya R,2024-04-12 05:00:36,2024-04-12 06:44:36,104,Intern,Not Completed
+66190338145643268cbde9cf,SQL,Pooja Nareshsinh Thakur,2024-04-12 09:32:36,2024-04-12 12:40:36,188,Employee,Not Completed
+66190338145643268cbde9d0,Cloud Platforms,Gopinath Ramesh,2024-04-11 15:55:36,2024-04-11 17:23:36,88,Intern,Not Completed
+66190338145643268cbde9d1,ML Basics,Arun Prasanth S,2024-04-11 22:32:36,2024-04-12 00:16:36,104,Employee,Not Completed
+66190338145643268cbde9d2,DevOps Operations,Anto Arokia Mary N L,2024-04-11 23:07:36,2024-04-12 00:57:36,110,Intern,Not Completed
+66190338145643268cbde9d3,Cloud Platforms,Rishikar B,2024-04-12 03:42:36,2024-04-12 04:24:36,42,Intern,Completed
+66190338145643268cbde9d4,Security Testing,Christopher Raj,2024-04-12 11:15:36,2024-04-12 12:29:36,74,Employee,Not Completed
+66190338145643268cbde9d5,React JS,Keerthika Kannan,2024-04-11 18:32:36,2024-04-11 21:03:36,151,Employee,Completed
+66190338145643268cbde9d6,ML Basics,Swatikka C,2024-04-12 05:48:36,2024-04-12 08:09:36,141,Employee,Completed
+66190338145643268cbde9d7,SQL,Nivya V,2024-04-12 03:57:36,2024-04-12 06:22:36,145,Employee,Completed
+66190338145643268cbde9d8,Security Testing,Disha Matilda B,2024-04-12 07:42:36,2024-04-12 09:53:36,131,Intern,Not Completed
+66190338145643268cbde9d9,React JS,Pichhapati Venkata Naveen,2024-04-12 15:06:36,2024-04-12 19:05:36,239,Intern,Not Completed
+66190338145643268cbde9da,UI / UX Concept Figma,Babu G,2024-04-11 23:43:36,2024-04-12 01:19:36,96,Intern,Not Completed
+66190338145643268cbde9db,UI / UX Concept Figma,Siddharth Sridhar,2024-04-11 19:11:36,2024-04-11 19:02:36,-9,Employee,Completed
+66190338145643268cbde9dc,ADF,Ruthraraj R,2024-04-12 08:01:36,2024-04-12 10:19:36,138,Employee,Not Completed
+66190338145643268cbde9dd,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-11 19:30:36,2024-04-11 20:09:36,39,Employee,Not Completed
+66190338145643268cbde9de,Git & Version Control,Akkim Balaji C,2024-04-12 09:28:36,2024-04-12 11:09:36,101,Intern,Not Completed
+66190338145643268cbde9df,Python for DS,Christopher D,2024-04-12 02:38:36,2024-04-12 03:55:36,77,Employee,Not Completed
+66190338145643268cbde9e0,UI / UX Concept Figma,Babu G,2024-04-12 10:25:36,2024-04-12 11:04:36,39,Employee,Not Completed
+66190338145643268cbde9e1,Quality Assurance Basics,Sachinvias Gopalakrishnan,2024-04-12 02:10:36,2024-04-12 02:05:36,-5,Employee,Completed
+66190338145643268cbde9e2,React JS,Keerthika Kannan,2024-04-11 16:18:36,2024-04-11 20:09:36,231,Employee,Not Completed
+66190338145643268cbde9e3,React JS,Keerthika Kannan,2024-04-11 22:44:36,2024-04-12 01:25:36,161,Employee,Not Completed
+66190338145643268cbde9e4,React JS,Pichhapati Venkata Naveen,2024-04-11 23:09:36,2024-04-12 03:06:36,237,Intern,Completed
+66190338145643268cbde9e5,UI / UX Concept Figma,Babu G,2024-04-11 16:14:36,2024-04-11 16:30:36,16,Employee,Completed
+66190338145643268cbde9e6,Git & Version Control,Akkim Balaji C,2024-04-11 19:46:36,2024-04-11 21:25:36,99,Intern,Not Completed
+66190338145643268cbde9e7,React JS,Shirpi A,2024-04-11 22:27:36,2024-04-12 01:55:36,208,Employee,Not Completed
+66190338145643268cbde9e8,SQL,Satyam Pandey S,2024-04-12 02:01:36,2024-04-12 05:52:36,231,Employee,Not Completed
